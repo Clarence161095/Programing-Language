@@ -1,0 +1,4233 @@
+----------------------###----------------------
+----------------------###----------------------
+
+No: 2
+Level: N3
+Name: N3: 上げる (ageru)
+Description: Làm...xong
+Meaning: 
+『上げる』Mẫu câu này dùng để nói đến việc đã hoàn thành hoàn toàn, kết thúc một công việc. Và hành động này phải làm liên tục, kéo dài trong một khoảng thời gian nhất định.
+ Làm…xong…
+
+How to use: 
+ N ✙　を　Vます ✙　上げる
+ N ✙　が　Vます ✙　上がる
+
+
+VD 1:
+やっとレポートを書き上げた。
+Cuối cùng mình cũng đã viết xong báo cáo.
+Yatto repo-to wo kaki ageta.
+VD 2:
+ケーキが焼き上がりましたよ。
+Bánh đã nướng xong rồi.
+Keeki ga yaki agari mashita yo.
+VD 3:
+姉はプレゼントにするマフラーを一晩で編み上げた。
+Chị gái tôi trong một đêm đã đan xong chiếc khăn quàng để làm quà.
+Ane wa purezento ni suru mafura- wo hitoban de ami ageta.
+
+----------------------###----------------------
+
+No: 9
+Level: N3
+Name: N3: ばよかった (ba yokatta)
+Description: Giá mà...thì tốt rồi
+Meaning: 
+『ばよかった』Dùng để thể hiện sự tiếc nuối của người nói về một việc đã làm hoặc đã không làm trong quá khứ.
+ Giá mà…thì tốt rồi
+
+How to use: 
+Vば　✙　よかった
+ Vなければ　✙　よかった
+ Vたら　✙　よかった
+ Vなかったら　✙　よかった
+
+
+VD 1:
+遅刻してしまった。もっと早く家を出ればよかった。
+Tôi đã bị trễ. Giá mà tôi ra khỏi nhà sớm hơn thì tốt rồi.
+Chikoku shite shimatta. Motto ie wo dereba yokatta.
+VD 2:
+田中さんにあんなことを言わなければよかった。
+Giá mà tôi đã không nói những lời như thế với chị Tanaka thì tốt.
+Tanaka san ni anna koto wo iwanakereba yokatta.
+VD 3:
+朝まで待てばよかった。
+Giá mà tôi đợi đến sáng thì tốt biết mấy.
+Asa made mateba yokatta.
+
+----------------------###----------------------
+
+No: 10
+Level: N3
+Name: N3: ば～ほど (ba~hodo)
+Description: Càng...càng
+Meaning: 
+『ば～ほど』Mẫu câu này diễn tả ý khi một sự việc tiến triển, thay đổi thì một sự việc khác cũng tiến triển thay đổi theo.
+ Càng…càng
+
+How to use: 
+Aければ　 Aいほど
+ naならば　naなほど
+ Ⅴば　　  Ⅴるほど
+
+
+VD 1:
+彼のことを知れば知るほど好きになる。
+Càng hiểu về anh ấy thì lại càng thích hơn.
+Kare no koto wo shire ba shiru hodo suki ni naru.
+VD 2:
+荷物は少なければ少ないほどいい。
+Đồ đạc càng ít càng tốt.
+Nimotsu wa sukunakere ba sukunai hodo ii.
+VD 3:
+この本は読めば読むほど面白い。
+Quyển sách này càng đọc càng thấy thú vị.
+Kono hon wa yome ba yomu hodo omoshiroi.
+VD 4:
+考えば考えるほどわからなくなる。
+Càng suy nghĩ càng chẳng hiểu gì.
+Kangae ba kangaeru hodo wakaranaku naru.
+VD 5:
+ゲームは相手が強ければ強いほど面白いです。
+Chơi game mà đối thủ càng mạnh càng thú vị.
+Game wa aite ga tsuyokere ba tsuyoi hodo omoshiroi.
+
+----------------------###----------------------
+
+No: 12
+Level: N3
+Name: N3: ば～のに (ba~noni)
+Description: Thế mà/giá mà
+Meaning: 
+『ば～のに』Dùng thể hiện ý tiếc nuối về sự việc đã xảy ra không như mong muốn của bản thân.
+ Thế mà/giá mà…
+
+How to use: 
+Vば～のに
+ Vたら～のに
+
+
+VD 1:
+パーティー、楽しかったよ。君も行けばよかったのに。
+Bữa tiệc vui lắm đấy. Giá mà bạn cũng đến được thì tốt.
+Paatii, tanoshi katta yo. Kimi mo ikeba yokatta noni.
+VD 2:
+安かったら買うのに。
+Nếu rẻ thì sẽ mua thế mà…
+Yasu kattara kau noni.
+VD 3:
+早く連絡してくればよかったのに。
+Giá mà bạn liên lạc sớm với chúng tôi thì tốt biết mấy.
+Hayaku renraku shite kurereba yokatta noni.
+VD 4:
+夕べの番組は面白かった。あなたも見ればよかったのに。
+Chương trình buổi tối thật thú vị. Giá mà bạn có thể xem thì tốt biết mấy.
+Yuube no bangumi wa omoshiro katta. Anata mo mireba yokatta noni.
+
+----------------------###----------------------
+
+No: 14
+Level: N3
+Name: N3: ばかり (bakari)
+Description: Toàn.../chỉ.../lúc nào cũng
+Meaning: 
+『ばかり』Sử dụng cho những trường hợp mà người nói có suy nghĩ tiêu cực về hành động được lặp đi lặp lại nhiều ,thói quen ấy.
+ Toàn…/chỉ…/lúc nào cũng…
+
+How to use: 
+N/Vて ✙　ばかり だ/で
+ N/Vて　✙　ばかり　の　N
+ Vて 　 ✙　ばかりいる
+
+
+VD 1:
+この店のお客さんは女性ばかりですね。
+Khách của cửa hàng này toàn là nữ giới nhỉ.
+kono mise no okyakusan wa josei bakari desune.
+VD 2:
+弟はテレビを見てばかりいる。
+Em trai tôi dành toàn bộ thời gian của mình xem tivi.
+otouto wa terebi wo mite bakariiru.
+VD 3:
+息子は仕事もしないで遊んでばかりいる。
+Con trai tôi không làm việc mà chỉ có chơi đùa.
+musuko wa shigoto mo shinaide asonde bakariiru.
+VD 4:
+妹は毎日飽きずにカップラーメンばかり食べている。
+Em gái tôi cứ suốt ngày ăn mì hộp mà không chán.
+imouto wa mainichi akizu ni kappuraamen bakari tabeteiru.
+VD 5:
+お金ばかりが全てではない。
+Tiền không phải là tất cả.
+okane bakari ga subete dewa nai.
+VD 6:
+子どもはただ泣いているばかりで、何かあったのか分からなかった。
+Đứa bé cứ khóc suốt từ nãy giờ thôi,tôi chẳng hiểu nó chuyện gì cả.
+kodomo wa tada naiteiru bakaride,nanika attanoka wakaranakatta.
+
+----------------------###----------------------
+
+No: 20
+Level: N3
+Name: N3: ばかりか～も (bakarika～mo)
+Description: Không chỉ có...mà còn
+Meaning: 
+『ばかりか～も』Dùng khi thể hiện sự việc, sự vật có thêm một đặc điểm không tốt ngoài đặc điểm đã biết.Thể hiện sự khó chịu, thất vọng, không hài lòng…
+ Không chỉ có…mà còn…
+
+How to use: 
+Aい/ na/ N/ V普 ✙　ばかりか～（も）
+ Aい/ na/ N/ V普 ✙　ばかりでなく～（も）
+
+
+VD 1:
+あの店は味が悪いばかりか店員の態度も酷い。
+Tiệm đó không chỉ vị dở mà thái độ của nhân viên cũng tệ.
+ano mise wa aji ga warui bakarika tenin no taido mo hidoi.
+VD 2:
+私は漢字ばかりかまだひらがなも書けません。
+Tôi không chỉ chữ hán mà cả hiragana cũng không thể viết.
+watashi wa kanji bakarika mada hiragana mo kakemasen.
+VD 3:
+私の故郷は不便なばかりでなく寒さが厳しい。
+Quê hương của tôi không chỉ bất tiện mà còn lạnh nghiêm trọng.
+watashi no furusato wa fuben na bakaridenaku samusa ga kibishii.
+VD 4:
+あの店は休みの日ばかりでなく普段の日も混んでいます。
+Cửa hàng đó không chỉ ngày nghỉ mà ngày thường cũng đông đúc.
+ano mise wa yasumi no hi bakaridenaku fudan no hi mo konde imasu.
+
+----------------------###----------------------
+
+No: 21
+Level: N3
+Name: N3: べきだ (beki da)
+Description: Phải/nên làm gì
+Meaning: 
+『べきだ』Mẫu câu này được dùng trong trường hợp người nói phải mang ý bắt buộc thực hiện hoặc không thực hiện một hành động nào đó. Mẫu câu này được sử dụng trong cả văn viết và hội thoại thường ngày.
+ Phải/nên làm gì…
+
+How to use: 
+Vる ✙　べき だ/ではない
+ naである ✙　べき だ/ではない
+ Aくある ✙　べき だ/ではない
+ ⊛するべきだ ＝ すべき
+
+
+VD 1:
+約束は守るべきだ。
+Đã hứa thì phải tuân thủ.
+Yakusoku wa mamoru beki da.
+VD 2:
+おもちゃはまず安全であるべきだ。
+Đồ chơi trước hết là phải an toàn.
+Omocha wa mazu anzen de aru beki da.
+VD 3:
+人の迷惑になることをすべきではない。
+Bạn không nên làm phiền người khác.
+Hito no meiwaku ni naru koto wo su beki dewa nai.
+VD 4:
+先生が黒板に書く字は丁寧であるべきだ。
+Các chữ giáo viên viết trên bảng phải cẩn thận.
+Sensei ga kokuban ni kaku ji wa teinei de aru beki da.
+
+----------------------###----------------------
+
+No: 26
+Level: N3
+Name: N3: ちゃった (chatta)
+Description: Làm gì đó mất rồi
+Meaning: 
+『ちゃった』Đây là cách nói ngắn gọn của Vてしまう , diễn tả ý nghĩa : Đã hoàn thành xong một việc gì đó ; đang làm giở một việc gì đó ;  lỡ, tiếc nuối về sự việc đã qua.
+ Làm gì đó mất rồi…
+
+How to use: 
+Vてしまう　✙　ちゃう
+ Vでしまう　✙　じゃう
+
+
+VD 1:
+『あれ？ここにあったチョコレートは？』 『あ、食べちゃった。行けなかった？』
+『Ủa ？ Socola mới ở đây đâu rồi ？』                   『A, ăn mất rồi. Không được hả ？』
+『Are ？ Koko ni atta chokoreeto wa ？』                 『A, tabe chatta. Ikenakatta ？』.
+VD 2:
+試験が終わった！今日は飲んじゃう。
+Kỳ thi kết thúc rồi ! Hôm nay hãy đi uống thôi.
+Shiken ga owatta ! kyou wa non jaou.
+VD 3:
+あ、バス、行っちゃった。
+A, xe buýt đi mất rồi.
+A, basu , icchatta.
+VD 4:
+起きないとと思ったのにまた寝ちゃった。
+Tôi nghĩ rằng phải thức dậy vậy mà tôi lại ngủ thiếp đi.
+Oki naito to omotta noni mata ne chatta.
+
+----------------------###----------------------
+
+No: 33
+Level: N3
+Name: N3: だけしか (dake shika)
+Description: Chỉ ... mà thôi
+Meaning: 
+『だけしか』Dùng để nhấn mạnh ý chỉ có ít hoặc ngoài ra không có cái khác.
+ Chỉ N mà thôi…
+
+How to use: 
+ N だけしか Vない
+
+
+VD 1:
+このコンサートは社員だけしか入れません。
+Buổi hòa nhạc này chỉ hội viên mới vào được.
+kono konsaato wa shain dakeshika hairemasen.
+VD 2:
+今日はお客様が一人だけしか来ませんでした
+Hôm nay chỉ có mỗi một vị khách tới.
+kyou wa okyakusama ga hitori dakeshika kimasendeshita.
+VD 3:
+このクラスでは日本語だけしか使わない。
+Ở lớp học này,mọi người chỉ sử dụng tiếng nhật thôi.
+kono kurasu dewa nihongo dakeshika tsukawanai.
+VD 4:
+私は日本に1年間来たけどひらがなだけしか書けない。
+Tôi đã đến nhật được 1 năm rồi nhưng chỉ có thể viết được hiragana thôi.
+watashi wa nihon ni 1 nenkan kita kedo hiragana dakeshika kakenai.
+VD 5:
+ここにだけしかないよ。
+Chỉ ở đây mới có thôi.
+koko ni dakeshika nai yo.
+VD 6:
+今は君だけしか信じない。
+Bây giờ anh chỉ tin tưởng mỗi mình em thôi.
+Ima wa kimi dake shika shinjinai.
+
+----------------------###----------------------
+
+No: 34
+Level: N3
+Name: N3: だけど (dakedo)
+Description: Nhưng mà
+Meaning: 
+『だけど』Mẫu câu này được dùng khi muốn thể hiện ý vế phía sau có nội dung ngược lại với những gì được dự đoán từ nội dung của vế phía trước. Hiểu 1 cách đơn giản là 2 vế có ý nghĩa trái ngược, tương phản nhau.
+ Mẫu câu này tương tự với けれど、しかし.
+ Nhưng mà…
+
+How to use: 
+A だけど B
+
+
+VD 1:
+旅行に行きたいだけど暇がない。
+Tôi muốn đi du lịch nhưng mà không có rảnh.
+Ryokou ni ikitai dakedo hima ga nai.
+VD 2:
+よくカラオケに行くだけど歌は下手だ。
+Tôi thường đi hát karaoke nhưng mà hát không hay lắm.
+Yoku karaoke ni iku dakedo uta wa heta da.
+VD 3:
+野菜は好きじゃないだけど体にいいから食べる。
+Tôi không thích rau nhưng vì tốt cho cơ thể nên tôi sẽ ăn.
+Yasai wa suki janai dakedo karada ni ii kara taberu.
+VD 4:
+美味しそうだけどお腹一杯だからいらない。
+Trông nó có vẻ ngon nhưng mà vì tôi no rồi nên không cần nữa.
+Oishiso dakedo onaka ippai dakara iranai.
+
+----------------------###----------------------
+
+No: 46
+Level: N3
+Name: N3: ですから (desu kara)
+Description: Vì vậy
+Meaning: 
+『ですから』Dùng khi nêu kết quả, hệ quả của câu trước. Câu đi liền trước thường là nêu lý do, phán đoán, kết quả đương nhiên.
+ Vì vậy …
+
+How to use: 
+A ですから B
+ A: 理由、原因
+ B: 当然の結果、判断
+
+
+VD 1:
+天気予報では午後から雨だそうです。ですから、傘を持っていたほうがいいですよ。
+Theo dự báo thời tiết thì nghe nói là sẽ mưa từ chiều. Vì vậy, cậu nên mang dù theo thì tốt hơn đấy.
+Tenkiyohou dewa gogo kara ame da soudesu. Desu kara, kasa wo motte itta houga ii desu yo.
+VD 2:
+明日から旅行に行きます。ですから申し訳ありませんが、来週のパーティーには出席できません。
+Từ ngày mai sẽ đi du lịch. Vì vậy, xin lỗi nhưng mà tôi không thể tham dự bữa tiệc tuần sau được.
+Ashita kara ryokou ni ikimasu. Desu kara, moushiwake arimasen ga, raishuu no paatii niwa shusseki dekimasen.
+VD 3:
+途中からは入れません。ですから、絶対に遅れないように来てください。
+Bạn không thể vào từ giữa chừng. Vì vậy, hãy chắc chắn là không bị trễ.
+Tochuu kara wa hairemasen. Desu kara, zettai ni okurenai youni kite kudasai.
+VD 4:
+まだ18歳未満ですからお酒を飲めません。
+Tôi vẫn chưa đủ 18 tuổi nên không thể uống rượu.
+Mada 18 sai miman desu kara osake wo nome masen.
+
+----------------------###----------------------
+
+No: 51
+Level: N3
+Name: N3: どんなに～ても (donnani～temo)
+Description: Cho dù có như thế nào/cho dù là bao nhiêu đi nữa
+Meaning: 
+『どんなに～ても』Dùng khi muốn cường điệu hóa sự việc, nhấn mạnh sự việc không thể/ có thể ở mức độ cao.
+
+Thường đi cùng với どんなに / いくら / どんな / いつ / どう / 何度…
+ Cho dù có như thế nào/cho dù là bao nhiêu đi nữa…
+
+How to use: 
+どんなに　／　いくら ✙　Vても
+ どんなに　／　いくら ✙　Aくても
+ どんなに　／　いくら ✙　naでも
+ どんなに　／　いくら ✙　Nでも
+
+
+VD 1:
+ギターを習い始めたがどんなに練習しても全然うまくならない。
+Tôi đã bắt đầu học ghita nhưng dù có luyện tập thế nào đi chăng nữa cũng không thể giỏi được.
+gitaa wo narai hajimeta ga donnani renshuu shitemo zenzen umaku naranai.
+VD 2:
+私はいくらお酒を飲んでも顔色が変わらない。
+Cho dù tôi có uống bao nhiêu rượu đi nữa thì sắc mặt cũng không đổi.
+watashi wa ikura osake wo nondemo kaoiro ga kawaranai.
+VD 3:
+どんなに暑くても寝る時はクーラーを消して寝る。
+Cho dù là nóng cỡ nào thì khi đi ngủ cũng sẽ tắt máy lạnh mà ngủ.
+donnani atsukutemo neru toki wa kuuraa wo keshite neru.
+VD 4:
+ランナーはどんなに苦しくても諦めませんでした。
+Người chạy dù khó khăn như thế nào di chăng nữa cũng không bỏ cuộc.
+rannaa wa donnani kurushikutemo akirame masendeshita.
+VD 5:
+あの人の名前は何度聞いても覚えられない。
+Tên của người kia cho dù có nghe bao nhiêu lần đi chăng nữa cũng không thể nhớ được.
+ano hito no namae wa nando kiitemo oboerarenai.
+
+----------------------###----------------------
+
+No: 57
+Level: N3
+Name: N3: ふりをする (furi wo suru)
+Description: Giả vờ làm gì/Tỏ ra như thể là...
+Meaning: 
+『ふりをする』Diễn tả mặc dù thực tế không phải như vậy nhưng thái độ,hành động tỏ ra như vậy
+ Giả vờ làm gì…/Tỏ ra như thể là…
+
+How to use: 
+ Aい/V      ✙　ふりをする
+ na adj な　✙　ふりをする
+ N の　     ✙　ふりをする
+
+
+VD 1:
+彼女は聞こえないふりをした。
+Cô ấy giả vờ không ngghe thấy.
+Kanojo wa kikoenai furi wo shita.
+VD 2:
+彼は何か探すふりをした。
+Anh ấy giả vờ tìm cái gì đó.
+Kare wa nanika sagasu furi wo shita.
+VD 3:
+犯人は客のふりをして、店に入った。
+Tên tội phạm giả vờ là khách và bước vào tiệm.
+Hannin wa kyaku no furi wo shite,mise ni haitta.
+VD 4:
+日本人のふりをする。
+Tôi giả vờ là người Nhật.
+Nihonjin no furi wo suru.
+VD 5:
+彼はそのことについて知っているふりをしているが本当は知らないと思う。
+Về chuyện đó tôi nghĩ anh ta giả vờ biết nhưng thật ra anh ta không hề biết gì.
+Kare wa sonokoto nitsuite shitteiru furi wo shiteiru ga honto wa shiranai to omou.
+VD 6:
+田中さんは独身のふりをしているが、結婚していて3人子どもがいる。
+Chị Tanaka tỏ ra là độc thân nhưng thật ra đã kết hôn và có những 3 dứa con.
+Tanaka san wa dokushin no furi wo shiteiru ga kekkon shiteite 3 nin kodomo ga iru.
+
+----------------------###----------------------
+
+No: 66
+Level: N3
+Name: N3: がる(garu)
+Description: Ý muốn(của người khác)
+Meaning: 
+『がる』Dùng khi muốn nhắc đến, miêu tả, diễn đạt lại cảm xúc, ý hướng của người khác, không phải của bản thân.
+ Ý muốncủa người khác
+
+How to use: 
+Aい / naな / Vたい　✙ がる
+ Aい / naな / Vたい　✙ がって
+ Aい / naな / Vたい　✙ がらないで
+
+
+VD 1:
+怖がらないでください。
+Đừng có sợ.
+Kowa garanaide kudasai.
+VD 2:
+恥ずかしがらないで、前に出てきてください。
+Đừng xấu hổ, hãy bước ra phía trước.
+Hazukashi garanaide, mae ni detekite kudasai.
+VD 3:
+田中さんが、あなたに会いたがっていましたよ。
+Chị Tanaka đã muốn gặp cậu đấy.
+Tanaka san ga, anata ni aita gatte imashita yo.
+VD 4:
+兄は来られなくて、とても残念ながっていました。
+Anh trai không thể đến được, thật là quá tiếc.
+Ani wa korarenakute, totemo zannen na gatte imashita.
+
+----------------------###----------------------
+
+No: 71
+Level: N3
+Name: N3: ごらん (goran)
+Description: Hãy làm/thử xem...
+Meaning: 
+『ごらん』Được dùng trong trường hợp người nói đưa ra yêu cầu, đề nghị làm việc gì đó đối với người ít tuổi, cấp dưới hay gia đình, bạn bè thân thiết.
+ Hãy làm/thử xem…
+
+How to use: 
+Vて　✙　ごらん（なさい）
+
+
+VD 1:
+分からなかったら先生に聞いてごらん。
+Không hiểu thì hãy hỏi thầy giáo đi.
+Wakarana kattara sensei ni kiite goran.
+VD 2:
+もう一度やってごらんなさい。
+Thử làm một lần nữa xem nào.
+Mou ichido yatte goran nasai.
+VD 3:
+出来るか出来ないか、とにかくやってごらんなさい。
+Làm được hay không, nói chung là cứ làm thử đi.
+Dekiru ka dekinai ka, tonikaku yatte goran nasai.
+VD 4:
+美味しいから、食べてごらん。
+Ngon lắm, ăn thử đi.
+Oishii kara, tabete goran.
+
+----------------------###----------------------
+
+No: 75
+Level: N3
+Name: N3: はずだ (hazu da)
+Description: Chắc chắn là…
+Meaning: 
+『はずだ』Là cấu trúc nói về sự đánh giá, nhận định của người nói, cho rằng sự vật, sự việc đấy là đương nhiên, và kết luận đấy dựa trên một căn cứ nào đó có mức độ chính xác cao.
+ Chắc chắn là…
+
+How to use: 
+ Aい/V（普）✙　はずだ /はずがない
+ na Adj な  ✙　はずだ /はずがない
+ N の       ✙　はずだ /はずがない
+
+
+VD 1:
+田中さんは今、旅行中だから、家にいないはずだ。
+Chị Tanaka bây giờ đang đi du lịch, nên chắc chắn sẽ không có nhà.
+Tanaka san wa, ryokouchuu da kara, ie ni inai hazu da.
+VD 2:
+真面目な田中さんが、無断で休むはずがない。
+Người chăm chỉ như chị Tanaka chắc chắn sẽ không nghỉ mà không có lý do.
+Majime na tanaka san ga, mudan de yasumu hazu ga nai..
+VD 3:
+田中さんはいつもチョコレートを食べていますから、嫌いなはずがない。
+Chị Tanaka luôn ăn socola, vì vậy làm gì có chuyện ghét nó
+Tanaka san wa itsumo chokoleeto wo tabete imasu kara, kirai na hazu ga nai.
+
+----------------------###----------------------
+
+No: 77
+Level: N3
+Name: N3: ほど (hodo)
+Description: Thường...(hơn)
+Meaning: 
+『ほど』Dùng để nói đến một phía, một bên nào đó thì sẽ có đặc điểm hơn/kém hơn như thế nào. Mang tính chất so sánh.
+ Thường…hơn
+
+How to use: 
+Aい/naな　✙ ほど
+ Aい/naな　✙　N ほど
+
+
+VD 1:
+若い人ほど朝寝坊をする。
+Người trẻ tuổi thường ngủ nướng hơn.
+Wakai hito hodo asanebou wo suru.
+VD 2:
+伝統的なものは、古いほど価値がある。
+Những món đồ truyền thống thì cũ sẽ có giá trị hơn.
+Dentouteki na mono wa, furui hodo kachi ga aru.
+VD 3:
+野菜は新しいほど美味しい。
+Rau thường mới thì sẽ ngon hơn.
+Yasai wa atarashii hodo oishii.
+VD 4:
+家やアパートは、駅に近くて便利なほど高い。
+Nhà và căn hộ cho thuê gần ga và tiện lợi thì thường là sẽ đắt.
+Ie ya apa-to wa, eki ni chikakute benri na hodo takai.
+
+----------------------###----------------------
+
+No: 104
+Level: N3
+Name: N3: かける (kakeru)
+Description: Chưa xong/dở dang
+Meaning: 
+『かける』Diễn tả hành động còn chưa kết thúc ,vẫn đang trong quá trình thực hiện, chưa hoàn thành. Hàng động dở dang có thể là có chủ ý hoặc là không có chủ ý.
+ Chưa xong/dở dang…
+
+How to use: 
+Vますかけ　の　N
+ Vますかけだ
+ Vますかける
+
+
+VD 1:
+この本はまだ読みかけだ。
+Tôi vẫn chưa đọc xong quyển sách này.
+Kono hon wa mada yomi kakeda.
+VD 2:
+お風呂に入りかけたときに電話が鳴った。
+Tôi đang ngâm mình trong bồn tắm thì điện thoại reo.
+Ofuro ni hairi kaketa toki ni denwa ga natta.
+VD 3:
+彼は何か言いかけて辞めた。
+Anh ấy đang định nói gì đó thì dừng lại giữa chừng.
+Kare wa nanika ii kakete yameta.
+VD 4:
+母に食べかけのりんごを捨てられた。
+Qủa táo tôi đang ăn dở đã bị mẹ vứt đi mất.
+Haha ni tabe kakeno ringo wo sute rareta.
+VD 5:
+風邪は治りかけたが、またひどくなってしまった。
+Cảm cúm sắp khỏi thì bị nặng trở lại.
+Kaze wa naori kaketa ga,mata hidoku natte shimatta.
+VD 6:
+私は雑誌を見かけるが母に市場に行かせてしまった。
+Tôi đang xem dở quyển tạp chí thì bị mẹ tôi bắt đi chợ.
+Watashi wa zasshi wo mikakeru ga, haha ni ichiba ni ikasete shimatta.
+VD 7:
+この瓶は私の飲みかけのビールだ。
+Cái lon này là lon bia tôi đang uống dở.
+Kono bin wa watashi no nomi kakeno biiru da.
+
+----------------------###----------------------
+
+No: 106
+Level: N3
+Name: N3: かなあ (kanaa)
+Description: Hay sao/mong sao/có...không đây
+Meaning: 
+『かなあ』Dùng trong trường hợp thể hiện sự hi vọng hay sự nghi vấn của bản thân về một vấn đề nào đó. Đa phần có hàm ý sự lo lắng, băn khoăn về sự việc xảy ra.
+ Hay sao/mong sao/có…không đây
+
+How to use: 
+Vる　✙　かなあ
+ Vない　✙　かなあ
+
+
+VD 1:
+バス、早く来ないかなあ。
+Xe buýt không đến sớm hay sao nhỉ.
+Basu, hayaku konai kanaa.
+VD 2:
+この実験、うまくいくかなあ。
+Kỳ thực nghiệm này liệu có suôn sẻ không đây.
+Kono jikken, umaku iku kanaa.
+VD 3:
+今日、富士山が見えるかなあ。
+Hôm nay không biết có nhìn thấy núi Phú Sỹ không đây.
+Kyou, Fujisan ga mieru kanaa.
+VD 4:
+私の料理が好きになるかなあ。
+Mong sao anh ấy sẽ thích đồ ăn mình nấu.
+Watashi no ryouri ga suki ni naru kanaa.
+VD 5:
+あと10分だ。終電に間に合うかなあ。
+Còn 10 phút nữa. Không biết có kịp chuyến tàu cuối không đây.
+Ato 10 pun da. shuuden ni mani au kanaa.
+
+----------------------###----------------------
+
+No: 107
+Level: N3
+Name: N3: 必ずしも～とは限らない (kanarazu shimo~towa kagiranai)
+Description: Không nhất thiết  là...
+Meaning: 
+『必ずしも～とは限らない』Thường dùng trong trường hợp phủ định một mệnh đề, tình huống nào đó không phải áp dụng cho toàn bộ, không phải dùng cho tất cả các trường hợp.
+ Không nhất thiết là/không chắc chắn là…
+
+How to use: 
+必ずしも ✙ Aい/na /N /V普 ✙ とは限らない
+
+
+VD 1:
+お金持ちが必ずしも幸福だとは限らない。
+Giàu có không có nghĩa là chắc chắn sẽ hạnh phúc.
+(O)kanemochi ga kanarazu shimo koufuku da towa kagiranai.
+VD 2:
+高いものが必ずしもいいものだとは限らない。
+Đồ đắt tiền chưa chắc đã là đồ tốt.
+Takai mono ga kanarazu shimo ii mono da towa kagiranai.
+VD 3:
+日本人の日本語が必ずしもすべて正しいとは限らない。
+Tiếng nhật của người Nhật không phải lúc nào cũng đúng hết.
+Nihonjin no nihongo ga kanarazu shimo subete tadashii towa kagiranai.
+
+----------------------###----------------------
+
+No: 126
+Level: N3
+Name: N3: から～にかけて (kara~nikakete)
+Description: Từ...đến
+Meaning: 
+『から～にかけて』Dùng trong trường hợp miêu tả khoảng thời gian, không gian mà điểm bắt đầu và kết thúc không xác định chính xác. Diễn tả ý “suốt trong khoảng giữa hai địa điểm hoặc thời điểm đó…” có sự việc gì đó xảy ra.
+ Từ…đến…
+
+How to use: 
+N1 から N2 にかけて
+ N: 時、場所
+
+
+VD 1:
+明日は昼から夕方にかけて雨でしょう。
+Ngày mai chắc mưa suốt từ trưa đến chiều.
+Ashita wa hiru kara yuugata nikakete ame deshou.
+VD 2:
+九州から本州にかけて梅雨入りました。
+Từ Kyushu tới Honshu đã bước vào mùa mưa.
+Kyuushuu kara Honshuu nikakete tsuyu hairimashita.
+VD 3:
+2月から4月にかけて花粉が飛ぶそうです。
+Từ tháng 2 đến tháng 4 nghe nói phấn hoa sẽ bay.
+2 gatsu kara 4 gatsu nikakete kafun ga tobu soudesu.
+VD 4:
+この服は春から夏にかけて多くの人に着られています。
+Bộ trang phục này từ mùa xuân cho tới mùa hè được khá là nhiều người mặc đấy.
+Kono fuku wa haru kara naru nikakete ooku no hito ni kirarete imasu.
+
+----------------------###----------------------
+
+No: 130
+Level: N3
+Name: N3: 代わりに (kawari ni)
+Description: Thay vì/đổi lại/thay cho
+Meaning: 
+『代わりに』Sử dụng để diễn tả tuy có những điều tốt nhưng bù lại cũng có những điều không tốt hoặc ngược lại.Thể hiện mặt tích cực và tiêu cực của sự vật,vấn đề.
+ Thay vì/đổi lại/thay cho…
+
+How to use: 
+ Aい/V（普） 　✙　代わりに
+ na Adj な  　✙　 代わりに
+ Nの ✙　代わりに
+
+
+VD 1:
+車で来たので、ビールの代わりにジュースをください。
+Bởi vì tôi đến bằng xe hơi,tôi cần một ít nước trái cây thay vì bia.
+kuruma de kita node,biiru no kawarini juusu wo kudasai.
+VD 2:
+日曜日に働いたかわりに今日休みを取りました。
+Đổi lại đã làm việc vào chủ nhật thì tôi đã nghỉ ngày hôm nay.
+nichiyoubi ni hataraita kawarini kyou yasumi wo torimashita.
+VD 3:
+あなたの国では水の代わりにビールを飲むって本当ですか。
+Có đúng là ở nước của bạn người ta uống bia thay cho nước không.
+anata no kuni dewa mizu no kawarini biiru wo nomutte hontou desuka.
+VD 4:
+この地方は買い物に便利で楽な生活を送れる代わりにちょっとうるさい。
+Ở vùng này mua sắm tiện lợi nên có thể sống một cuộc sống thoải mái đổi lại thì hơi ồn ào.
+kono chihou wa kaimono ni benri de rakuna seikatsu wo okureru kawarini chotto urusai.
+
+----------------------###----------------------
+
+No: 133
+Level: N3
+Name: N3:  決して～ない(kesshite~nai)
+Description: Nhất định không/tuyệt đối không
+Meaning: 
+『決して～ない』Dùng khi muốn thể hiện quyết tâm không thực hiện một hành động nào đó.
+ Nhất định không/tuyệt đối không…
+
+How to use: 
+決して　✙　Vない
+ 決して　✙　Aくない
+ 決して　✙　naでない
+ 決して　✙　Nでない
+
+
+VD 1:
+私は決して夢をあきらめません。
+Tôi nhất định không từ bỏ ước mơ.
+Watashi wa kesshite yume wo akirame masen.
+VD 2:
+『噓は決して申しません』と彼は言った。
+Anh ấy đã nói 『Tuyệt đối không nói dối』.
+『Uso wa kesshite moushi masen』to kare wa itta.
+VD 3:
+いろいろお世話になりました。親切にしていただいたことは決して忘れません。
+Cảm ơn bạn đã chăm sóc tôi. Tôi sẽ không bao giờ quên bạn đã đối xử tử tế với tôi.
+Iroiro osewa ni nari mashitab. Shinsetsu nishite itadaita koto wa kesshite wasure masen.
+
+----------------------###----------------------
+
+No: 135
+Level: N3
+Name: N3: きり (kiri)
+Description: Chỉ có/có
+Meaning: 
+『きり』Dùng để nhấn mạnh số lượng ít.
+ Chỉ có/có…
+
+How to use: 
+N　✙　きり
+ N　✙　きりだ
+ N　✙　っきり
+ N　✙　っきりだ
+
+
+VD 1:
+二人きりで話をしたいです。
+Tôi muốn nói chuyện chỉ có 2 người thôi.
+futari kiri de hanashi wo shitai desu.
+VD 2:
+彼に会ったのは一回きりです。
+Gặp anh ta chỉ có 1 lần.
+kare ni atta nowa ikkai kiri desu.
+VD 3:
+一度きりの人生を大切に生きる。
+Sống cuộc sống quý giá chỉ một lần.
+ichido no jinsei wo taisetsu ni ikiru.
+
+----------------------###----------------------
+
+No: 136
+Level: N3
+Name: N3: 切る/切れる/切れない　(kiru/kireru/kirenai)
+Description: Hết/không hết
+Meaning: 
+『切る』Hoàn thành việc gì đó một cách trọn vẹn,triệt để
+ 『切れる』Có thể làm xong việc gì đấy từ đầu đến cuối
+ 『切れない』Không thể xong,không thể hoàn thành việc gì đó do quá nhiều,quá sức…
+ Hết/không hết…
+
+How to use: 
+Vます ✙　切る/切れる/切れない
+
+
+VD 1:
+長い小説を2日間で読み切った。
+Tôi đã đọc xong hết cuốn tiểu thuyết dài trong 2 ngày.
+nagai shousetsu wo futsukakan de yomi kitta.
+VD 2:
+ご飯の量が多くて食べ切れないよ。
+Cơm nhiều quá tôi không thể ăn hết được.
+gohan no ryou ga ookute tabe kirenai yo.
+VD 3:
+数え切れないほどたくさん星が光っている。
+Nhiều ngôi sao đến mức không đếm xuể đang chiếu sáng.
+kazoe kirenai hodo takusan hoshi ga hikatteiru.
+VD 4:
+今日はもう魚を全部売り切れた。
+Hôm nay đã bán hết sạch cá.
+kyou wa mou sakana wo zenbu uri kireta.
+VD 5:
+10キロを走り切るのはすごく大変なことだ。
+Chạy hết những 10 km là 1 việc rất vất vả.
+juu kiro wo hashiri kiru no wa sugoku taihen na koto da.
+VD 6:
+お金を使い切ってしまった。
+Tôi đã tiêu hết tiền mất rồi.
+okane wo tsukai kitte shimatta.
+
+----------------------###----------------------
+
+No: 138
+Level: N3
+Name: N3: っけ (kke)
+Description: Có phải...đúng không/có phải là
+Meaning: 
+『っけ』Dùng nhiều trong hội thoại, đặt ở cuối câu để xác nhận lại những điều được nghe hoặc những gì mà người nói chưa nhớ rõ và muốn hỏi lại.
+ Có phải…đúng không/có phải là…
+
+How to use: 
+Vた　✙　っけ
+ Aかった　✙　っけ
+ na だ / だった　✙　っけ
+ N だ / だった　✙　っけ
+
+
+VD 1:
+国へ帰るのは、来週だったっけ。
+Bạn về nước vào tuần sau có phải không?
+Kuni e kaeru nowa raishuu datta kke.
+VD 2:
+明日のパーティーのこと、話したっけ。
+Chuyện tiệc ngày mai,tôi đã nói chưa nhỉ?
+Ashita no paatii no koto, hanashita kke.
+VD 3:
+いくらだったっけ。
+Bao nhiêu tiền ấy nhỉ?
+Ikura datta kke.
+VD 4:
+彼が何か言ったっけ。
+Anh ấy đã nói gì nhỉ?
+Kare ga nanika itta kke.
+VD 5:
+今日は火曜日だったっけ。
+Hôm nay là thứ ba nhỉ?
+Kyou wa kayoubi datta kke.
+
+----------------------###----------------------
+
+No: 140
+Level: N3
+Name: N3: こそ (koso)
+Description: Chính là.../nhất định là
+Meaning: 
+『こそ』Đi sau N chỉ sự vật,sự việc nào đó,nhằm nhấn mạnh nó.
+ Chính là…/nhất định là…
+
+How to use: 
+ N こそ
+
+
+VD 1:
+明日こそ勉強するぞ！
+Nhất định ngày mai tôi sẽ học!
+ashita koso benkyou suru zo!
+VD 2:
+愛情があるからこそしかるんです。
+Chính vì yêu nên tôi mới mắng.
+aijou ga aru kara koso shikarundesu.
+VD 3:
+これこそ私が読みたい本です。
+Đây chính là quyển sách tôi muốn đọc.
+kore koso watashi ga yomitai hon desu.
+VD 4:
+政府は今年こそ経済が良くなると予測していた。
+Chính phủ dự đoán rằng trong năm nay nền kinh tế sẽ tốt lên.
+seifu wa kotoshi koso keizai ga yoku naruto yosoku shiteita.
+VD 5:
+これこそ私がずっと探していたものです。
+Đây chính là cái mà tôi tìm suốt từ đó đến giờ.
+kore koso watashi ga zutto sagashiteita mono desu.
+
+----------------------###----------------------
+
+No: 142
+Level: N3
+Name: N3: こと (koto)
+Description: Về việc
+Meaning: 
+『こと』Dùng khi nói đến một chủ đề có liên quan đến hành động, sự việc nào đó. Thường dùng với ý nghĩa lịch sự, trang trọng.
+ Về việc…
+
+How to use: 
+Nの          ✙ こと
+ V/A/na/N普   　 ✙ こと
+ naだな 　　✙ こと
+ N だである ✙ こと
+
+
+VD 1:
+来週のテストのことで、質問があります。
+Mình có câu hỏi về kỳ thi tuần sau.
+Raishuu no tesuto no koto de, shitsumon ga arimasu.
+VD 2:
+田中さんが入院したことを知っていますか。
+Cậu có biết việc chị Tanaka đã nhập viện không？
+Tanaka san ga nyuuin shita koto wo shitte imasuka？
+VD 3:
+そんな無理なことを言わないでください。
+Xin đừng nói những điều vô lý như vậy.
+Sonna muri na koto wo iwanai de kudasai.
+
+----------------------###----------------------
+
+No: 143
+Level: N3
+Name: N3: ことだ (koto da)
+Description: Nên/không nên
+Meaning: 
+『ことだ』 Dùng khi khuyên bảo người khác rằng việc đó quan trọng, hoặc gợi ý nên hay không nên làm gì đó.
+ Nên/không nên…
+
+How to use: 
+ Vる　 ✙　ことだ。
+ Vない　✙　ことだ。
+
+
+VD 1:
+ピアノが上手になりたかったら、毎日練習することですよ。
+Nếu bạn muốn trở thành nghệ sĩ dương cầm,hãy luyện tập mỗi ngày.
+Piano ga jouzu ni naritakattara, mainichi renshuu suru koto desu yo.
+VD 2:
+パソコンの使い方を覚えたければ、まず触ってみることだ。
+Nếu bạn muốn học cách sử dụng máy tính,trước tiên bạn nên chạm vào máy tính.
+Pasokon no tsukaikata wo obeta kereba, mazu sawatte miru koto da.
+VD 3:
+健康のためには十分睡眠をとり、ストレスをためないことだ。
+Để có sức khỏe tốt,hãy ngủ ngon và đừng căng thẳng.
+Kenkou no tame ni wa juubun suimin wo tori, sutoresu wo tamenai koto da.
+VD 4:
+やりたい事があるなら、とにかくやってみることです。たとえ失敗しても、得ることがたくさんあると思いますよ。
+Nếu có điều gì đó bạn muốn làm,dù thế nào bạn hãy làm thử.Dù bạn không thành công nhưng tôi nghĩ có rất nhiều thứ bạn lĩnh hội được.
+Yaritai koto ga aru nara, tonikaku yattemiru koto desu. tatoe shippai shitemo, eru koto ga takusan aru to omoimasu yo.
+
+----------------------###----------------------
+
+No: 149
+Level: N3
+Name: N3: ことになる (koto ni naru)
+Description: Sẽ/được quy định là
+Meaning: 
+『ことになる』Diễn tả những kế hoạch không phải do bản thân quyết định. Thường là nhấn mạnh kết quả của sự việc chứ không muốn làm rõ chủ thể đưa ra quyết định đó  khác với ことにする .
+ Sẽ/được quy định là..
+
+How to use: 
+Vる　✙　ことになる
+ Vない　✙　ことになる
+
+
+VD 1:
+明日新しい企画についての会議が行われることになっている。
+Ngày mai sẽ có cuộc họp về kế hoạch kinh doanh mới.
+ashita atarashii kikaku ni tsuite no kaigi ga okonawareru koto ni natte iru.
+VD 2:
+今度、大阪に転勤することになりました。
+Lần này, tôi (bị công ty) chuyển công tác đi osaka.
+kondo, osaka ni tenkin suru koto ni narimashita.
+VD 3:
+急に国へ帰ることになりました。
+Tôi được quyết định là về nước ngay lập tức.
+kyuu ni kuni e kaeru koto ni narimashita.
+VD 4:
+日本では車は道路の左側を運転することになっています。
+Tại nhật bản quy định là oto lái phía bên trái của đường.
+nihon dewa kuruma wa douro no hidarigawa wo unten suru koto ni natte imasu.
+
+----------------------###----------------------
+
+No: 151
+Level: N3
+Name: N3: ことにする (koto ni suru)
+Description: Cố gắng/quyết định(làm gì)
+Meaning: 
+『ことにする』Dùng khi thể hiện ý chủ động của chủ thể trong việc thực hiện hành động là cố gắng, quyết định việc gì.
+ Cố gắng/quyết địnhlàm gì…
+
+How to use: 
+Vる　✙ ことにする
+ Vない　✙ ことにする
+
+
+VD 1:
+毎朝、30分ジョギングすることにしています。
+Mỗi ngày tôi cố gắng chạy bộ 30 phút.
+Maiasa, 30 pun jogingu suru koto ni shite imasu.
+VD 2:
+『あれ？買い物に行かないの？』『うん、明日に行くことにした。』
+『Sao? Không đi mua sắm hả？』    　　　　『Ừ, đã quyết định là ngày mai sẽ đi.』
+『Are? Kaimono ni ikanai no？』  　　　　 『Un, Ashita ni iku koto ni shita.』
+VD 3:
+太らないように夜9時を過ぎたら、私は食べないことにしています。
+Để không bị béo tôi quyết định quá 9 giờ tối sẽ không ăn nữa.
+Futoranai youni yoru 9 ji wo sugi tara, watashi wa tabenai koto ni shite imasu.
+VD 4:
+夏休みに友達と沖縄に旅行することにします。
+Tôi định nghỉ hè sẽ cùng bạn bè đi du lịch Okinawa.
+Natsu yasumi ni tomodachi to Okinawa ni ryokou suru koto ni shimasu.
+
+----------------------###----------------------
+
+No: 152
+Level: N3
+Name: N3: ことはない (koto wa nai)
+Description: Không cần phải
+Meaning: 
+『ことはない』Dùng trong trường hợp muốn nói với đối phương không nhất thiết phải thực hiện một số hành động nào đó. Dù không thực hiện hành động đó vẫn chấp nhận được.
+ Không cần phải..
+
+How to use: 
+Vる　✙　ことはない
+
+
+VD 1:
+君が謝ることはないよ。
+Em không cần phải xin lỗi đâu.
+kimi ga ayamaru koto wa nai yo.
+VD 2:
+来ることはありません。郵送でいいですよ。
+Không cần đến đâu. Gửi bưu điện là được rồi.
+kuru koto wa arimasen. yuusou de ii desu yo.
+VD 3:
+急ぐことはない。ゆっくりでいい。
+Không cần phải gấp đâu. Cứ từ từ là được.
+isogu koto wa nai. yukkuri de ii.
+VD 4:
+買うことはないよ。貸してあげるから。
+Cậu không cần phải mua đâu mà. Vì tớ sẽ cho mượn.
+kau koto wa nai yo. kashite ageru kara.
+
+----------------------###----------------------
+
+No: 153
+Level: N3
+Name: N3:  ことは～が (kotowa~ga)
+Description: Thì...nhưng mà
+Meaning: 
+『ことは～が』Dùng trong trường hợp muốn giải thích, bày tỏ sự thật thấp hơn, không đến mức độ như đối phương nghĩ.
+ Thì…nhưng mà…
+
+How to use: 
+Vる ことは Vる ✙ が / けれど
+ Aい ことは Aい        ✙ が / けれど
+ na ことは na だ ✙ が / けれど
+
+
+VD 1:
+ピアノは弾けることは弾けるが、うまくありません。
+Piano đánh thì biết đánh nhưng không giỏi.
+Piano wa hikeru kotowa hikeru ga, umaku arimasen.
+VD 2:
+このバッグ、高いことは高いけれど、すごく使いやすいです。
+Cái túi này đắt thì có đắt nhưng mà dễ dùng đấy.
+Kono baggu, takai kotowa takai keredo, sugoku tsukai yasui desu.
+VD 3:
+携帯電話は便利なことは便利ですが、なくてもいいと思っています。
+Điện thoại di động tiện lợi thì tiện lợi thật đấy nhưng mà tôi nghĩ không có cũng chẳng sao.
+Keitai denwa wa benri na kotowa benri desu ga, nakutemo ii to omtte imasu.
+
+----------------------###----------------------
+
+No: 155
+Level: N3
+Name: N3: くらい (kurai)
+Description: Đến cỡ/đến mức/cỡ
+Meaning: 
+『くらい』Dùng để nói đến mức độ, quy mô dùng so sánh với sự vật, sự việc.
+ Đến cỡ/đến mức/cỡ…
+
+How to use: 
+ Aい/naな/N/Vる　くらい　✙　だ/に/の N
+ Aい/naな/N/Vる　ぐらい　✙　だ/に/の N
+ Aい/naな/N/Vる　ほど　  ✙　だ/に/の N
+
+
+VD 1:
+それは米粒くらいの大きさです。
+Cái đó có độ lớn cỡ như hạt gạo ấy.
+Sore wa kometsubu kuraino ookisa desu.
+VD 2:
+この洗剤は、おもしろいほど汚れが落ちる。
+Loại nước tẩy này làm vết bẩn trôi đi đến kinh ngạc.
+Kono senzai wa, omoshiroi hodo yogore ga ochiru.
+VD 3:
+あきるほど食べた。
+Đã ăn đến mức ngán luôn.
+Akiru hodo tabeta.
+
+----------------------###----------------------
+
+No: 157
+Level: N3
+Name: N3: くらい～はない (kurai~wanai)
+Description: Cỡ như...thì không
+Meaning: 
+『くらい～はない』Dùng trong trường hợp đề cao mức độ của sự vật, sự việc, con người.
+ Mang ý khẳng định ngoài sự vật, sự việc, con người đó thì không có gì tương đương để thay thế.
+ Cỡ như…thì không
+
+How to use: 
+Nくらい/ ほど　✙　N［人］はいない
+ Nくらい/ ほど　✙　N［物。事］はない
+
+
+VD 1:
+彼女くらい親切な人はいない。
+Người tốt bụng cỡ như cố ấy thì không có đâu.
+Kanojo kurai shinsetsu na hito wa inai.
+VD 2:
+今年ほど雪の降った年はなかった。
+Chưa có năm nào tuyết rơi như năm nay.
+Kotoshi hodo yuki no futta toshi wa nakatta.
+VD 3:
+あの人ほど真面目な人はいない。
+Người nghiêm túc như người đấy thì không có đâu.
+Ano hito hodo majime na hito wa inai.
+
+----------------------###----------------------
+
+No: 158
+Level: N3
+Name: N3: くれと (kure to)
+Description: Được nói/bị nói/bị nhắc nhở
+Meaning: 
+『くれと』Mẫu câu này dùng trong trường hợp được/bị ai đó bảo, nhờ vả, nhắc nhở làm hoặc không làm gì.
+ 『くれと』Thường dùng trong trường hợp thân mật, không cứng nhắc như cấu trúc『なと』
+ Được nói/bị nói/bị nhắc nhở…
+
+How to use: 
+ Vてくれと　　  ✙ 頼まれる/言われる
+ Vないでくれと　✙ 頼まれる/言われる
+
+
+VD 1:
+友達に、田中さんの電話番号を教えてくれと頼まれた。
+Bạn tôi nhờ tôi cho cậu ấy biết số điện thoại của Tanaka.
+Tomodachi ni, Tanaka san no denwabangou wo oshiete kure to tanomareta.
+VD 2:
+大家に玄関の前に自転車を置かないでくれと言われた。
+Tôi bị chủ nhà nhắc nhở là không được đỗ xe đạp trước cửa ra vào.
+Ooya ni genkan no mae ni jitensha wo okanai de kure to iwareta.
+VD 3:
+このことは誰にも言わないでくれと言われたんです。
+Tôi đã được nhắc là không được nói chuyện này cho bất kì ai.
+Kono koto wa dare nimo iwanaide kure to iwaretan desu.
+VD 4:
+夜遅く大きい音でテレビを見ないでくれと言われた。
+Tôi đã được dặn là không xem tivi lớn tiếng vào đêm khuya.
+Yoru osoku ookii oto de terebi wo minaide kure to iwareta.
+
+----------------------###----------------------
+
+No: 161
+Level: N3
+Name: N3: くせに (kuseni)
+Description: Dù.../mà.../lại còn
+Meaning: 
+『くせに』Diễn tả tâm trạng tức giận,quở trách,khinh miệt của người nói đối với người/vật được nói đến.
+ It dùng khi nói trang trọng.
+ Dù…/mà…/lại còn…
+
+How to use: 
+ Aい/V（普）✙　くせに
+ na Adj な　✙　くせに
+ N　の　    ✙　くせに
+
+
+VD 1:
+知っているくせに教えてくれない。
+Dù biết nhưng anh ta không chỉ cho tôi.
+Shitteiru kuseni oshiete kurenai.
+VD 2:
+元気なくせに病気のふりをしている。
+Dù khỏe nhưng cô ta lại giả vờ bị bệnh.
+Genki na kuseni byouki no furi wo shiteiru.
+VD 3:
+男のくせに女みたいだ。
+Mặc dù là con trai nhưng giống con gái quá.
+Otoko no kuseni onna mitai da.
+VD 4:
+出来るくせにやろうとしない。
+Anh ấy dù có thể làm được nhưng không có ý định làm.
+Dekiru kuseni yarou to shinai.
+VD 5:
+彼は若いくせにすぐ疲れたと言う。
+Cậu kia dù còn trẻ thế mà hơi tí là kêu mệt.
+Kare wa wakai kuseni sugu tsukareta to iu.
+
+----------------------###----------------------
+
+No: 164
+Level: N3
+Name: N3: まで (made)
+Description: Cho đến khi
+Meaning: 
+『まで』Dùng trong trường hợp miêu tả điểm đến của một sự việc nào đó.
+ Cho đến khi…
+
+How to use: 
+Vる　✙　まで
+
+
+VD 1:
+映画が始まるまで30分あります。
+Cho đến khi phim bắt đầu còn 30 phút nữa.
+Eiga ga hajimaru made 30 pun arimasu.
+VD 2:
+連絡があるまで待っています。
+Tôi đang đợi cho đến khi có liên lạc.
+Renraku ga aru made matte imasu.
+VD 3:
+合格するまで絶対にあきらめないと決めた。
+Tôi đã quyết định chắc chắn sẽ không bỏ cuộc cho đến khi đỗ mới thôi.
+Goukaku suru made zettai ni akiramenai to kimeta.
+VD 4:
+死ぬまで君を愛してるよ。
+Tôi sẽ yêu em đến khi chết đi mới thôi.
+Shinu made kimi wo aishiteru yo.
+
+----------------------###----------------------
+
+No: 165
+Level: N3
+Name: N3: まで (made)
+Description: Cho đến mức/đến cả
+Meaning: 
+『まで』Dùng khi thể hiện sự ngạc nhiên về mức độ nhiều, quá của vấn đề.
+ Cho đến mức/đến cả…
+
+How to use: 
+N　✙　まで
+
+
+VD 1:
+この魚は骨まで食べられますよ。
+Con cá này có thể ăn đến cả xương cơ đấy.
+Kono sakana wa hone made taberare masu yo.
+VD 2:
+あなたまで私を疑うのですか。
+Đến cả cậu cũng nghi ngờ tớ à?
+Anata made watashi wo utagau no desuka.
+VD 3:
+忙しいのはわかりますが、お正月まで働くんですか。
+Tôi biết là bận nhưng mà làm việc đến tận tết luôn hả?
+Ishogashi nowa wakarimasu ga, oshougatsu made hatarakun desuka.
+VD 4:
+彼は頭がいいし、優しいし、それにスポーツまで出来る。
+Anh ấy vừa thông minh lại hiền lành, hơn thế nữa đến cả thể thao cũng giỏi.
+Kare wa atama ga ii shi, yasashii shi, sore ni supo-tsu made dekiru.
+VD 5:
+地震で家だけじゃなく、家族まで失ってしまった。
+Tại trận động đất không chỉ nhà mà đến cả gia đình tôi cũng đã mất.
+Jishin de ie dake janaku, kazoku made ushinatte shimatta.
+
+----------------------###----------------------
+
+No: 172
+Level: N3
+Name: N3: まま (mama)
+Description: Cứ để nguyên/giữ nguyên
+Meaning: 
+『まま』Diễn tả tình trạng giữ nguyên không thay đổi.
+ Cứ để nguyên/giữ nguyên…
+
+How to use: 
+Aい　/Vた　/Vない　✙　まま
+ na Adj な　✙　まま
+ N の　✙　まま
+
+
+VD 1:
+昨夜は、テレビをつけたまま寝てしまった。
+Tối qua, tôi mở tivi và ngủ quên mất.
+sakuya wa,terebi wo tsuketa mama nete shimatta.
+VD 2:
+この野菜は、生のままで食べても美味しいですよ。
+Rau này ăn sống rất ngon đấy.
+kono yasai wa,nama no mama de tabetemo oishii desu yo.
+VD 3:
+そのまま切らずにお待ちください。
+Xin vui lòng đợi máy.
+sono mama kirazuni omachi kudasai.
+VD 4:
+この村は昔のままだ。
+Ngôi làng này vẫn như xưa.
+kono mura wa mukashi no mama da.
+VD 5:
+エアコンを付けたまま出かけた。
+Tôi ra khỏi nhà mà không tắt điều hòa.
+eakon wo tsuketa mama dekaketa.
+
+----------------------###----------------------
+
+No: 176
+Level: N3
+Name: N3:  まるで～よう (marude~yo)
+Description: Cứ như là/giống như là
+Meaning: 
+『まるで～よう』Dùng trong trường hợp muốn so sánh một sự việc, hành động ở mức cao, tương đương với điều mà người khác không thể hình dung ra nổi, khó tin.
+ Cứ như là/giống như là…
+
+How to use: 
+まるで ✙ Nの/ V普 ✙ よう
+ まるで ✙ Aい / V普 ✙ みたい
+ まるで ✙ Nだ / naだ ✙ みたい
+
+
+VD 1:
+合格した！まるで夢のようだ。
+Đậu rồi! Cứ như là mơ ấy.
+Goukaku shita! Marude yume no you da.
+VD 2:
+彼の日本語はまるで日本人が話しているみたいに聞こえる。
+Tiếng nhật của anh ấy nghe cứ như là đang nói chuyện với người nhật ấy.
+Kare no nihongo wa marude nihonjin ga hanashite iru mitai ni kikoeru.
+VD 3:
+私が聞いたのはまるでうそのような本当の話なんです。
+Những gì tôi nghe là một lời nói dối giống y như một câu chuyện có thật.
+Watashi ga kiita nowa uso no youna hontou no hanashi nan desu.
+
+----------------------###----------------------
+
+No: 180
+Level: N3
+Name: N3: ますように (masu youni)
+Description: Mong sao
+Meaning: 
+『ますように』Thể hiện nguyện vọng thiết tha của người nói.
+ Mong sao…
+
+How to use: 
+Vます ✙　ように
+ Vません ✙　ように
+ Vれます ✙　ように
+
+
+VD 1:
+合格しますように。
+Mong cho mình thi đỗ.
+goukaku shi masu youni.
+VD 2:
+母の病気が治りますように。
+Cầu cho bệnh của mẹ nhanh khỏe.
+haha no byouki ga naori masu youni.
+VD 3:
+インフルエンザにかかりませんように。
+Mong sao mình không bị nhiễm dịch cúm.
+infuruenza ni kakari masen youni.
+VD 4:
+いい仕事が見つかりますように。
+Mong sao bạn tìm được việc làm tốt.
+ii shigoto ga mitsukari masu youni.
+VD 5:
+あなたが無事に家に帰れますように。
+Mong bạn sẽ về đến nhà an toàn.
+anata ga buji ni ie ni kae remasu youni.
+
+----------------------###----------------------
+
+No: 181
+Level: N3
+Name: N3:  まったく～ない (mattaku~nai)
+Description: Hoàn toàn không
+Meaning: 
+『まったく～ない』Dùng khi khẳng định sự vật, sự việc hoàn toàn không có, không thể xảy ra.
+ Hoàn toàn không/chẳng…tí nào…
+
+How to use: 
+まったく　✙　Vない
+ まったく　✙　Aくない
+ まったく　✙　naでない
+
+
+VD 1:
+私はまったく泳げない。
+Tôi hoàn toàn không thể bơi được.
+Watashi wa mattaku oyoge nai.
+VD 2:
+彼が怒っている理由は、私にはまったくわからない。
+Lý do anh ấy nổi giận tôi hoàn toàn không thể hiểu được.
+Kare ga okotte iru riyuu wa, watashi niwa mattaku wakara nai.
+VD 3:
+今が大変で、将来のことはまったく考えられない。
+Bây giờ thật vất vả, tôi hoàn toàn không thể nghĩ về tương lai.
+Ima ga taihen de, shourai no koto wa mattaku kangae rare nai.
+
+----------------------###----------------------
+
+No: 184
+Level: N3
+Name: N3:  めったにない (mettani nai)
+Description: Hiếm khi
+Meaning: 
+『めったにない』Thường dùng trong trường hợp số lượng của sự vật, sự việc rất ít, hầu như hiếm khi có được, xảy ra.
+ Hiếm khi…
+
+How to use: 
+めったに　✙　Vない
+ N は　✙ めったにない
+
+
+VD 1:
+こんなチャンスはめったにないよ。
+Cơ hội như thế này là hiếm có lắm đấy.
+Konna chansu wa mettani nai yo.
+VD 2:
+忙しくてめったに休みが取れない。
+Vì bận nên hiếm khi mà nghỉ được.
+Isogashi kute mettani yasumi ga torenai.
+VD 3:
+彼女は丈夫でめったに病気をしないのに、インフルエンザにかかったらしい。
+Cô ấy rất khỏe mạnh và hiếm khi bị ốm vậy mà có vẻ như đã bị cúm.
+Kanojo wa joubu de mettani byouki wo shinai noni, infuruenza ni kakatta rashii.
+
+----------------------###----------------------
+
+No: 185
+Level: N3
+Name: N3: み (mi)
+Description: Điểm/sự(danh từ)
+Meaning: 
+『み』Được thêm vào sau tính từ để tạo thành danh từ chỉ tình trạng hay tính chất.
+ Hậu tố『み』chỉ có thể thêm vào vào một số tính từ nhất định như: 悲しい、楽しい、弱い、苦しい…
+ Nhiều tính từ có thể được danh từ hóa bằng cách thêm cả hậu tố『さ』và hậu tố『み』nhưng về ý nghĩa có chút khác nhau. Hậu tố『さ』nhấn mạnh mức độ còn hậu tố『み』nhấn mạnh tính chất, tình trạng.
+ 強さđộ mạnh và 強みđiểm mạnh
+ 甘さđộ ngọt và 甘みvị ngọt…
+ Điểm/sựdanh từ…
+
+How to use: 
+Aい ✙ み
+ naな ✙ み
+ 悲しい　ー＞かなしみ
+ 真剣なー＞しんけんみ
+ 強い　　ー＞つよみ
+
+
+VD 1:
+戦争が終わった今でも、この国の苦しみはまだ続いている。
+Hiện tại chiến tranh đã kết thúc nhưng nỗi đau của đất nước này vẫn đang tiếp diễn.
+Sensou ga owatta ima demo, kono kuni no kurushimi wa mada tsuduite iru.
+VD 2:
+田中さんの強みは、2ヵ国語が話せるということです。
+Điểm mạnh của Tanaka là có thể nói được 2 ngôn ngữ.
+Tanaka san no tsuyomi wa, nika kokugo ga hanaseru toiu koto desu.
+VD 3:
+私は少し苦みのあるコーヒーが好きです。
+Tôi thích cà phê có một chút vị đắng.
+Watashi wa sukoshi nigami no aru ko-hi ga suki desu.
+VD 4:
+一位を取りたいから、足の痛みを忘れて走りました。
+Vì muốn giành được vị trí số 1, tôi đã quên đi sự đau đớn của đôi chân và tiếp tục chạy.
+Ichii wo toritai kara, ashi no itami wo wasurete hashiri mashita .
+
+----------------------###----------------------
+
+No: 186
+Level: N3
+Name: N3: みたい (mitai)
+Description: Giống như là.../có vẻ như là.../giống như
+Meaning: 
+『みたい』Thể hiện sự suy đoán của người nói;so sánh những người/vật có tính chất tương tự hoặc là đưa ra ví dụ tiêu biểu để so sánh.
+ Giống như là…/có vẻ như là…/giống như…
+
+How to use: 
+ N/Aい/na/V（普）✙　みたいだ/みたいに
+ N/Aい/na/V（普）　✙　みたいな　✙　N
+
+
+VD 1:
+彼みたいな強い人になりたいんです。
+Tôi muốn trở thành một người mạnh mẽ như anh ấy.
+kare mitaina tsuyoihito ni naritaindesu.
+VD 2:
+彼の話し方は女みたいだ。
+Cách nói chuyện của anh ta như con gái vậy.
+kare no hanashikata ha onna mitaida.
+VD 3:
+リンさんみたいに日本語がうまくなりたい。
+Tôi muốn giỏi tiếng nhật như bạn Linh.
+rin san mitaini nihongo ga umaku naritai.
+VD 4:
+明日は雨みたいね。
+Có vẻ ngày mai trời mưa.
+ashita ha ame mitaine.
+VD 5:
+ここの砂は星みたいな形をしている。
+Cát ở đây có hình như ngôi sao.
+kokono suna ha hoshi mitaina katachi wo shiteiru.
+VD 6:
+このアパートは誰も住んんでいないみたいだ。
+Căn hộ đó có vẻ như không có ai sống.
+kono apaato ha daremo sundeinai mitaida.
+
+----------------------###----------------------
+
+No: 194
+Level: N3
+Name: N3: ものだ (mono da)
+Description: Đã thường làm gì
+Meaning: 
+『ものだ』Dùng để nhắc đến những việc đã xảy ra trong quá khứ không kéo dài đến hiện tại, miêu tả những thói quen, hành động thường xuyên xảy ra. Nhấn mạnh về những kỷ niệm, hồi ức.
+ Đã thường làm gì…
+
+How to use: 
+Vた ✙　ものだ / もんだ
+ Vなかった ✙　ものだ / もんだ
+
+
+VD 1:
+子供のころはよく川で遊んだものだ。
+Hồi còn bé tôi thường chơi đùa ở sông.
+Kodomo no koro wa yoku kawa de asonda mono da.
+VD 2:
+学生時代は毎日図書館へ通ったものだ。
+Thời còn là học sinh mỗi ngày tôi đều đến thư viện.
+Gakusei jidai wa mainichi toshokan e kayotta mono da.
+VD 3:
+前はよくコンサートに行ったものだ。
+Lúc trước tôi thường đi đến buổi hòa nhạc.
+Mae wa yoku konsa-to ni itta mono da.
+VD 4:
+昔はよく父に𠮟られたものです。
+Ngày xưa tôi thường hay bị bố mắng.
+Mukashi wa yoku chichi ni shikarareta mono desu.
+
+----------------------###----------------------
+
+No: 204
+Level: N3
+Name: N3: もし～たなら (moshi~tanara)
+Description: Giả sử là...thì
+Meaning: 
+『もし～たなら』Dùng khi muốn đưa ra giả thuyết về một sự việc không có thật và hệ quả của sự việc không có thật đó.
+ Giả sử là…thì…
+
+How to use: 
+もし　✙ Ⅴたなら
+ もし　✙ A かったなら
+ もし　✙ na/N だったなら
+
+
+VD 1:
+もし試験を受けていたなら、合格していたと思う。
+Giả sử tham gia thi thì tôi nghĩ tôi đã đậu rồi.
+Moshi shiken wo ukete ita nara, goukaku shiteita to omou.
+VD 2:
+もし彼が社長でなかったなら、会社はつぶれていたと思う。
+Nếu anh ấy không phải là giám đốc thì tôi nghĩ công ty đã sụp đổ rồi.
+Moshi kare ga shachou de nakatta nara, kaisha wa tsuburete ita to omou.
+VD 3:
+もし,留学しなかったなら、今ごろは国で結婚しているだろう。
+Nếu không đi du học thì bây giờ ở nước tôi chắc đã kết hôn rồi.
+Moshi, ryuugaku shinakatta nara, imagoro wa kuni de kekkon shiteiru darou.
+
+----------------------###----------------------
+
+No: 205
+Level: N3
+Name: N3: もし～としても (moshi~toshitemo)
+Description: Giả sử là...thì cũng
+Meaning: 
+『もし～としても』Dùng khi nói đến giả định mang tính khả thi thấp. としたって được dùng nhiều trong kaiwa, hội thoại hàng ngày.
+ Giả sử…thì cũng…
+
+How to use: 
+もし✙ Aい/na/N/V普 ✙　としても
+ もし✙ Aい/na/N/V普 ✙　としたって
+
+
+VD 1:
+もし休みが取れたとしても、旅行には行かないつもりです。
+Giả sử là lấy được ngày nghỉ thì tôi cũng không định đi du lịch.
+Moshi yasumi ga toreta toshitemo, ryokou niwa ikanai tsumori desu.
+VD 2:
+もしお金がたくさんあったとしても、そんなものは買わない。
+Nếu có nhiều tiền thì tôi cũng không mua cái đó.
+Moshi okane ga takusan atta toshitemo, sonna mono wa kawanai.
+VD 3:
+もし決勝戦に残ったとしたって、優勝は難しいでしょう。
+Giả sử có đến được vòng chung kết thì chiến thắng cũng sẽ rất khó khăn.
+Moshi kesshousen ni nokotta toshitatte, yuushou wa muzukashii deshou.
+
+----------------------###----------------------
+
+No: 207
+Level: N3
+Name: N3:  もしかすると～かもしれない (moshika suruto~kamo shirenai)
+Description: Có lẽ là/có khả năng là
+Meaning: 
+『もしかすると～かもしれない』Dùng khi miêu tả sự suy đoán của người nói và sự suy đoán này thường dựa trên cảm tính.
+ Có lẽ là/có khả năng là…
+
+How to use: 
+もしかすると / もしかしたら ✙ Aい / V普 ✙ かもしれない
+ もしかすると / もしかしたら ✙ Nだ / naだ ✙ かもしれない
+
+
+VD 1:
+もしかすると彼の話はうそかもしれない。
+Có khả năng câu chuyện của anh ấy là nói dối.
+Moshika suruto kare no hanashi wa uso kamo shirenai.
+VD 2:
+もしかしたら、明日行けないかもしれない。
+Có lẽ ngày mai tớ không thể đi được.
+Moshika shitara, ashita ikenai kamo shirenai.
+VD 3:
+もしかするとあそこに座っている人は有名な人かもしれない。
+Có khả năng người đang ngồi ở chỗ kia là người nổi tiếng.
+Moshika suruto asoko ni suwatte iru hito wa yuumei na hito kamo shirenai.
+VD 4:
+もしかすると、それは偽物かもしれない。
+Có lẽ cái này là đồ giả cũng nên.
+Moshika suruto, sore wa nisemono kamo shirenai.
+
+----------------------###----------------------
+
+No: 208
+Level: N3
+Name: N3: もしも～なら (moshimo~nara)
+Description: Giả sử/nếu...thì/thì cũng
+Meaning: 
+『もしも～なら』Dùng trong trường hợp đưa ra điều kiện giả định.
+ Giả sử/nếu…thì/thì cũng…
+
+How to use: 
+もしも　✙ Aい/na/N/V普 ✙ なら
+ もしも　✙  Aい/na/N/V普 ✙ たら
+ もしも　✙  Aい/Vても
+ もしも　✙  Aい/Vでも
+
+
+VD 1:
+もしも生まれ変われるなら、男になりたい。
+Nếu được sinh ra lần nữa, tôi muốn trở thành con trai.
+Moshimo umare kawareru nara, otoko ni naritai.
+VD 2:
+もしも地震が起きても、この家、丈夫だから倒れない。
+Dù động đất có xảy ra thì căn nhà này rất vững chắc nên sẽ không thể đổ được.
+Moshimo jishin ga okitemo, kono ie, joubu dakara taorenai.
+VD 3:
+あの子にもしものことがあったら、どうしよう。
+Nếu có chuyện gì xảy ra với đứa bé đó thì làm sao đây.
+Anoko ni moshimo no koto ga attara, doushiyou.
+
+----------------------###----------------------
+
+No: 212
+Level: N3
+Name: N3: んだもん (n damon)
+Description: Thì là vì
+Meaning: 
+『んだもん』Dùng để giải thích lý do kèm theo tâm trạng không vui vẻ, khó chịu, thất vọng.
+ Thường dùng trong văn nói thân mật, thông dụng.
+ Thì là vì…
+
+How to use: 
+Aい/V（普）✙（んだ）もん
+ na/N  ✙（んだ）もん
+
+
+VD 1:
+『どうして食べないの？』『だって、まずいんだもん。』
+『Sao cậu không ăn thế ?』                  　　　　　 『Thì vì dở quá mà.』
+『Doushite tabenai 』   　　　　『Datte, mazuin damon.』
+VD 2:
+今日の試験、出来なかった．．．勉強しなかったんだもん、仕方がない
+Kỳ thi hôm nay tôi không thể làm được…Thì là vì không học nên đâu còn cách nào khác.
+Kyou no shiken, dekinakatta… Benkyou shinakattan damon, shikata ga nai.
+VD 3:
+『めずらしいね、君が怒るなんて。』『だって、あまりにも失礼なことを言われたんだもん。』
+『Thật hiếm nhỉ, cậu lại tức giận cơ đấy.』『Thì là vì mình bị người ta nói những câu quá vô lễ.』
+『Mezurashii ne, kimi ga okoru nante.』『Datte, amari nimo shitsurei na koto wo iwaretan damon.』
+
+----------------------###----------------------
+
+No: 213
+Level: N3
+Name: N3: んだって (n datte)
+Description: Nghe nói là
+Meaning: 
+『んだって』Dùng khi muốn tường thuật lại sự việc nghe được, trích dẫn lời của ai đó. Thường dùng trong giao tiếp, hội thoại hàng ngày.
+ Nghe nói là…
+
+How to use: 
+Aい/　V（普）✙　んだって
+ na/　N ✙　なんだって
+ までだって、からだって、だけだって
+
+
+VD 1:
+『田中さん、結婚してるんだって。』『へー、知らなかった。』
+『Chị Tanaka, nghe nói đã kết hôn rồi.』 　　　　　 『Hả, tôi không biết đấy.』
+『Tanaka san, kekkon shiterun datte. 』 　　　　『Heー, shirana katta.』
+VD 2:
+『試験の範囲は教科書の最初から５０ページまでだって。』
+『Phạm vi của kỳ thi nghe nói là từ đầu sách giáo khoa đến trang 50 đấy.』
+『Shiken no hani wa kyoukasho no saisho kara 50 peeji made datte.』
+VD 3:
+『彼女は愛知大学に合格したんだって。』
+『Nghe nói là cô ấy đã đỗ vào trường đại học aichi đấy.』
+『Kanojo wa aichi daigaku ni goukaku shitan datte.』
+VD 4:
+『この店のピザ、おいしいんだって。』
+『Nghe nói pizza tại cửa hàng này rất ngon.』
+『Kono mise no piza, oishiin datte.』
+VD 5:
+『佐藤さん、お酒が嫌いなんだって。』
+『Nghe nói anh Sato ghét rượu.』
+『Satou san, osake ga kirai nan datte.』
+
+----------------------###----------------------
+
+No: 225
+Level: N3
+Name: N3: ないと (nai to)
+Description: Phải/bắt buộc.
+Meaning: 
+『ないと』Dùng để nói đến những hành động bản thân nhận thức là phải làm, bắt buộc làm, không làm không được.
+ Đây là cách nói cảm thán rút gọn của なければなりません.
+ Phải/bắt buộc…
+
+How to use: 
+Vないと
+ Vなくちゃ
+
+
+VD 1:
+明日は早く出かけるから、もう寝ないと。
+Ngày mai vì đi ra ngoài sớm, nên tôi phải ngủ bây giờ.
+ashita wa hayaku dekakeru kara, mou ne nai to.
+VD 2:
+試験まであと一ヶ月だ。頑張って勉強しないと。
+Còn một tháng nữa là đến kỳ thi.Không có gắng học là không xong đâu.
+shiken made ato ikkagetsu da. ganbatte benkyou shi naito.
+VD 3:
+田中さんにメールの返信をしなくちゃ。
+Phải trả lời mail cho chị Tanaka.
+tanaka san ni meeru no henji wo shi naku cha.
+VD 4:
+あ、図書館の本返さないと。
+A,Tôi phải trả lại sách cho thư viện.
+a,toshokan no hon kaesa nai to.
+VD 5:
+間に合わなくなってしまうよ。早く準備しないと。
+Tôi sẽ không đến kịp mất thôi. Phải chuẩn bị nhanh chóng.
+ma ni awanaku natte shimau yo. hayaku junbi shi nai to.
+
+----------------------###----------------------
+
+No: 227
+Level: N3
+Name: N3: ないことはない (naikoto wa nai)
+Description: Không phải là không
+Meaning: 
+『ないことはない』Dùng trong trường hợp muốn nói rằng không phải bản thân phủ định sự việc, sự vật mà muốn bày tỏ lý do, mức độ thấp hơn so với phủ định.
+ Không phải là không…
+
+How to use: 
+Aくない　✙　ことはない
+ na じゃない　✙　ことはない
+ Vない　✙　ことはない
+ Vられない　✙　ことはない
+
+
+VD 1:
+鶏肉は、食べないことはないですが、あまり好きではありません。
+Thịt gà không phải là không ăn mà tôi không thích lắm.
+Toriniku wa, tabenai koto wa nai desuga, amari suki dewa arimasen.
+VD 2:
+走れば間に合わないことはないよ。急ごう！
+Nếu chạy nhanh thì không có chuyện không kịp đâu. Hãy nhanh lên!
+Hashireba ma ni awanai koto wa nai yo. Isogou!
+VD 3:
+車を運転できないことはないんですが、ほとんどしません。
+Không phải là tôi không thể lái xe ôtô mà hầu như không lái thôi.
+Kuruma wo unten dekinai koto wa nain desuga, hotondo shimasen.
+
+----------------------###----------------------
+
+No: 236
+Level: N3
+Name: N3: なんか (nanka)
+Description: Mấy thứ như/mấy chuyện như
+Meaning: 
+『なんか』Dùng khi muốn đánh giá thấp sự việc, sự vật nào đó. Hoặc là người nói muốn nhấn mạnh sự phủ định với sự việc, sự vật, theo sau thường là động từ mang ý phủ định
+ Mấy thứ như/mấy chuyện như…
+
+How to use: 
+Aい/na/N/V普　✙ なんか/なんて/など
+ ［文］　✙ なんか/なんて/など
+
+
+VD 1:
+お化粧なんかしてはいけません。
+Mấy chuyện như trang điểm thì không được.
+Okeshou nanka shitewa ikemasen.
+VD 2:
+納豆なんて嫌いだ。
+Mấy thứ như đậu phụ thối là tôi ghét đấy.
+Nattou nante kirai da.
+VD 3:
+『泣いてるの？』『泣いてなんかいないよ！』
+『Cậu khóc hả？』『Tớ mà khóc gì chứ！』.
+『Naiteru no？』『Naite nanka inai yo！』.
+VD 4:
+日本語でスピーチなどできません。
+Mấy cái chuyện phát biểu bằng tiếng Nhật là tôi không thể đâu.
+Nihong de supi-chi nado dekimasen.
+VD 5:
+こんな天気のいい日に、家の中で仕事なんかしたくない。
+Vào ngày đẹp trời như thế này, mấy cái chuyện như ở nhà làm việc là tôi không muốn làm đâu.
+Konna tenki no ii hi ni, ie no naka de shigoto nanka shitakunai.
+
+----------------------###----------------------
+
+No: 244
+Level: N3
+Name: N3: なと (nato)
+Description: Bị nói/bị nhắc nhở...là hãy làm gì đó
+Meaning: 
+『なと』Dùng khi tường thuật lại một mệnh lệnh người khác giao cho mình.
+ Bị nói/bị nhắc nhở…là hãy làm gì đó…
+
+How to use: 
+V命令形めいれいけい　と　✙　言われる/注意される
+ V命令形めいれいけい　と　✙　しかられる/怒られる
+ Vる　なと　✙　言われる/注意される
+ Vる　なと　✙　しかられる/怒られる
+
+
+VD 1:
+医者に酒を飲むなと言われた。
+Tôi bị bác sĩ nói là không được uống rượu.
+Isha ni sake wo nomu nato iwareta.
+VD 2:
+先生に、もっと勉強しろと言われた。
+Tôi bị giáo viên nhắc là hãy học tập nhiều hơn.
+Sensei ni, motto benkyou shiro to iwareta.
+VD 3:
+父に、もっと早く帰れと注意された。
+Tôi bị bố nhắc nhở là hãy về sớm hơn.
+Chichi ni, motto hayaku kaere to chuui sareta.
+
+----------------------###----------------------
+
+No: 245
+Level: N3
+Name: N3: なぜなら (nazenara)
+Description: Bởi vì
+Meaning: 
+『なぜなら』Dùng để nêu lý do, nguyên nhân của một kết luận, quyết định được nêu ra trước đó.
+ Nếu nói tại sao thì là vì…/ Bởi vì…
+
+How to use: 
+A なぜなら B
+ A なぜかというと B
+ A どうしてかというと B
+ A : 結論
+ B : 原因、理由
+
+
+VD 1:
+来週、国に帰る予定です。なぜなら、親友の結婚式に出席するからです。
+Tuần sau, tôi dự định về nước. Nếu hỏi tại sao thì là vì tôi sẽ tham dự đám cưới của bạn thân.
+Raishuu, kuni ni kaeru yotei desu. nazenara, shinyuu no kekkonshiki ni shusseki suru kara desu.
+VD 2:
+学校を変えた。なぜかというと、僕のレベルのクラスがなかっただ。
+Tôi đã chuyển trường. Nếu nói là tại sao thì là do không có lớp ở trình độ của tôi.
+Gakkou wo kaeta. nazeka toiuto, boku no reberu no kurasu ga nakatta kara da.
+VD 3:
+仕事を辞めたくても辞められません。なぜなら家のローンがあるからです。
+Cho dù tôi muốn nghỉ việc cũng không thể nghỉ được. Nếu hỏi tại sao thì là vì tôi vẫn còn khoản nợ khi mua nhà.
+Shigoto wo yameta kutemo yamerare masen. Nazenara ie no ron ga aru kara desu.
+
+----------------------###----------------------
+
+No: 259
+Level: N3
+Name: N3: に関して (ni kanshite)
+Description: Về/Liên quan đến
+Meaning: 
+『に関して』Diễn tả ý liên quan tới cái gì đó, về cái gì đó, việc gì đó. Thường được sử dụng nhiều trong điều tra, tìm hiểu hoặc nghiên cứu…Đây là cách nói trang trọng, kiểu cách hơn について.
+ Về/Liên quan đến…
+
+How to use: 
+ N に　✙　関して
+ N に　✙  関しては
+ N に　✙　関しても
+ N に　✙　関する＋ N
+
+
+VD 1:
+この問題に関してご意見ありませんか。
+Về vấn đề này,có ai có ý kiến gì không?
+kono mondai nikanshite,go iken arimasenka.
+VD 2:
+この事件に関して新しい情報が入りました。
+Đã có thông tin mới về vụ việc này.
+kono jiken nikanshite atarashii jouhou ga hairimashita.
+VD 3:
+最近テロにかんしてニュースがよく新聞に出ています。
+Gần đây trên báo thường có thông tin về khủng bố.
+saikin tero nikanshite nyuusu ga yoku shinbun ni deteimasu.
+VD 4:
+農業に関する論文を読む。
+Đọc luận văn liên quan đến nông nghiệp.
+nougyou nikansuru ronbun wo yomu.
+
+----------------------###----------------------
+
+No: 260
+Level: N3
+Name: N3: に代わって (ni kawatte)
+Description: Thay cho/thay mặt
+Meaning: 
+『に代わって』Sử dụng khi “làm việc khác,sử dụng cái khác…thay cho một người/một vật vốn có trách nhiệm phải thực hiện.
+ Thay cho/thay mặt/thay thế cho（ai đó）
+
+How to use: 
+Nに  ✙　代わって
+ Nに ✙　代わり
+
+
+VD 1:
+出張中の部長に代わって,私がごあいさつさせていただきます。
+Thay mặt cho trưởng phòng đang đi công tác,tôi xin phép được chào hỏi.
+shucchouchuu no buchou nikawatte,watashi ga goaisatsu sasete itadakimasu.
+VD 2:
+野球にかわり、サッカーが盛んになってきた。
+Thay cho môn bóng chày,bóng đá đã ngày càng trở nên thịnh hành.
+yakyuu nikawari,sakkaa ga sakanni nattekita.
+VD 3:
+父に代わって一言お礼申し上げます。
+Thay mặt cha tôi,tôi có đôi lời cảm tạ.
+chichi nikawatte hitokoto orei moushiagemasu.
+VD 4:
+ビデオにかわりDVDが使われるようになった。
+DVD đã bắt đầu được sử dụng thay thế cho video.
+bideo nikawari DVD ga tsukawareru youni natta.
+
+----------------------###----------------------
+
+No: 264
+Level: N3
+Name: N3: において (ni oite)
+Description: Tại, ở, trong
+Meaning: 
+『において』Mẫu câu chỉ địa điểm, thời gian diễn ra hành động. Đây là cách nói trang trọng, lịch sự.
+ Tại, ở, trong…
+
+How to use: 
+N ✙　において
+
+
+VD 1:
+大阪において、国際会議が行われた。
+Hội nghị quốc tế đã được tổ chức ở Osaka.
+oosaka ni oite kokusaikaigi ga okonawareta.
+VD 2:
+結果はホームページにおいて発表されます。
+Kết quả sẽ được công bố trên trang chủ.
+kekka wa hoomupeeji ni oite happyou sareta.
+VD 3:
+小学校において防災訓練を行います。ご参加ください。
+Tại trường tiểu học sẽ tổ chức buổi huấn luyện phòng chống thiên tai. Mời các bạn tham gia.
+shougakkou ni oite bousaikunren wo okonaimasu.go sanka kudasai.
+
+----------------------###----------------------
+
+No: 280
+Level: N3
+Name: N3: に対して (ni taishite)
+Description: Đối với
+Meaning: 
+『に対して』Dùng để diễn tả quan điểm hay đánh giá.
+ Đối với…
+
+How to use: 
+Nに/［文］のに  ✙　対して
+ Nに/［文］のに  ✙　対し
+ Nに/［文］のに  ✙　対しては
+ Nに/［文］のに  ✙　対しても
+ Nに/［文］のに  ✙　対する　N
+
+
+VD 1:
+田中先生は生徒に対して厳しい。
+Thầy tanaka nghiêm khắc đối với học sinh.
+tanaka sensei wa seito nitaishite kibishii.
+VD 2:
+まじめな長男に対して次男は遊んでばかりで学校もよく休む。
+Đối với người con trai trưởng nghiêm túc thì con trai thứ chỉ chơi và thường nghỉ học.
+majimena chounan nitaishite jinan wa asonde bakaride gakkou mo yoku yasumu.
+VD 3:
+この店の利用する人は、昼間は主婦が多い。それに対して夕方は会社員が多い。
+Những người sử dụng cửa hàng này,ban ngày thì có nhiều bà nội trợ.Mặt khác,vào buổi tối có nhiều nhân viên công ty.
+kono mise wo riyou suruhito wa,hiruma wa shufu ga ooi.sore nitaishite yuugata wa kaishain ga ooi.
+VD 4:
+駅員は乗客に対して電車が遅れている理由を説明した。
+Nhân viên nhà ga giải thích cho hành khách lý do tại sao tàu lại bị chậm trễ.
+ekiin wa joukyaku nitaishite densha ga okureteiru riyuu wo setsumei shita.
+
+----------------------###----------------------
+
+No: 283
+Level: N3
+Name: N3: にとって (ni totte)
+Description: Đối với
+Meaning: 
+『にとって』Được sử dụng đi sau một cá nhân hoặc tổ chức để diễn tả ý “nếu nhìn từ lập trường của người đó hoặc tổ chức đó thì…”
+ Đối với…
+
+How to use: 
+ N に　✙　とって
+ N に　✙　とっては
+ N に　✙　とっても　
+
+
+VD 1:
+あなたにとって、一番大切なものは何ですか。
+Đối với bạn điều quan trọng nhất là gì?
+anata nitotte ichiban taisetsu na mono wa nan desuka.
+VD 2:
+このあたりの人々にとっては車は必需品です。
+Đối với người khu này,oto là thứ thiết yếu.
+kono atari no hitobito ni tottewa kuruma wa hitsujubin desu.
+VD 3:
+親にとって子どもの結婚式は何よりも嬉しい日です。
+Đối với bố mẹ,ngày kết hôn của con cái là ngày vui nhất.
+oya ni totte kodomo no kekkonshiki wa nani yori mo ureshii hi desu.
+VD 4:
+現代人にとって、携帯電話は生活の一部である。
+Đối với người hiện đại thì điện thoại di động là một phần của cuộc sống.
+gendaihito ni totte, keitaidenwa wa seikatsu no ichibu de aru.
+VD 5:
+たばこの煙や匂いは吸わない人にとっては苦痛だ。
+Đối với những người không hút thuốc lá thì khói và mùi thuốc lá là một sự đau khổ.
+tabako no kemuri ya nioi wa suwanaihito ni tottewa kutsuu da.
+
+----------------------###----------------------
+
+No: 284
+Level: N3
+Name: N3: について (ni tsuite)
+Description: Về
+Meaning: 
+『について』Sử dụng để diễn tả ý nghĩa ” liên quan đến/về điều đó…” .Thường sử dụng trong văn nói.
+ ” Về…”
+
+How to use: 
+ Nに 　✙　ついて　
+ Nに 　✙   ついては
+ Nに　 ✙　ついても
+ Nに 　✙　ついて　の　N
+
+
+VD 1:
+日本の文化について勉強しています。
+Tôi đang tìm hiểu về văn hóa Nhật Bản.
+nihon no bunka nitsuite benkyou shiteimasu.
+VD 2:
+この新聞記事について聞きたいことがあります。
+Liên quan đến bài báo thì tôi có điều muốn hỏi.
+kono shinbunkiji nitsuite kikitai koto ga arimasu.
+VD 3:
+あの人について私は何も知りません。
+Tôi không biết gì về người đó cả.
+ano hito nitsuite watashi wa nani mo shirimasen.
+VD 4:
+コンピューターの使い方についての本が欲しい。
+Tôi muốn có một quyển sách về máy tính.
+konpyuutaa no tsukaikata nitsuiteno hon ga hoshii.
+
+----------------------###----------------------
+
+No: 288
+Level: N3
+Name: N3: によれば (ni yoreba)
+Description: Theo... / Dựa vào
+Meaning: 
+『によれば』Diễn tả nguồn thông tin của một sự kiện nào đó.
+ Theo… / Dựa vào….
+
+How to use: 
+ Nに　✙　よれば　
+ Nに 　✙ 　よると
+
+
+VD 1:
+天気予報によれば明日は晴れるらしい。
+Theo dự báo thời tiết thì ngày mai trời có thể nắng.
+tenkiyohou niyoreba ashita wa hareru rashii.
+VD 2:
+さっきの地震はテレビの速報によると震度３度そうだ。
+Theo tin nhanh trên tivi thì trận động đất vừa rồi có chấn độ là 3 độ.
+sakki no jishin wa terebi no sokuhou niyoruto shindo 3 do souda.
+VD 3:
+この雑誌によるとあの店がいいらしい。
+Theo quyển tạp chí này thì quán ăn kia có lẽ ngon.
+kono zassi niyoruto ano mise ga ii rashii.
+VD 4:
+みんなの話によれば彼は辞職するそうだ。
+Theo câu chuyện của mọi người thì có vẻ là anh ấy sắp nghỉ việc.
+mina no hanashi niyoreba kare wa jishoku suru souda.
+
+----------------------###----------------------
+
+No: 291
+Level: N3
+Name: N3: によって (ni yotte)
+Description: Được/bởi
+Meaning: 
+『によって』Diễn đạt chủ thể của động từ,mang nghĩa ” được/bởi…”.
+ Biểu thị nguyên nhân,lý do.
+ Diễn tả phương pháp thực hiện.
+ Diễn tả tùy theo ~ mà khác.
+
+How to use: 
+ Nに 　✙　　よって　　
+ Nに 　✙　　よっては   　
+ Nに 　✙　　より　
+ Nに 　✙　　よる + N　
+
+
+VD 1:
+この本は有名な作家によって書かれました。
+Quyển sách này được viết bởi nhà văn nổi tiếng.
+kono hon wa yuumei na sakka niyotte kakaremashita.
+VD 2:
+不注意によって大事故が起こした。
+Do không chú ý mà đã xảy ra tai nạn lớn.
+fucyuui niyotte daijiko ga okoshita.
+VD 3:
+台風によって屋根が飛ばされた。
+Tại cơn bão mà mái nhà bị thổi bay mất.
+taifuu niyotte yane ga tobasareta.
+VD 4:
+話し合いによって問題を解決する。
+Nên giải quyết vấn đề bằng đối thoại.
+hanashiai niyotte mondai wo kaiketsu suru.
+VD 5:
+新聞によってニュースの伝え方が違う。
+Tùy từng tờ báo mà có cách truyền đạt tin tức khác nhau.
+shinbun niyotte nyuusu no tsutaekata ga chigau.
+
+----------------------###----------------------
+
+No: 293
+Level: N3
+Name: N3: に～れる (ni~reru)
+Description: Bị(ai đó/ cái gì đó)
+Meaning: 
+『に～れる』Thường dùng để nói đến những tình huống gặp khó khăn, khổ sở do một yếu tố nào đó.
+ Động từ được dùng ở thể bị động và chủ thể được thể hiện rõ trong câu vănbị ai đó/ cái gì đó…làm….
+ Bịai đó/ cái gì đó…
+
+How to use: 
+Nに  Vれる
+
+
+VD 1:
+友達の赤ちゃんを抱っこしたら、泣かれてしまった。
+Khi bế con của bạn thì nó đã khóc ré lên.
+Tomodachi no akachan wo dakko shitara, nakarete shimatta.
+VD 2:
+雨に降られて、服が濡れてしまった。
+Bị mắc mưa nên quần áo ướt hết rồi.
+Ame ni fura rete, fuku ga nurete shimatta.
+VD 3:
+父に死なれて、大学を続けられなくなりました。
+Bố mất nên không thể tiếp tục học đại học nữa.
+Chichi ni shina rete, daigaku wo tsuduke rarenaku narimashita.
+
+----------------------###----------------------
+
+No: 295
+Level: N3
+Name: N3: に比べて (nikurabete)
+Description: So với
+Meaning: 
+『に比べて』”So với”…dùng trong mẫu câu so sánh
+
+How to use: 
+ Nに　    ✙　比べ　/　比べて
+ ［文］のに　✙　比べ　/　比べて
+
+
+VD 1:
+試験問題は昨年に比べて易しくなった。
+Đề thi năm nay dễ hơn năm ngoái.
+shikenmondai wa sakunen nikurabete yasashiku natta.
+VD 2:
+店で買うのに比べ、通信販売は便利だが欠点もある。
+So với mua ở cửa hàng thì mua sắm qua mạng tiện lợi hơn nhưng cũng có khuyết điểm.
+mise de kaunoni kurabe,tsuushinhanbai wa benri daga ketten mo aru.
+VD 3:
+東京に比べて大阪のほうが物価が安い。
+So với Tokyo thì ở Osaka giá cả rẻ hơn.
+toukyou nikurabete oosaka nohou ga bukka ga yasui.
+VD 4:
+今年は去年に比べて寒い。
+Năm nay lạnh hơn so với năm ngoái.
+kotoshi wa kyonen nikurabete samui.
+
+----------------------###----------------------
+
+No: 299
+Level: N3
+Name: N3: にしても (nishite mo)
+Description: Cho dù
+Meaning: 
+『にしても』Dùng để cường điệu hóa sự việc rằng dù ở mức độ thấp/cao hơn thì cũng không chấp nhận được.
+ Cho dù…
+
+How to use: 
+Aい/na/N/V普 ✙ にしても
+
+
+VD 1:
+これは、１００円にしても、高いと思う。
+Cái này cho dù là 100 yên thì tôi thấy vẫn đắt.
+Kore wa, 100 en nishite mo, takai to omou.
+VD 2:
+遅れるとは聞いていたけど、それにしても田中さん、遅いね。
+Việc đến trễ thì tôi có nghe rồi nhưng mà cho dù như thế thì chị Tanaka vẫn chậm quá.
+Okureru towa kiiteita kedo, sore nishite mo Tanaka san, osoi ne.
+VD 3:
+今回の試験は合格したにしても、点数はあまり良くないと思う。
+Ngay cả khi tôi vượt qua kỳ thi này, tôi nghĩ điểm số cũng không được tốt lắm.
+Konkai no shiken wa goukaku shita nishite mo, tensuu wa amari yokunai to omou.
+
+----------------------###----------------------
+
+No: 300
+Level: N3
+Name: N3: にしては (nishite wa)
+Description: Vậy mà
+Meaning: 
+『にしては』 Diễn tả 1 việc gì đó khác với suy nghĩ,tưởng tượng.Vế trước 『にしては』miêu tả vấn đề được nói đến ,nhưng vế sau sự thậtlại ngược với suy nghĩ ,tưởng tượng của bạn.
+ Vậy mà…
+
+How to use: 
+Aい/na/N/V普 ✙ にしては
+
+
+VD 1:
+外国人にしては日本語が上手だ。
+Tuy là người nước ngoài nhưng tiếng nhật rất giỏi.
+gaikokujin nishite wa nihongo ga jouzu da.
+VD 2:
+初めてにしては、よくできました。
+Tuy là lần đầu nhưng bạn đã làm rất tốt.
+hajimete nishite wa, yoku dekimashita.
+VD 3:
+たくさん勉強したにしては、低い点数だった。
+Học nhiều thế mà điểm lại thấp.
+takusan benkyou shita nishitewa, hikui tensuu datta.
+VD 4:
+父は50歳にしては若く見える。
+Bố tôi đã 50 tuổi vậy mà trông vẫn còn trẻ.
+chichi wa gojuu sai nishite wa wakaku mieru.
+VD 5:
+日本に来たことがないにしては、日本をよく知っている。
+Tuy chưa đến nhật bản lần nào vậy mà bạn thường biết về nhật nhỉ.
+nihon ni kita koto ganai nishite wa, nihon wo yoku shitteiru.
+
+----------------------###----------------------
+
+No: 304
+Level: N3
+Name: N3: の  (no)
+Description: Việc(danh từ)
+Meaning: 
+『の』Dùng để biến đổi danh từ, động từ, tính từ thành cụm danh từ.
+ Việcdanh từ…
+
+How to use: 
+V/A/na/N普 ✙ の
+ naだな ✙ の
+ N だな ✙ の
+
+
+VD 1:
+田中さんに電話するのをすっかり忘れていました。
+Tôi đã quên khuấy việc điện thoại cho chị Tanaka.
+Tanaka san ni denwa suro no wo sukkari wasurete imashita.
+VD 2:
+日曜日に混んだところへ行くのは、あまり好きではありません。
+Đi đến những nơi đông đúc vào chủ nhật thì tôi không thích lắm.
+Nichiyoubi ni konda tokoro e iku no wa, amari suki dewa arimasen.
+VD 3:
+スポーツを見るのは好きなんですが．．．
+Tôi thích xem thể thao nhưng mà…
+Supo-tsu wo miru no wa suki nan desu ga…
+VD 4:
+私は寝るのが好きです。
+Tôi thích đi ngủ.
+Watashi wa neru no ga suki desu.
+
+----------------------###----------------------
+
+No: 322
+Level: N3
+Name: N3: おかげで (okagede)
+Description: Nhờ vào/nhờ có
+Meaning: 
+『おかげで』Diễn tả sự biết ơn vì nhờ có người/việc được nhắc đến mà đã thành công,đạt được kết quả mong muốn.
+ Nhờ vào/nhờ có…
+
+How to use: 
+ Aい/V普　✙　おかげで　/　おかげだ
+ na Adj な　✙　おかげで　/　おかげだ
+ Nの　✙　おかげで　/　おかげだ
+
+
+VD 1:
+先生のおかげで合格出来ました。
+Nhờ có thầy giáo mà tôi đã thi đỗ.
+sensei no okagede goukaku dekimashita.
+VD 2:
+日本へ来たおかげで日本語が上手になった。
+Nhờ sang nhật mà tôi đã giỏi tiếng nhật.
+nihon e kita okagede nihongo ga jouzu ni natta.
+VD 3:
+いい医者に見てもらったおかげで病院が治した。
+Nhờ có bác sĩ tốt bụng xem giúp tôi nên bệnh đã chữa khỏi.
+ii isha ni mitemoratta okagede byouin ga naotta.
+VD 4:
+彼は能力のおかげで成功した。
+Anh ta đã thành công nhờ vào sự nỗ lực.
+kare wa nouryoku no okagede seikou shita.
+
+----------------------###----------------------
+
+No: 327
+Level: N3
+Name: N3: っぱなし (ppanashi)
+Description: Để nguyên,giữ nguyên
+Meaning: 
+『っぱなし』Dùng để thể hiện tình trạng của sự vật, sự việc được duy trì liên tục trong khi một hành động, sự việc khác diễn ra. Hoặc chỉ đơn giản nói về việc giữ nguyên một tình trạng nào đó.
+ Để nguyên,giữ nguyên…
+
+How to use: 
+Vますっぱなし
+
+
+VD 1:
+窓を開けっぱなしで出てきた。
+Tôi đã để cửa sổ mở mà ra ngoài.
+mado wo akeppanashi de detekita.
+VD 2:
+水を出しっぱなしにしないでください。
+Đừng để nước chảy suốt như vậy.
+mizu wo dashippanashi ni shinaide kudasai.
+VD 3:
+テレビがつけっぱなしですよ。見ない時は消してください。
+Tivi đang bật đấy. Hãy tắt đi khi bạn không xem nó.
+terebi ga tsukeppanashi desu yo. minai toki wa keshite kudasai.
+VD 4:
+服を脱ぎっぱなしにしないで片付けなさい。
+Đừng có cởi nguyên quần áo mà hãy dọn dẹp đi.
+fuku wo nugippanashi ni shinaide kataduke nasai.
+
+----------------------###----------------------
+
+No: 328
+Level: N3
+Name: N3: っぽい (ppoi)
+Description: Giống như là
+Meaning: 
+『っぽい』 Giống như là tính chất/vẻ ngoài giống,có cảm giác giống…
+ Sự khác nhau giữa 『っぽい』và 『みたい』：
+ 『っぽい』thường chỉ so sánh 2 người/vật có tính chất tương tự nhau,gần với nhau.
+ 『みたい』so sánh cả 2 người/vật không liên quan gì đến nhau.
+
+How to use: 
+N ✙ っぽい
+
+
+VD 1:
+あの小学生は大人っぽいです。
+Em học sinh tiểu học kia rất ra dáng người lớn.
+ano shougakusei wa otonappoi desu.
+VD 2:
+この料理は油っぽくていやだ。
+Món ăn này nhiều dầu mỡ quá nên tôi không thích.
+kono ryouri wa aburappokute iyada.
+VD 3:
+これは水っぽい茶ですね。
+Trà này nhạt như nước nhỉ.
+kore wa mizuppoi cha desune.
+VD 4:
+彼は子供っぽいだ。
+Anh ta tính như trẻ con.
+kare wa kodomoppoi da.
+
+----------------------###----------------------
+
+No: 330
+Level: N3
+Name: N3: らしい  (rashii)
+Description: Cảm thấy như là.../giống như là
+Meaning: 
+『らしい』 Diễn tả sự so sánh với 1 vật/người đặc trưng nào đó（ tức là vật/người đó có những tính chất riêng biệt mà vật mang ra so sánh làm cho mình có cảm giác gần giống như thế.
+ Cảm thấy như là…/giống như là…
+
+How to use: 
+N 　✙　らしい　
+
+
+VD 1:
+今日は春らしい暖かい日ですね。
+Ngày hôm nay ấm áp như mùa xuân nhỉ.
+kyou wa haru rashii atatakai hi desune.
+VD 2:
+私は女性らしい洋服はあまり着ない。
+Tôi không hay mặc quần áo nữ tính lắm.
+watashi wa josei rashii youfuku wa amari kinai.
+VD 3:
+彼女はいつもギリギリ会社に間に合う、あなたらしいね。
+Cô ấy lúc nào cũng đến công ty rất sát giờ,thật là giống phong cách của anh quá.
+kanojo wa itsumo girigiri kaisha ni maniau, anata rashiine.
+VD 4:
+明日はよく晴れて秋らしい天気になるでしょう。
+Ngày mai trời nắng và có lẽ nó sẽ giống như thời tiết mùa thu.
+ashita wa yoku harete aki rashii tenki ni naru deshou.
+
+----------------------###----------------------
+
+No: 331
+Level: N3
+Name: N3: れる (reru)
+Description: Bị/được(bị động)
+Meaning: 
+『れる』Dùng để tường thuật lại một sự việc được thực hiện bởi một chủ thể khácchủ thể bị ẩn. Hoặc nói về những việc được biết đến rộng rãi.
+ Động từ được dùng ở mẫu câu này là động từ ở thể bị động.
+ Bị/đượcbị động…
+
+How to use: 
+Vれる V:受身形うけみけい
+ 行くー＞行かれる
+ 見るー＞見られる
+ するー＞される
+
+
+VD 1:
+この本には、詳しく説明は書かれていません。
+Trong cuốn sách này thì hướng dẫn chi tiết không có được viết ra.
+Kono hon niwa kuwashiku setsumei wa kaka reteimasen.
+VD 2:
+入学式は、このホールで行われます。
+Lễ nhập học được tổ chức tại hội trường này.
+Nyuugakushiki wa, kono ho-ru de okonawa remasu.
+VD 3:
+これは世界で一番大きいダイヤモンドだと言われています。
+Cái này được nói là kim cương to nhất thế giới.
+Kore wa sekai de ichiban ookii daiyamondo dato iwarete imasu.
+VD 4:
+昔は、その考えが正しいと思われていた。
+Ngày xưa suy nghĩ đó được xem là đúng đắn.
+Mukashi wa, sono kangae ga tadashii to omowarete ita.
+VD 5:
+この建物は三百年前に建てられました。
+Tòa nhà này được xây dựng cách đây 300 năm về trước.
+Kono tatemono wa sanbyakunen mae ni tate raremashita.
+
+----------------------###----------------------
+
+No: 333
+Level: N3
+Name: N3: さ (sa)
+Description: Độ(danh từ)...
+Meaning: 
+『さ』Dùng khi biến đổi tính từ thành danh từ. Thường dùng với những từ miêu tả tính chất, cảm xúc, mức độ…
+ Độdanh từ…
+
+How to use: 
+Aい ✙ さ
+ naだ ✙ さ
+ 嬉しい　ー＞うれしさ
+ 真面目なー＞まじめさ
+ 良い　　ー＞よさ
+
+
+VD 1:
+大きさは違うが、君と同じかばんを持っているよ。
+Độ lớn khác nhau nhưng tớ cũng có túi giống cậu đấy.
+Ookisa wa chigau ga, kimi to onaji kaban wo motte iru yo.
+VD 2:
+子供に命の大切さを教えなければならない。
+Phải dạy cho trẻ em biết tầm quan trọng của sinh mệnh.
+Kodomo ni inochi no taisetsusa wo oshie nakereba naranai.
+VD 3:
+彼が作った映画には優しさがあふれている。
+Những bộ phim anh ấy sản xuất luôn tràn đầy sự tử tế.
+Kare ga tsukutta eiga niwa yasashisa wo afurete iru.
+VD 4:
+どの作品にも良さがあります。
+Tác phẩm nào cũng có điểm tốt của nó cả.
+Dono sakuhin nimo yosa ga arimasu.
+VD 5:
+私の部屋の広さは、畳でいうと6畳ぐらいだ。
+Độ rộng căn phòng của tôi, nếu tính bằng chiếu thì khoảng 6 chiếu.
+Watashi no heya no hirosa wa, tatami de iuto 6 jou gurai da.
+
+----------------------###----------------------
+
+No: 334
+Level: N3
+Name: N3: さえ (sae)
+Description: Ngay cả.../thậm chí
+Meaning: 
+『さえ』Dùng để nhấn mạnh điều gì đó là dĩ nhiên.
+ Ngay cả…/thậm chí…
+
+How to use: 
+ N　/　Nに　/　Nで　　✙　さえ
+
+
+VD 1:
+そんなこと、子どもでさえ知っている。
+Điều này ngay cả trẻ con cũng biết.
+sonnakoto,kodomo de sae shitteiru.
+VD 2:
+ひらがなさえ書けないんですから漢字なんて書けません。
+Ngay cả hiragana tôi còn không viết được nói đến gì chữ hán.
+hiragana sae kakenaindesukara kanji nante kakemasen.
+VD 3:
+この問題は小学生さえ分かります。
+Câu hỏi này ngay cả học sinh tiểu học cũng hiểu được.
+kono shitsumon wa shougakusei sae wakarimasu.
+VD 4:
+お金がなくてパンでさえ買えない。
+Không có tiền nên ngay cả bánh mì tôi cũng không mua được.
+okane ga nakute pan de sae kaenai.
+VD 5:
+山の上に夏でさえ雪が残っている。
+Thậm chí ngay cả mùa hè tuyết vẫn còn đọng lại trên đỉnh núi.
+yama no ue ni natsu de sae yuki ga nokotteiru.
+VD 6:
+私の故郷は地図にさえ書いてない小さい村です。
+Quê tôi là 1 ngôi làng nhỏ thậm chí còn không có trên bản đồ.
+watashi no furusato wa chizu ni sae kaitenai chiisai mura desu.
+
+----------------------###----------------------
+
+No: 336
+Level: N3
+Name: N3: 最中に (saichuu ni)
+Description: Đúng lúc đang,ngay giữa lúc đang
+Meaning: 
+『最中に』” Đúng lúc đang,ngay giữa lúc đang…”thì có sự việc bất ngờ,ngoài dự đoán xảy ra
+
+How to use: 
+ Nの　✙　最中に　/　最中だ
+ Vている　✙　最中に　/　最中だ
+
+
+VD 1:
+食事の最中に、お客さんが来た。
+Đúng lúc đang ăn cơm thì có khách đến.
+shokuji no saichuuni,okyakusan ga kita.
+VD 2:
+会議をしている最中に携帯電話が鳴った。
+Ngay giữa lúc đang họp thì điện thoại đổ chuông.
+kaigi wo shiteiru saichuuni keitaidenwa ga natta.
+VD 3:
+引っ越しの最中に雨が降り出した。
+Đúng lúc đang chuyển nhà thì trời đổ mưa.
+hikkoshi no saichuuni ame ga furidashita.
+
+----------------------###----------------------
+
+No: 338
+Level: N3
+Name: N3: せいで (seide)
+Description: Vì/do
+Meaning: 
+『せいで』Chỉ nguyên nhân,lý do của việc gì đó,chủ yếu là nguyên nhân dẫn đến kết quả không tốt.
+ Vì/do…
+ “せいか”mang nghĩa “có lẽ là bởi/do…”,chưa xác định chắc chắn.
+
+How to use: 
+ Aい/V（普） 　✙　せいで/せいだ/せいか
+ na Adj な  　✙　せいで/せいだ/せいか
+ Nの ✙　せいで/せいだ/せいか
+
+
+VD 1:
+バスが遅れたせいで、約束の時間に間に合わなかった。
+Do xe buýt đến muộn nên tôi đã không đến kịp giờ hẹn.
+basu ga okureta seide,yakusoku no jikan ni maniawanakatta.
+VD 2:
+事故のせいで約束の時間に遅れてしまった。
+Tại vụ tai nạn mà tôi đến trễ giờ hẹn mất rồi.
+jiko no seide yakusoku no jikan ni okureteshimatta.
+VD 3:
+あいつのせいで先生に𠮟られた。
+Chỉ tại nó mà tôi bị thầy giáo mắng.
+aitsu no seide sensei ni shikarareta.
+VD 4:
+傘を忘れたせいでびしょ濡れになった。
+Chỉ tại quên ô mà tôi đã bị ướt như chuột lột.
+kasa wo wasureta seide bishonure ni natta.
+VD 5:
+疲れたせいか頭が痛い。
+Có lẽ là do mệt nên tôi bị đau đầu.
+tsukareta seika atama ga itai.
+VD 6:
+ゆうべお酒をたくさん飲んだせいか、今日は気分が悪い。
+Chắc là tại tối qua tôi uống nhiều rượu nên hôm nay tinh thần kém.
+yuube osake wo takusan nonda seika,kyou wa kibun ga warui.
+
+----------------------###----------------------
+
+No: 339
+Level: N3
+Name: N3: せてください (sete kudasai)
+Description: Có thể cho phép tôi ~ làm gì
+Meaning: 
+『せてください』Dùng để xin phép đối phương cho mình làm việc gì đó.
+ Có thể cho phép tôi ~ làm gì..
+
+How to use: 
+V（さ）せて　✙　ください
+ V（さ）せて　✙　もらえますか
+ V（さ）せて　✙　もらえませんか
+
+
+VD 1:
+ちょっと気分が悪いので、早く帰らせてください。
+Vì không khỏe lắm nên cho phép tôi về sớm nhé.
+chotto kibun ga warui node, hayaku kaera sete kudasai.
+VD 2:
+あなたの会社のお話を聞せてください。
+Xin hãy kể cho tôi nghe chuyện của công ty bạn.
+anata no kaisha no ohanashi wo kika sete kudasai.
+VD 3:
+手を洗わせてください。
+Xin hãy cho phép tôi rửa tay.
+te wo arawa sete kudasai.
+VD 4:
+今日は熱があるので休ませてください。
+Hôm nay vì bị sốt nên hãy cho phép tôi được nghỉ.
+kyou wa netsu ga aru node yasuma sete kudasai.
+VD 5:
+30分だけここに車は止めさせてもらえませんか。
+Tôi có thể dừng xe ở đây chỉ trong 30 phút được không?
+30 pun dake koko ni kuruma wa tome sasete morae masenka.
+
+----------------------###----------------------
+
+No: 347
+Level: N3
+Name: N3: しかない (shikanai)
+Description: Chỉ có thể
+Meaning: 
+『しかない』Không còn cách nào khác, không còn lựa chọn nào khác.
+ Chỉ có thể…
+
+How to use: 
+Vる ✙　しかない
+
+
+VD 1:
+出来るまで、やるしかない。
+Không có sự lựa chọn nào khác ngoài việc làm tiếp.
+dekiru made, yaru shikanai.
+VD 2:
+治せないから、新しいのを買うしかない。
+Vì tôi không thể sửa nó, tôi chỉ có thể mua một cái mới.
+naosenai kara, atarashii no wo kau shikanai.
+VD 3:
+バスも電車も止まってしまったから、歩くしかない。
+Vì cả xe buýt và tàu điện đều dừng lại, tôi chỉ có thể đi bộ.
+basu mo densha mo tomatte shimatta kara, aruku shikanai.
+
+----------------------###----------------------
+
+No: 353
+Level: N3
+Name: N3: その結果 (sono kekka)
+Description: Kết qủa là
+Meaning: 
+『その結果』Dùng trong trường hợp một sự việc đã xảy ra trong quá khứ là lý do dẫn đến kết quả của sự việc tiếp theo. Được dùng làm từ để nối 2 câu lại với nhau.
+ Kết qủa là…
+
+How to use: 
+A その結果 B
+  A : 過去に起きたこと、原因/理由で起きたこと 
+
+
+VD 1:
+父は人の何倍も努力した。その結果仕事で成功した。
+Bố tôi đã nỗ lực gấp mấy lần người khác. Kết quả là, ông đã thành công trong công việc.
+Chichi wa hito no nanbai mo doryoku shita. Sono kekka, shigoto de seikou shita.
+VD 2:
+3ヶ月ダイエットを続けた。その結果,５キロ瘦せた。
+Tôi đã ăn kiêng liên tục trong 3 tháng. Kết quả là, tôi đã giảm được 5 kg.
+Sanka getsu daietto wo tsuduketa. Sono kekka, 5 kiro yaseta.
+VD 3:
+ほとんど勉強しなかった。その結果、入学試験に落ちてしまった。
+Tôi không học được nhiều. Kết quả là, tôi đã trượt kỳ thi tuyển sinh.
+Hotondo benkyou shinakatta. Sono kekka, nyuugaku shiken ni ochite shimatta.
+
+----------------------###----------------------
+
+No: 354
+Level: N3
+Name: N3: そのために (sono tameni)
+Description: Vì thế/do đó
+Meaning: 
+『そのために』Dùng làm từ nối tiếp diễn lý do, mục tiêu được nêu ra trước đó để tiếp nối đến kết quả.
+ Vì thế/do đó…
+
+How to use: 
+＜目的もくてき・理由りゆう＞。そのため（に）＜結果けっか＞
+
+
+VD 1:
+隣の駅で事故があったらしい。そのために電車が遅れている。
+Nghe nói có tai nạn ở nhà ga gần đây. Vì thế mà tàu điện đang bị trễ.
+tonari no eki de jiko ga atta rashii. sono tameni densha ga okurete iru.
+VD 2:
+留学するつもりだ。そのためにバイトしてお金を貯めている。
+Tôi định đi du học. Vì thế tôi đi làm thêm và để dành tiền.
+ryuugaku suru tsumori da. sono tameni baito shite okane wo tamete iru.
+VD 3:
+彼はもともと心臓が悪かった。そのためあのニュースを聞いたショックで急死したらしい。
+Vốn dĩ ban đầu tim của anh ấy đã không tốt. Vì vậy có vẻ như anh ấy đã chết đột ngột với một cú sốc khi nghe tin tức đó.
+kare wa motomoto shinzou ga warukatta. sono tame ano nyuusu wo kiita shokku de kyuushi shita rashii.
+
+----------------------###----------------------
+
+No: 355
+Level: N3
+Name: N3: その上 (sono ue)
+Description: Thêm vào đó/hơn nữa
+Meaning: 
+『その上』Thường dùng trong trường hợp muốn bổ sung một đặc điểm nữa của sự vật, sự việc, con người.
+ Thường dùng với hàm ý khen ngợi, nâng cao hơn nữa.
+ Thêm vào đó/hơn nữa…
+
+How to use: 
+A その上 B
+
+
+VD 1:
+この店の料理は美味しい。その上値段も安い。
+Đồ ăn ở tiệm này ngon. Hơn nữa giá cũng rẻ.
+Kono mise no ryouri wa oishii. Sono ue nedan mo yasui.
+VD 2:
+彼は、頭がいい。その上スポーツ何でもできる。
+Anh ấy đầu óc thông minh. Hơn thế nữa môn thể thao nào cũng chơi được.
+Kare wa, atama ga ii. Sono ue supo-tsu nandemo dekiru.
+VD 3:
+雨が降り出し。その上風も吹き出した
+Trời bắt đầu mưa. Thêm vào đó gió cũng thổi ra.
+Ame ga furi dashi. Sono ue kaze mo haki dashita.
+
+----------------------###----------------------
+
+No: 363
+Level: N3
+Name: N3: それと (sore to)
+Description: Và/vẫn còn
+Meaning: 
+『それと』Dùng khi muốn thêm, gia tăng số lượng của sự vật, sự việc, con người.
+ Và/vẫn còn…
+
+How to use: 
+A それと B
+ A あと B
+
+
+VD 1:
+レタスひとつとトマト３個ください。それと、ピーマンも１袋ください。
+Cho tôi 1 bó rau diếp và 3 quả cà chua. Và 1 túi ớt.
+Retasu hitotsu to tomato 3 ko kudasai. Sore to, pi-man mo hito fukuro kudasai.
+VD 2:
+言われたことはしました。あと、何をすればいいですか。
+Tôi đã làm những gì được bảo. Và tôi nên làm gì khác nữa.
+Iwareta koto wa shimashita. Ato, nani wo sureba ii desuka.
+VD 3:
+『今日はこれで全員かな。』『あと、田中さんが来ると思います。』
+『Hôm nay ở đây là toàn bộ nhân viên rồi hay sao nhỉ.』『 Tôi nghĩ vẫn còn cậu Tanaka sắp đến.』
+『Kyou wa kore de zenin kana.』『 Ato, Tanaka san ga kuru to omoi masu.』
+VD 4:
+名前を書きましたか。それとID番号も忘れずに書いてください。
+Bạn đã viết tên chưa. Và đừng quên là phải viết số ID<br> nữa đấy.
+Namae wo kaki mashita ka. Sore to ID bangou mo wasurezu ni kaite kudasai.
+
+----------------------###----------------------
+
+No: 364
+Level: N3
+Name: N3: それとも (sore tomo)
+Description: Hay là/hoặc là
+Meaning: 
+『それとも』Dùng khi muốn liên kết 2 câu hỏi, nhằm đưa ra nhiều sự lựa chọn cho đối phương.
+ Hay là/hoặc là…
+
+How to use: 
+A？ それとも B？
+
+
+VD 1:
+コーヒーにしますか。それとも紅茶にしますか。
+Cậu uống cà phê？ Hay là uống trà？
+Ko-hi- ni shimasu ka. Sore tomo koucha ni shimasu ka.
+VD 2:
+来週にしましょうか。それともさ来週がいいですか。
+Quyết định tuần sau？ Hay là tuần sau nữa thì hơn？
+Raishuu ni shimashou ka. Sore tomo saraishuu ga ii desuka.
+VD 3:
+話し合って決めましょうか。それとも私が決めてしまってもいいですか。
+Bàn bạc rồi quyết định？ Hay là tôi tự quyết cũng được？
+Hanashi atte kime mashou ka. Sore tomo watashi ga kimete shimattemo ii desuka.
+
+----------------------###----------------------
+
+No: 374
+Level: N3
+Name: N3:  少しも～ない (sukoshimo~nai)
+Description: Một chút cũng không
+Meaning: 
+『少しも～ない』Dùng để nhấn mạnh sự phủ định.
+ Một chút cũng không/hoàn toàn không…
+
+How to use: 
+少しも / ちっとも　✙　Vない
+ 少しも / ちっとも　✙　Aくない
+ 少しも / ちっとも　✙　naでない
+
+
+VD 1:
+あの人が話す英語は少しもわからない。
+Tôi một chút cũng không hiểu tiếng anh của người kia nói.
+Ano hito ga hanasu eigo wa sukoshi mo wakaranai.
+VD 2:
+スタイルのことは少しも気にならない。
+Về style thì tôi chẳng quan tâm một chút nào.
+Sutairu no koto wa sukoshi mo ki ni naranai.
+VD 3:
+日本語は少しもしか話せません。
+Tôi chỉ có thể nói được một ít tiếng nhật.
+Nihongo wa sukoshi mo shika hanase masen.
+VD 4:
+食事の量を減らしてダイエットしているのにちっとも瘦せないんです。
+Tôi đang ăn kiêng và giảm lượng đồ ăn vậy mà chẳng gầy tẹo nào.
+Shokuji no ryou wo herashite daietto wo shiteiru noni chitto mo yasenain desu.
+
+----------------------###----------------------
+
+No: 381
+Level: N3
+Name: N3: たところ (ta tokoro)
+Description: Sau khi thử làm
+Meaning: 
+『たところ』Dùng trong trường hợp muốn nói đến sự ngạc nhiên, mức độ trầm trọng của vấn đề sau khi thử làm gì đó.
+ Sau khi thử làm…
+
+How to use: 
+Vた ✙　ところ
+
+
+VD 1:
+先生に今度のテストの範囲を聞いたところ、10課までだと言われた。
+Sau khi hỏi thầy giáo phạm vi bài kiểm tra lần này thì đã được nói là đến bài 10.
+Sensei ni kondo no tesuto no hani wo kiita tokoro, 10 ka made dato iwareta.
+VD 2:
+歯が痛いので歯医者さんに行ったところ、ひどい虫歯になっていると言われた。
+Vì răng đau nên sau khi thử đến nha sĩ thì đã được nói là đã trở thành răng sâu nghiêm trọng rồi.
+Ha ga itai node haisha san ni itta tokoro, hidoi mushiba ni natte iru to iwareta.
+VD 3:
+駅員に聞いたところ、落とし物は届いていた。
+Sau khi hỏi thử nhân viên nhà ga thì đồ đánh rơi đã đến.
+Ekiin ni kiita tokoro, otoshimono wa todoite ita.
+
+----------------------###----------------------
+
+No: 382
+Level: N3
+Name: N3: たとたんに (ta totan ni)
+Description: Vừa mới(làm gì)thì...
+Meaning: 
+『たとたんに』Dùng trong trường hợp một sự việc xảy ra ngay khi một hành động nào đó vừa được thực hiện. Vế sau không dùng các mẫu câu nghĩa chủ động  tha động từ  hoặc dùng để sai khiến, bắt buộc.
+ Vừa mớilàm gìthì…
+
+How to use: 
+ Vた　✙　とたん
+ Vた　✙　とたんに
+ Vた。そのとたん～
+
+
+VD 1:
+窓を開けたとたん強い風が入ってきた。
+Đúng lúc vừa mở cửa sổ thì một cơn gió mạnh thổi ùa vào.
+mado wo aketa totan tsuyoi kaze ga haittekita.
+VD 2:
+お酒を飲んだとたん顔が赤くなった。
+Vừa mới uống rượu vào mặt của tôi đã đỏ ngay.
+osake wo nonda totan kao ga akaku natta.
+VD 3:
+立ち上がったとたんに目眩がした。
+Vừa mới đứng dậy thì đã bị hoa mẳt.
+tachi agatta totan ni memai ga shita.
+
+----------------------###----------------------
+
+No: 383
+Level: N3
+Name: N3: たびに (tabi ni)
+Description: Mỗi khi,mỗi lần
+Meaning: 
+『たびに』Dùng trong trường hợp nhắc đến một sự việc thường xảy ra mỗi khi có một tình huống cụ thể nào đó.
+ Mỗi khi,mỗi lần…
+
+How to use: 
+N の　✙　たびに / たび
+ Vる　✙　たびに / たび
+ Vる。その　✙　たびに / たび
+
+
+VD 1:
+買い物のたびに袋をたくさんもらう。
+Mỗi lần đi mua sắm thường nhận được nhiều túi.
+kaimono no tabi ni fukuro wo takusan morau.
+VD 2:
+この曲を聞くたびに故郷を思い出す。
+Mỗi lần nghe khúc nhạc này tôi lại nhớ về quê hương.
+kono kyoku wo kiku tabi ni furusato wo omoidasu.
+VD 3:
+お子さん、会うたびに大きくなられますね。
+Đứa bé, mỗi lần gặp lại lớn hơn nhỉ.
+okosan, au tabi ni ookiku narare masu ne.
+VD 4:
+お隣の人は旅行のたびにお土産を買ってきてくれます。
+Hàng xóm mỗi lần đi du lịch là họ lại mua quà cho tôi.
+o tonari no hito wa ryokou no tabi ni omiyage wo katte kite kuremasu.
+
+----------------------###----------------------
+
+No: 394
+Level: N3
+Name: N3: たて (tate)
+Description: Mới...xong
+Meaning: 
+『たて』Là cách diễn tả ” tình trạng vừa mới thực hiện,làm xong…” hoặc dùng trong trường hợp cái gì đấy vừa mới xảy ra và vẫn còn nhìn thấy.
+ Mới…xong
+
+How to use: 
+Vますたて　の　N
+ Vますたてだ
+
+
+VD 1:
+焼きたてのパンは美味しい。
+Bánh mì mới nướng rất ngon.
+yaki tate no pan wa oishii.
+VD 2:
+あのスーパーはとりたての新鮮な野菜を売っている。
+Siêu thị kia bán rau tươi vừa mới hái.
+ano suupaa wa toritate no shinnen na yasai wo utteiru.
+VD 3:
+このポテトは揚げたてだよ。
+Món khoai tây này vừa mới chiên đấy.
+kono poteto wa agetate dayo.
+VD 4:
+塗りたてのペンキ。
+Sơn vừa mới quét.
+nuri tate no penki.
+VD 5:
+洗いたてのシャツ。
+Chiếc áo vừa mới giặt xong.
+arai tate no shatsu.
+VD 6:
+彼女は先生になりたてだ。
+Cô ấy vừa mới trở thành giáo viên.
+kanojo wa sensei ni naritate da.
+
+----------------------###----------------------
+
+No: 395
+Level: N3
+Name: N3:  たとえ～ても (tatoe~temo)
+Description: Giả sử/thậm chí là...thì cũng
+Meaning: 
+『たとえ～ても』Dùng khi muốn nhấn mạnh ý khẳng định một sự việc, hành động nào đó bất chấp có điều kiện khác xảy ra.
+ Giả sử/thậm chí là…thì cũng…
+
+How to use: 
+たとえ  ✙  Vても
+ たとえ  ✙  Aくても
+ たとえ  ✙  naでも
+ たとえ  ✙  Nでも
+
+
+VD 1:
+たとえ反対されても留学します。
+Giả sử có bị phản đối đi chăng nữa thì tôi cũng sẽ đi du học.
+Tatoe hantai sare temo ryuugaku shimasu.
+VD 2:
+たとえ元気じゃなくても、家族への手紙には元気だと書きます。
+Cho dù không khỏe thì trong thư viết cho gia đình cũng sẽ viết là khỏe.
+Tatoe genki janaku temo, kazoku e no tegami niwa genki dato kakimasu.
+VD 3:
+たとえ給料が高くてもあんな仕事はしたくない。
+Giả sử là lương có cao đi chăng nữa thì tôi cũng không muốn làm cái công việc như thế.
+Tatoe kyuuryou ga takaku temo anna shigoto wa shitakunai.
+
+----------------------###----------------------
+
+No: 399
+Level: N3
+Name: N3: てはじめて (te hajimete)
+Description: Làm gì đó thì bắt đầu
+Meaning: 
+『てはじめて』Thường dùng trong trường hợp sau khi thực hiện hành động nào đó thì mới bắt đầu nhận thức được, hiểu được một vấn đề nào đó.
+ Làm gì đó thì bắt đầu…
+
+How to use: 
+Vて　✙　はじめて
+
+
+VD 1:
+先生に注意されてはじめて、漢字の間違いに気が付いた。
+Được thầy giáo nhắc nhở thì tôi bắt đầu đã nhận ra lỗi sai hán tự.
+Sensei ni chuui sarete hajimete, kanji no machigai ni ki ga tsuita.
+VD 2:
+歌舞伎を見てはじめて、日本文化に興味を持った。
+Xem ca vũ kịch thì bắt đầu đã có hứng thú với văn hóa Nhật bản.
+Kabuki wo mite hajimete, nihon bunka ni kyoumi wo motta.
+VD 3:
+入院してはじめて、健康の重要さが分かりました。
+Mãi đến khi tôi nhập viện, tôi mới hiểu được tầm quan trọng của sức khỏe.
+Nyuuin shite hajimete, kenkou no juuyou sa ga wakari mashita.
+
+----------------------###----------------------
+
+No: 400
+Level: N3
+Name: N3: てほしい (te hoshii)
+Description: Muốn(ai đó)làm gì
+Meaning: 
+『てほしい』Sử dụng để diễn đạt mong muốn,nguyện vọng của người nói đối với người nghe hoặc người nào đó.Thể hiện mong muốn ai đó làm hoặc không làm điều gì đó cho mình.
+ Muốnai đólàm gì…
+
+How to use: 
+ Vて  ✙　ほしい/もらいたい
+ Vないで　✙　ほしい/もらいたい
+
+
+VD 1:
+この話は他の人に言わないでほしいです。
+Chuyện này mong bạn đừng nói cho người khác biết.
+kono hanashi wa hoka no hito ni iwanaide hoshii desu.
+VD 2:
+会社で起こっている事は全て話してほしい。
+Em muốn anh kể lại toàn bộ những việc xảy ra ở công ty.
+kaisha de okotteiru koto wa subete hanashite hoshii.
+VD 3:
+あのう、教科書を見せてほしいんですが…
+Này,làm ơn cho tôi xem quyển sách giáo khoa với.
+anou,kyoukasho wo misete hoshiindesuga…
+VD 4:
+父に酒を辞めてほしいです。
+Tôi muốn bố tôi bỏ rượu.
+chichi ni sake wo yamete hoshii desu.
+VD 5:
+息子に優しい人になってほしいだ。
+Tôi muốn con trai trở thành người tốt bụng.
+musuko ni yasashii hito ni natte hoshii da.
+VD 6:
+明日、私の家に遊びに来てほしいです。
+Tôi mong bạn ngày mai tới nhà tôi chơi.
+ashita,watashi no ie ni asobini kite hoshii desu.
+
+----------------------###----------------------
+
+No: 415
+Level: N3
+Name: N3: ても (temo)
+Description: Dù là/cho dẫu là
+Meaning: 
+『ても』Dùng để nói đến sự việc trở nên ngược lại với điều đáng lẽ diễn ra.
+ Dù là/cho dẫu là…
+
+How to use: 
+Vても
+ Aくても
+ na/Nでも
+
+
+VD 1:
+調べても分からなかったので、先生に聞いた。
+Dù là đã tra rồi nhưng vẫn không hiểu nên đã hỏi thầy giáo.
+shirabe temo wakarana katta node, sensei ni kiita.
+VD 2:
+必要なので、高くても買います。
+Vì cần nên dù đắt cũng sẽ mua.
+hitsuyou nanode, takaku temo kaimasu.
+VD 3:
+『すみません、黒は売り切れました。』『黒じゃなくても構いませんよ。』
+『Xin lỗi, màu đen đã bán hết rồi.』 　　　『Không phải màu đen cũng không sao.』
+『sumimasen,kuro wa urikiremashita.』    　『kuro janaku temo kamaimasen yo.』
+VD 4:
+便利でも携帯電話は使いません。
+Cho dù tiện lợi thì tôi cũng không dùng điện thoại di động.
+benri demo keitaidenwa wa tsukaimasen.
+
+----------------------###----------------------
+
+No: 424
+Level: N3
+Name: N3: といいなあ (to iinaa)
+Description: Ước gì/mong sao
+Meaning: 
+『といいなあ』Dùng để thể hiện ý muốn, mong ước của cá nhân. Thuộc dạng câu cảm thán.
+ Ước gì/mong sao…
+
+How to use: 
+Aい /na /N /V普 と ✙　いいのになあ
+ Aたら /naたら /Nたら /Vたら ✙　いいのになあ
+ Aければ /naならば /Nならば /Vば ✙　いいのになあ
+
+
+VD 1:
+もっと日本語がうまく話せたらいいなあ。
+Ước gì tôi có thể nói tiếng Nhật trôi chảy hơn.
+Motto nihongo ga umaku hanase tara to iinaa.
+VD 2:
+明日、雨が降らないといいなあ。
+Ước gì ngày mai trời không mưa.
+Ashita, ame ga furanai to iinaa.
+VD 3:
+あなたみたいにスポーツができるといいなあと友達に言われました。
+Bạn tôi nói với tôi rằng　”ước gì tớ có thể chơi thể thao như cậu”.
+Anata mitai ni supo-tsu ga dekiru to iinaa to tomodachi ni iware mashita.
+
+----------------------###----------------------
+
+No: 426
+Level: N3
+Name: N3: といっても (to ittemo)
+Description: Dù nói là...nhưng
+Meaning: 
+『といっても』Diễn tả thực tế so với điều đã nghĩ từ trước đó khác nhau.
+ Dù nói là…nhưng…
+
+How to use: 
+Aい　/na　/N　/V（普）✙　といっても
+
+
+VD 1:
+週末は旅行しました。旅行といっても、近くの温泉に行っただけですが。
+Cuối tuần tôi đã đi du lịch. Nói là đi du lịch nhưng cũng chỉ là đi suối nước nóng gần nhà thôi.
+shuumatsu wa ryokou shimashita. ryokou to ittemo chikaku no onsen ni itta dake desuga.
+VD 2:
+今週は忙しい、といっても先週ほどじゃない。
+Tuần này nói là bận nhưng cũng không bằng tuần trước.
+konshuu wa isogashii, to ittemo senshuu hodo janai.
+VD 3:
+庭があるといっても、とても小さいです。
+Nói là có vườn nhưng nó rất là nhỏ.
+niwa ga aru to ittemo, totemo chiisai desu.
+
+----------------------###----------------------
+
+No: 438
+Level: N3
+Name: N3: という (toiu)
+Description: Cái gọi là
+Meaning: 
+『という』Cái/việc/người mà được gọi là N. Định nghĩa cái người nghe không biết.
+ Dùng để gọi tên. Danh từ 1 là chỉ cái/người cụ thể còn danh từ 2 chỉ đối tượng hay 1 nhóm nói chung.
+ Cái gọi là…
+
+How to use: 
+N1  という　N2
+ N  というもの
+ N  ということ
+
+
+VD 1:
+さっき、木村さんという人から電話がありましたよ。
+Vừa nãy có điện thoại từ cái anh tên là Kimura đấy.
+sakki, kimura san toiu hito kara denwa ga arimashita yo.
+VD 2:
+これは日本の楽器で『尺八』というものです。
+Đây là nhạc cụ của nhật,có tên gọi là 『shakuhachi』.
+kore wa nihon no gakki de『shakuhachi』toiu mono desu.
+VD 3:
+お金はいりません。無料ということです。
+Không cần tiền,tức là miễn phí.
+okane wa irimasen. muryou toiu koto desu.
+VD 4:
+これは日本のヒーターで『こたつ』というものです。
+Cái này là lò sưởi của nhật có tên gọi là 『kotatsu』.
+kore wa nihon no hiitaa de 『kotatsu』toiu mono desu.
+
+----------------------###----------------------
+
+No: 440
+Level: N3
+Name: N3: ということだ (toiu koto da)
+Description: Dường như là/có nghĩa là
+Meaning: 
+『ということだ』Là cách nói truyền đạt lại nội dung đã nghe thấy, đọc được.
+ Nói đến ý nghĩa, sự thật, kết quả rút ra.
+ Có thể dùng động từ ở dạng ý hướng, mệnh lệnh.
+ Dường như là/có nghĩa là…
+
+How to use: 
+Aい　/na　/N　/V普　✙　ということだ
+
+
+VD 1:
+田中さんから電話があって、少し遅れるということです。
+Có điện thoại từ anh Tanaka, dường như là sẽ trễ một chút.
+tanaka san kara denwa ga atte, sukoshi okureru toiu koto desu.
+VD 2:
+試験の結果は70％、つまり合格ということだ。
+Kết quả thi khoảng 70％, tức là đậu rồi.
+shiken no kekka wa 70％, tsumari goukaku toiu koto da.
+VD 3:
+昨日、東京で地震があったということだ。
+Hôm qua, có một trận động đất ở Tokyo.
+knou, toukyou de jishin ga atta toiu koto da.
+
+----------------------###----------------------
+
+No: 444
+Level: N3
+Name: N3: というの (toiu no)
+Description: Cái việc/ cái gọi là
+Meaning: 
+『というの』được thêm vào mệnh đề để danh từ hóa cho mệnh đề đó.
+ Cái việc/ cái gọi là…
+
+How to use: 
+〚文〛（普） ✙　というの
+ 〚文〛（普） ✙　っていうの
+ 〚文〛（普） ✙　ということ
+ 〚文〛（普） ✙　っていうこと
+
+
+VD 1:
+リンさんが帰国するということを聞いて驚きました。
+Tôi rất ngạc nhiên khi nghe tin Rin về nước.
+rin san ga kikoku suru toiu koto wo kiite odoroki mashita.
+VD 2:
+こんなによく遅刻をするというのは問題ですよ。
+Cái việc thường xuyên đi trễ như thế này là cả một vấn đề đấy.
+konnani yoku chikoku wo suru toiu no wa mondai desu yo.
+VD 3:
+田中さんが医者だというのを知らなかった。
+Tôi đã không biết chị Tanaka là bác sỹ.
+tanaka san ga isha da toiu no wo shiranakatta.
+
+----------------------###----------------------
+
+No: 446
+Level: N3
+Name: N3: というのは (toiu nowa)
+Description: Nghĩa là
+Meaning: 
+『というのは』Dùng để định nghĩa hoặc giải thích.
+ Nghĩa là…
+
+How to use: 
+N ✙ というのは
+ N ✙ っていうのは
+
+
+VD 1:
+『デジカメ』というのはデジタルカメラを短くした言い方です。
+『Dejikame』 là cách nói tắt của từ camera kỹ thuật số.
+『dejikame』toiu nowa dejitarukamera wo mijikaku shita iikata desu.
+VD 2:
+電車で『カクテイ』っていうのは何のことですか。　　 各駅に停車する電車のことです。
+Cái từ 『kakutei』 trong tàu điện là cái gì vậy?             　　Nghĩa là tàu điện dừng lại ở tất cả các ga.
+densha de『kakutei』tteiu nowa nanno koto desuka.             　　kakueki ni teisha suru densha no koto desu.
+VD 3:
+禁煙というのはたばこを吸ってはいけないということです。
+Cấm hút thuốc có nghĩa là bạn không được hút thuốc ở đây.
+kinen toiu nowa tabako wo suttewa ikenai toiu koto desu.
+VD 4:
+バイトっていうのはアルバイトのことです。
+Baito có nghĩa là công việc bán thời gian.
+baito tteiu nowa arubaito no koto desu.
+
+----------------------###----------------------
+
+No: 447
+Level: N3
+Name: N3: というと (toiu to)
+Description: Nói đến
+Meaning: 
+『というと』Lấy một ví dụ làm đại diện liên quan đến chủ đề, giúp liên tưởng, nhớ đến chủ đề đó.
+ Nói đến…
+
+How to use: 
+Aい　/na　/N　/V（普）✙　というと
+ Aい　/na　/N　/V（普）✙　といえば
+ Aい　/na　/N　/V（普）✙　といったら
+
+
+VD 1:
+京都というと、お寺をイメージします。
+Nói đến Kyoto là hình ảnh những ngôi chùa.
+kyouto toiu to, otera wo imeeji shimasu.
+VD 2:
+日本の食べ物といえば、お寿司が一番有名だと思います。
+Nếu nói về đồ ăn nhật thì tôi nghĩ món sushi là món nổi tiếng nhất.
+nihon no tabemono toieba, osushi ga ichiban yuumei da to omoi masu.
+VD 3:
+夏の果物といったらやっぱりスイカだね。
+Nói về hoa quả mùa hè,quả nhiên là dưa hấu nhỉ.
+natsu no kudamono toittara yappari suika dane.
+VD 4:
+日本の山といったら富士山です。
+Nhắc đến núi của nhật bản thì đó là núi Phú sĩ.
+nihon no yama toittara fujisan desu.
+
+----------------------###----------------------
+
+No: 449
+Level: N3
+Name: N3: というより (toiu yori)
+Description: Hơn là nói
+Meaning: 
+『というより』Diễn tả ý nghĩa hơn là…nhưng cái nói đằng sau mới là thích đáng hơn.
+ Hơn là nói…
+
+How to use: 
+Aい　/na　/N　/　V（普）✙　というより
+ Aい　/na　/N　/V（普）✙　というか
+
+
+VD 1:
+前の車は遅すぎて、走るというよりはっているようだ。
+Chiếc xe đằng trước quá chậm, không phải đang chạy mà nó đang bò thì đúng hơn.
+mae no kuruma wa ososugite, hashiru toiu yori hatteiru youda..
+VD 2:
+今日は涼しいというより寒いくらいだった。
+Hôm nay không phải mát mà là lạnh mới đúng.
+kyou wa suzushii toiu yori samui kurai datta.
+VD 3:
+あの学生は出来ないというかやる気がないのでしょう。
+Cậu học sinh đó không phải là không thể, đúng ra là cậu ta không muốn làm.
+ano gakusei wa dekinai toiu ka yaruki ga nai no deshou.
+VD 4:
+息子の部屋は部屋というよりゴミ箱だ。
+Phòng của con trai tôi không phải phòng ngủ mà thùng rác thì đúng hơn.
+musuko no heya wa heya toiu yori gomibako da.
+
+----------------------###----------------------
+
+No: 456
+Level: N3
+Name: N3: ところだった (tokoro datta)
+Description: Suýt chút nữa thì
+Meaning: 
+『ところだった』Dùng cho trường hợp muốn bày tỏ cảm xúc đối với sự việc suýt chút nữa là đã xảy ra, đáng lẽ là đã xảy ra cảm xúc thất vọng, tức giận, buồn bã, nhẹ nhõm…
+ Suýt chút nữa thì…
+
+How to use: 
+Vる　✙　ところだった
+
+
+VD 1:
+もう少しで遅刻するところだった。
+Chỉ suýt chút nữa là trễ rồi.
+Mou sukoshi de chikoku suru tokoro datta.
+VD 2:
+あと少しで合格するところだったのに。。。
+Chỉ suýt chút nữa là đậu rồi thế mà…
+Ato sukoshi de goukaku suru tokoro datta noni…
+VD 3:
+もう少しで階段から落ちるところだった。
+Chỉ suýt chút nữa là tôi rơi từ cầu thang xuống rồi.
+Mou sukoshi de kaidan kara ochiru tokoro datta.
+
+----------------------###----------------------
+
+No: 457
+Level: N3
+Name: N3: ところで (tokoro de)
+Description: Nhân tiện thì/nhân dịp
+Meaning: 
+『ところで』Dùng trong trường hợp muốn đề cập đến một vấn đề khác, đổi chủ đề câu chuyện giũa chừng.
+ Nhân tiện thì/nhân dịp…
+
+How to use: 
+A ところで B
+
+
+VD 1:
+明日、試験でしょ。頑張ってね。ところで、来週の月曜日は空いてる。
+Ngày mai thi phải không? Cố gắng lên nhé. Nhân tiện thì thứ 2 tuần sau cậu có rảnh không?.
+Ashita, shiken deshou. Ganbatte ne. Tokoro de, raishuu no getsu youbi wa aiteru?
+VD 2:
+もうすぐ、今年も終わりですね。ところで、お正月はどうなさいますか。
+Năm nay sắp sửa kết thúc nhỉ. Nhân tiện thì ngày tết anh định làm gì?
+Mousugu, kotoshi mo owari desune. Tokoro de, oshougatsu wa dou nasai masuka?
+VD 3:
+もうすぐ卒業ですね。ところで、就職はどうするですか。
+Sắp tốt nghiệp rồi nhỉ. Nhân tiện thì cậu định xin việc như thế nào?
+Mousugu sotsugyou desune. Tokoro de, shuushoku wa dou suru no desuka?
+
+----------------------###----------------------
+
+No: 459
+Level: N3
+Name: N3: ところが (tokoro ga)
+Description: Nhưng mà
+Meaning: 
+『ところが』Thường dùng trong trường hợp phủ định một suy đoán, dự định hoặc suy nghĩ về sự việc, hành động.
+ Nhưng mà…
+
+How to use: 
+A ところが B
+ A: 予想、予定
+ B: 予想外の結果、事実
+
+
+VD 1:
+昨夜はコンサートに行くつもりだった。ところが病気で行けなくなった。
+Tối qua đã định đi xem hòa nhạc. Nhưng mà bị bệnh nên không thể đi được.
+Sakuya wa konsa-to ni iku tsumori datta. Tokoro ga byouki de ikenaku natta.
+VD 2:
+田中さんは私より若いと思っていた。ところが私より5歳も年上だった。
+Tôi nghĩ là Tanaka trẻ hơn tôi. Nhưng mà hơn tôi đến 5 tuổi lận.
+Tanaka san wa watashi yori wakai to omotte ita. Tokoro ga watashi yori 5 sai mo toshiue datta.
+VD 3:
+彼は非常に頭がいい。ところが大学に入れなかった。
+Anh ấy cực kỳ thông minh. Nhưng mà không thể vào đại học được.
+Kare wa hijou ni atama ga ii. Tokoro ga daigaku ni hairenakatta.
+
+----------------------###----------------------
+
+No: 461
+Level: N3
+Name: N3: とく(toku)
+Description: Làm sẵn, làm trước việc gì
+Meaning: 
+『とく』Đây là cách nói ngắn gọn của Vておく. Có 3 ý nghĩa:
+ 1. Chuẩn bị sẵn trước một việc gì đó.
+ 2. Xử lý công việc.
+ 3. Giữ nguyên hiện trạng.
+ Làm sẵn, làm trước việc gì…
+
+How to use: 
+Vて　✙ とく
+ Vておく　　　ー＞ Vとく
+ Vでおく　　　ー＞ Vどく
+ Vておかない　ー＞ Vとかない
+
+
+VD 1:
+テストで間違ったところを、ノートに書いとこう。
+Tôi viết lại vào vở những chỗ sai trong bài kiểm tra.
+Tesuto de machigatta tokoro wo, no-to ni kai tokou.
+VD 2:
+これ洗濯しといて。
+Giặt cái này đi.
+Kore sentaku shi toite.
+VD 3:
+トイレットペーパーがもうすぐなくなるから、買っとかないと。
+Vì giấy vệ sinh gần hết nên phải mua dành sẵn thôi.
+Toilet paper ga mousugu naku naru kara, katto kanai to.
+VD 4:
+『パソコン消す？』『まだ使うからつけといて。』
+『Tắt máy tính hả？』『Mình vẫn còn dùng nên cứ bật nguyên thế.』
+『Pasokon kesu？』『Mada tsukau kara tsuke toite.』
+
+----------------------###----------------------
+
+No: 464
+Level: N3
+Name: N3: とおり (toori)
+Description: Đúng như
+Meaning: 
+『とおり』Dùng để biểu thị một động tác nào đó được thực hiện theo đúng nội dung đã được biểu thị trước đó.
+ Đúng như…
+
+How to use: 
+Vる　✙　とおり
+ Vた　✙　とおり
+ Nの　✙　とおり
+ Nどおり
+
+
+VD 1:
+友達が書いてくれた地図のとおりに来たが、道に迷った。
+Tôi đã đi đến theo như bản đồ bạn tôi vẽ nhưng mà đã bị nhầm.
+tomodachi ga kaite kureta chizu no toori ni kita ga, michi ni mayotta.
+VD 2:
+雪が降ってきた。予報どおりだ。
+Tuyết đã rơi rồi. Đúng như dự đoán.
+yuki ga futte kita. yohou doori da.
+VD 3:
+先生が言ったとおり、試験は難しかった。
+Đúng như giáo viên nói、Kỳ thi rất khó.
+sensei ga itta toori, shiken wa muzukashi katta.
+VD 4:
+私が今から言ったとおりに書いてください。
+Hãy viết như tôi nói với bạn từ bây giờ.
+watashi ga ima kara itta toori ni kaite kudasai.
+
+----------------------###----------------------
+
+No: 467
+Level: N3
+Name: N3: としたら (toshitara)
+Description: Giả sử/nếu cho rằng
+Meaning: 
+『としたら 』Là cách nói nêu lên điều kiện giả định,”giả sử điều đó là sự thật”hoặc giả định một tình huống không rõ ràng.Vế sau thể hiện ý chí,phán đoán hay nhận định của người nói.
+ Giả sử/nếu cho rằng…
+
+How to use: 
+ A/na/N/V普　と　✙　したら/すれば　
+
+
+VD 1:
+その話が本当だとしたら嬉しいです。
+Nếu chuyện đó là thật thì tôi rất vui.
+sono hanashi ga hontou da toshitara ureshii desu.
+VD 2:
+飛行機で行くとしたらいくらぐらいかかりますか。
+Giả sử đi bằng máy bay thì hết khoảng bao nhiêu tiền vậy ạ?
+hikouki de iku toshitara ikura gurai kakarimasuka.
+VD 3:
+日本に来なかったくとしたらアメリカに行っていたと思う。
+Nếu không đến nhật thì tôi nghĩ tôi đã đi mỹ rồi.
+nihon ni konakatta toshitara amerika ni itteita to omou.
+VD 4:
+本当にそんなことを彼がしたくとしたら理由は何だろう。
+Nếu thực sự anh ta đã làm như thế thì lý do là gì nhỉ?
+hontou ni sonnakoto wo kare ga shita toshitara riyuu wa nandarou.
+
+----------------------###----------------------
+
+No: 473
+Level: N3
+Name: N3: ついでに (tsuideni)
+Description: Nhân tiện.../Tiện thể
+Meaning: 
+『ついでに』Diễn tả ý nghĩa khi thực hiện một hành vi ban đầu thì nhân tiện thực hiện thêm một hành vi khác.
+ Nhân tiện…/Tiện thể…
+
+How to use: 
+ Vる/Vた ✙　ついでに
+ N の　✙　ついでに
+
+
+VD 1:
+公園を散歩するついでにゴミを出しなさい。
+Nhân tiện đi dạo công viên thì đổ rác luôn nhé.
+kouen wo sanpo suru tsuideni gomi wo dashinasai.
+VD 2:
+郵便局へ行ったついでにはがきを買ってきた。
+Nhân tiện đến bưu điện tôi đã mua bưu thiếp.
+yuubinkyoku e itta tsuideni hagaki wo kattekita.
+VD 3:
+買い物のついでに図書館へ行って本を借りてきた。
+Nhân tiện mua đồ tôi đã đến thư viện mượn sách.
+kaimono no tsuideni toshokan e itte hon wo karitekita.
+VD 4:
+京都へ行くついでに奈良を回ってみたい。
+Nhân tiện đi Kyouto tôi muốn thử vòng qua Nara.
+Kyouto e iku tsuideni Nara wo mawattemitai.
+VD 5:
+母は駅まで客を送っていたついでに買い物をしてきた。
+Nhân tiện tiễn khách đến ga,mẹ tôi đã đi mua đồ luôn.
+haha wa eki made kyaku wo okutteita tsuideni kaimono wo shitekita.
+
+----------------------###----------------------
+
+No: 474
+Level: N3
+Name: N3: つまり (tsumari)
+Description: Hay nói cách khác là
+Meaning: 
+『つまり』Dùng để diễn đạt cùng một ý tưởng nhưng với cách dùng từ hay cách nói khác.
+ A,hay nói cách khác là B
+
+How to use: 
+　A　つまり　B
+
+
+VD 1:
+父の兄、つまり私の伯父は医者をしている。
+Anh trai của bố tôi,tức là bác tôi,hiện đang làm bác sĩ.
+chichi no ani,tsumari watashi no oji wa isha wo shiteiru.
+VD 2:
+田中さんは携帯もパソコンも持っていない。つまりメールで連絡はできないのだ。
+Chị tanaka không mang điện thoại lẫn máy tính.Nói cách khác là không thể liên lạc bằng mail được.
+tanaka san wa keitai mo pasokon mo motteinai.tsumari meeru de renraku wa dekinainoda.
+VD 3:
+彼は獣医、つまり動物のお医者さんです。
+Anh ấy là bác sĩ thú y,nói cách khác là bác sĩ của động vật.
+kare wa juui,tsumari doubutsu no oishasan desu.
+
+----------------------###----------------------
+
+No: 475
+Level: N3
+Name: N3: つもりでした (tsumori deshita)
+Description: Đã dự định/không dự định(làm gì)
+Meaning: 
+『つもりでした』Dùng để nói đến một dự định, ý định thực hiện một hành động nào đó trong quá khứ nhưng sau đó lại không thực hiện như vậy.
+ Đã dự định/không dự địnhlàm gì…
+
+How to use: 
+ Vる   ✙　つもりだった
+ Vない ✙　つもりだった
+
+
+VD 1:
+昨日は買い物に行くつもりでしたが、頭が痛かったのでずっと家にいました。
+Ngày hôm qua đã định đi mua sắm nhưng vì đau đầu nên tôi ở nhà suốt.
+Kinou wa kaimono ni iku tsumori deshita ga, atama ga itakatta node zutto ie ni imashita.
+VD 2:
+お菓子を食べないつもりでしたが、つい食べてしまいました。
+Đã định không ăn kẹo nhưng mà cuối cùng đã ăn mất rồi.
+Okashi wo tabenai tsumori deshita ga, tsui tabete shimai mashita.
+VD 3:
+手紙をポストに入れるつもりでしたが、忘れました。
+Tôi đã định cho thư vào hòm thư nhưng tôi lại quên mất.
+Tegami wo posuto ni ireru tsumori deshita ga, wasure mashita.
+VD 4:
+用事があったので、パーティーには行かないつもりでしたが行けるようになりました。
+Bởi vì tôi có việc bận, tôi dự định không đi dự tiệc nhưng giờ tôi có thể đi.
+Youji ga atta node, party niwa ikanai tsumori deshita ga ikeru youni nari mashita.
+
+----------------------###----------------------
+
+No: 479
+Level: N3
+Name: N3: うちに (uchi ni)
+Description: Trong lúc/trong khi
+Meaning: 
+『うちに』Dùng trong trường hợp thực hiện một hành động nào đó trong khoảng thời gian không xác định. Khoảng thời gian không xác định này là khoảng thời gian mà một sự việc, tình trạng nào đó vẫn còn tiếp diễn.
+ Trong lúc/trong khi…
+
+How to use: 
+Vている　✙　 うちに
+ Vない　✙ うちに
+ Aい　✙ うちに
+ na Adj な　✙ うちに
+ Nの　✙　うちに
+
+
+VD 1:
+明るいうちに帰ってきなさい。
+Hãy về nhà trong lúc trời còn sáng.
+Akarui uchi ni kaette kinasai.
+VD 2:
+何度も聞いているうちに歌詞を覚えた。
+Đã nhớ được ca từ trong lúc nghe nhiều lần.
+Nando mo kiite iru uchi ni kashi wo oboeta.
+VD 3:
+忘れないうちに、メモをしておこう。
+Hãy ghi chú lại trong lúc chưa quên.
+Wasurenai uchi ni, memo wo shite okou.
+VD 4:
+温かいうちに早く食べてください。
+Trong lúc đang còn nóng anh hãy ăn nhanh đi.
+Atatakai uchi ni hayaku tabete kudasai.
+
+----------------------###----------------------
+
+No: 488
+Level: N3
+Name: N3: はもちろん (wa mochiron)
+Description: Không chỉ/không những...mà còn
+Meaning: 
+『はもちろん』Diễn tả ý nghĩa” N thì đương nhiên rồi nhưng ngoài ra còn có…”
+ Biểu thị một sự vật, sự việc là cái điển hình, tất yếu nhưng sau đó còn có những cái khác cùng loại.
+ Không chỉ/không những…mà còn…
+
+How to use: 
+ N１　はもちろん　N2　も
+ 〚文〛の　はもちろん　～（も）
+
+
+VD 1:
+彼は勉強はもちろんスポーツもよくできる。
+Cậu ấy không chỉ học giỏi mà chơi thể thao cũng tốt.
+kare wa benkyou wa mochiron supo-tsu mo yoku dekiru.
+VD 2:
+キャベツは炒めて食べるのはもちろん、生で食べても美味しいです。
+Bắp cải xào lên ăn thì tất nhiên là ngon mà ăn sống cũng ngon.
+kyabetsu wa itamete taberu no wa mochiron, nama de tabete mo oishii desu.
+VD 3:
+彼のアニメ作品は子供はもちろん大人も楽しめる。
+Tác phẩm phim hoạt hình của anh ấy không chỉ trẻ em mà người lớn cũng có thể thưởng thức.
+kare no anime sakuhin wa kodomo wa mochiron otona mo tanoshimeru.
+VD 4:
+彼女は英語はもちろん、フランス語も話せる。
+Cô ấy không chỉ nói được tiếng anh mà còn nói được cả tiếng pháp.
+kanojo wa eigo wa mochiron, furansugo mo hanaseru.
+
+----------------------###----------------------
+
+No: 492
+Level: N3
+Name: N3: わけだ (wake da)
+Description: Hèn chi/chẳng trách là
+Meaning: 
+『わけだ』Dùng khi nói đến sự tất nhiên của kết quảvới giải thích nguyên nhân ở câu trước/sau.
+ Hèn chi/chẳng trách là/đương nhiên là…
+
+How to use: 
+Aい　✙ わけだ
+ na Adj な　✙ わけだ
+ V普　✙　わけだ
+
+
+VD 1:
+暑いわけだ。気温が３６度もある。
+Đương nhiên là nóng rồi. Nhiệt độ lên đến 36 độ cơ mà.
+Atsui wake da. Kion ga 36 do mo aru.
+VD 2:
+『田中さん、彼女に振られたらしいよ。』『なるほど、それで、元気がないわけだ。』
+『Tanaka, hình như là bị bạn gái bỏ rồi đấy.』       『Quả nhiên, hèn chi không có sinh khí gì cả.』
+『Tanaka san, kanojo ni furareta rashii yo.』     『Naruhodo, sorede, genki ga nai wakeda.』
+VD 3:
+こんなところで工事をしたのか。渋滞するわけだ。
+Làm công trường ở nơi như thế này hả? Hèn chi mà tắc đường.
+Konna tokoro de kouji wo shita noka. Juutai suru wake da.
+VD 4:
+あ、顔にご飯粒がついていたんだ。みんなにクスクス笑われていたわけだ。
+Ồ, trên mặt tôi có dính hột cơm. Bảo sao mà mọi người cứ cười khúc khích.
+A, kao ni go hantsubu ga tsuite itan da. Minna ni kusukusu warawarete ita wake da.
+
+----------------------###----------------------
+
+No: 493
+Level: N3
+Name: N3: わけではない (wake dewa nai)
+Description: Không phải là/không hẳn là
+Meaning: 
+『わけではない』Dùng khi giải thích về sự việc không ở mức độ cao, trầm trọng như đối phương suy nghĩ, suy luận ra.
+ Không phải là/không hẳn là…
+
+How to use: 
+Aい　✙ わけではない
+ na Adj な　✙ わけではない
+ V普　✙　わけではない
+
+
+VD 1:
+嫌いなわけではないが、肉はあまり食べない。
+Không phải là ghét mà là tôi ít ăn thịt thôi.
+Kirai na wake dewa nai ga, niku wa amari tabenai.
+VD 2:
+テレビは見ないわけではないが、音楽を聴いているほうが多い。
+Không phải là tôi không xem tivi mà thường nghe nhạc hơn.
+Terebi wa minai wake dewa nai ga, ongaku wo kiite iru houga ooi.
+VD 3:
+眠っていたわけではないが、ほかのことを考えていた。
+Không phải là tôi không buồn ngủ mà vì tôi còn bận suy nghĩ chuyện khác.
+Nemutte ita wake dewa nai ga, hoka no koto wo kangaete ita.
+
+----------------------###----------------------
+
+No: 496
+Level: N3
+Name: N3: わけがない (wake ga nai)
+Description: Không lý nào/không có khả năng
+Meaning: 
+『わけがない』Thường dùng trong trường hợp khẳng định một sự việc nào đó không thể nào xảy ra được dựa trên căn cứ của bản thân.
+ Không lý nào/không có khả năng…
+
+How to use: 
+Aい　✙ わけがない / わけはない
+ na Adj な　✙ わけがない / わけはない
+ V普　✙　わけがない / わけはない
+ N の　✙　わけがない / わけはない
+
+
+VD 1:
+あの強い相手に勝てるわけがない。
+Không thể nào mà thắng được được đối thủ mạnh thế kia.
+Ano tsuyoi aite ni kateru wake ga nai.
+VD 2:
+『このパン古くない。』『古いわけないよ。昨日買ったんだから。』
+『Bánh mì này chẳng phải cũ rồi sao?』『Không có lý nào mà cũ. Mới mua hôm qua mà.』
+『Kono pan furukunai?』  　『Furui wake nai yo. Kinou kattan dakara.』
+VD 3:
+嘘ばかりついている彼が、みんなに信用されるわけがないでしょう。
+Người nói dối như anh ấy thì không có lý nào mà được mọi người tin tưởng cả.
+Uso bakari tsuite iru kare ga, minna ni shinyou sareru wake ga nai deshou.
+
+----------------------###----------------------
+
+No: 497
+Level: N3
+Name: N3: わけにはいかない (wake niwa ikanai)
+Description: Nên không thể/đành phải
+Meaning: 
+『わけにはいかない』Dùng trong trường hợp muốn biểu lộ cảm xúc bị buộc phải làm một hành động nào đó dù không muốn, do tình thế bắt buộc.
+ Nên không thể/đành phải…
+
+How to use: 
+Vる　✙ わけにはにもいかない
+ Vない　✙ わけにはにもいかない
+ Vている　✙　わけにはにもいかない
+ Vさせる　✙　わけにはにもいかない
+
+
+VD 1:
+大事な会議があるから、休むわけにはいかない。
+Vì có cuộc họp quan trọng nên không thể nghỉ được.
+Daiji na kaigi ga aru kara, yasumu wake niwa ikanai.
+VD 2:
+社長の命令だから、従わないわけにはいかない。
+Vì là mệnh lệnh của giám đốc nên phải tuân thủ thôi.
+Shacho no meirei dakara, shitagawanai wake niwa ikanai.
+VD 3:
+規則ですから、30分以上遅刻した場合は、試験を受けさせるわけにはいかない。
+Vì đó là quy tắc, nếu trong trường hợp bạn trễ hơn 30 phút, bạn sẽ không thể tham gia kỳ thi.
+Kisoku desukara, 30 pun ijou chikoku shita baai wa, shiken wo ukesaseru wake niwa ikanai.
+
+----------------------###----------------------
+
+No: 500
+Level: N3
+Name: N3: わりには (wariniwa)
+Description: Dù.../tuy...nhưng
+Meaning: 
+『わりには』Là cách nói nhận định,đánh giá,so sánh.Diễn tả ý muốn nói “so với dự đoán hoặc so với tiêu chuẩn thông thường thì tương đối/khá là…”
+ Dù…/tuy…nhưng…
+
+How to use: 
+ Aい/V（普）✙　わりに/ わりには　
+ na Adj な　✙　わりに/ わりには　
+ N　の　　✙　わりに/ わりには
+
+
+VD 1:
+彼は年のわりには若く見える。
+Anh ấy nhìn trẻ hơn so với tuổi.
+kare wa toshi no wariniwa wakaku mieru.
+VD 2:
+お金がない（と言っている）わりに、よく買い物をするね。
+Cậu bảo không có tiền mà hay mua sắm ghê.
+okane ga nai (to itteiru ) warini,yoku kaimono wo suru ne.
+VD 3:
+この海は綺麗なわりには人が少ない。
+Tuy biển này đẹp nhưng lại có ít người đến.
+kono umi wa kirei na wariniwa hito ga sukunai.
+VD 4:
+子どものわりにはたくさん知っているね。
+Tuy là trẻ con nhưng nó biết nhiều nhỉ.
+kodomo no wariniwa takusan shitteiru ne.
+VD 5:
+彼女は細いわりには体が丈夫だ。
+Cô ấy tuy gầy nhưng khá khỏe.
+kanojo wa hosoi wariniwa karada ga joubu da.
+
+----------------------###----------------------
+
+No: 527
+Level: N3
+Name: N3: ようと思う (you to omou)
+Description: Dự định làm gì
+Meaning: 
+『ようと思う』Dùng để thể hiện ý chí, dự dịnh, kế hoạch của chủ thể.
+ Động từ sử dụng ở thể ý hướng 意向形いこうけい.
+ Dự định làm gì…
+
+How to use: 
+Vようと思う
+
+
+VD 1:
+会社を辞めようと思っている。
+Tôi định bỏ công ty.
+kaisha wo yameyou to omotte iru.
+VD 2:
+来年、国に帰ろうと思っています。
+Năm sau tôi định sẽ về nước.
+rainen kuni ni kaerou to omotte imasu.
+VD 3:
+弟の好きなCDを誕生日に買ってやろうと思っています。
+Tôi định sẽ mua đĩa CD yêu thích của em trai tôi vào ngày sinh nhật của nó.
+otouto no suki na CD wo tanjoubi ni katte yarou to omotte imasu.
+VD 4:
+時間があれば旅行をしようと思っています。
+Nếu mà có thời gian tôi dự định sẽ đi du lịch.
+jikan ga areba ryokou wo shiyou to omotte imasu.
+
+----------------------###----------------------
+
+No: 528
+Level: N3
+Name: N3: ようとしない (you to shinai)
+Description: Không định làm gì
+Meaning: 
+『ようとしない』Dùng để thể hiện việc không cảm nhận được ý chí thực hiện hành động hay động tác đó.
+ Động từ sử dụng ở thể ý hướng 意向形いこうけい.
+ Không định làm gì…
+
+How to use: 
+Vようとしない
+
+
+VD 1:
+ポチ、どうしたんだろう。ご飯を食べようとしないんだよ。
+Pochi sao vậy nhỉ. Nó định không ăn cơm kìa.
+pochi, doushitan darou. gohan wo tabeyou to shinain dayo.
+VD 2:
+彼は自分のことは何も言おうとしない。
+Anh ta không định nói gì về mình cả.
+kare wa jibun no koto wa nani mo iou to shinai.
+VD 3:
+父はそれについて何も話そうとしない。
+Bố tôi không định nói chuyện gì về cái đấy cả.
+chichi wa sore nitsuite nani mo hanasou to shinai.
+
+----------------------###----------------------
+
+No: 529
+Level: N3
+Name: N3: ようとする (you to suru)
+Description: Định làm gì
+Meaning: 
+『ようとする』Dùng để diễn tả ý định của chủ thể trong khoảnh khắc, khoảng thời gian ngắn.
+ Động từ sử dụng ở thể ý hướng 意向形いこうけい.
+ Định làm gì…
+
+How to use: 
+Vようとする
+
+
+VD 1:
+電車に乗ろうとしたときにドアが閉まって乗れなかった。
+Khi tôi vừa định lên tàu thì cửa đóng nên không thể lên được.
+densha ni norou toshita toki ni doa ga shimatte norenakatta.
+VD 2:
+あ、ポチ（犬の名前）があなたの靴を嚙もうとしているよ。
+A, con Pochi định cắn đôi giày của bạn kìa.
+a, pochi ga anata no kutsu wo kamou toshite iru yo.
+VD 3:
+ポチは僕が出かけようとすると吠える。
+Pochi sủa mỗi khi tôi vừa định ra ngoài.
+pochi wa boku ga dekakeyou tosuru to hoeru.
+VD 4:
+お風呂に入ろうとしたとき誰か来ました。
+Khi tôi vừa định vào bồn tắm thì có người đến.
+ofuro ni hairo toshita toki dare ka kimashita.
+VD 5:
+シャワーを浴びようとしたが、水が出なかった。
+Khi tôi vừa định tắm thì nước lại không chảy nữa.
+shawaa wo abiyou toshita ga、 mizu ga denakatta.
+
+----------------------###----------------------
+
+No: 531
+Level: N3
+Name: N3: ように (youni)
+Description: Như là/giống như là
+Meaning: 
+『ように』Thường dùng để làm lời mở đầu trước khi giải thích về vấn đề gì đó. Ngoài ra còn dùng trong việc hướng dẫn người khác làm gì.
+ Như là/giống như là…
+
+How to use: 
+ V普　✙ ように
+ Nの　  ✙ ように
+
+
+VD 1:
+皆様ご存じのように、試験の内容が変わります。
+Như các bạn đã biết, nội dung của kỳ thi sẽ thay đổi.
+Minasama gozonji no youni, shiken no naiyou ga kawari masu.
+VD 2:
+ここに書いてあるように、今度の木曜日、授業は午前中だけです。
+Như đã viết ở đây, thứ năm tới đây, tiết học sẽ chỉ có trong buổi sáng.
+Koko ni kaite aru youni, kondo no mokuyoubi, jugyou wa gozenchyuu dake desu.
+VD 3:
+前にお話ししたように、来年から授業料が値上がりします。
+Như đã nói trước, từ năm sau học phí sẽ tăng lên.
+Mae ni ohanashi shita youni, rainen kara jugyouryou ga neagari shimasu.
+
+----------------------###----------------------
+
+No: 532
+Level: N3
+Name: N3: ように (youni)
+Description: Hãy ...làm gì/không được làm gì
+Meaning: 
+『ように』Dùng để yêu cầu, chỉ định người kháccấp dưới làm gì đó.
+ Hãy …làm gì/không được làm gì…
+
+How to use: 
+ Vる　  ✙ ように
+ Vない　✙ ように
+
+
+VD 1:
+『明日はもっと早く来るように。』『わかりました。』
+『Ngày mai hãy đến sớm hơn nữa.』『Tôi hiểu rồi』.
+『Ashita wa motto hayaku kuru youni.』『Wakari mashita.』
+VD 2:
+ここで、たばこを吸わないように。
+Đừng hút thuốc ở đây.
+Koko de, tabako wo suwanai youni.
+VD 3:
+遅れる場合は連絡するように。
+Trong trường hợp bạn đến muộn hãy liên lạc.
+Okureru baai wa renraku suru youni.
+
+----------------------###----------------------
+
+No: 533
+Level: N3
+Name: N3: ように (youni)
+Description: Hãy/đừng
+Meaning: 
+『ように』Thể hiện yêu cầu, đề nghị mà người nghe có nghĩa vụ hoặc trách nhiệm phải thực hiện. Hoặc đôi khi sử dụng như một lời khuyên.
+ Hãy/đừng…
+
+How to use: 
+Vる ✙　ように
+ Vない ✙　ように
+ Vれる ✙　ように
+
+
+VD 1:
+皆に聞こえるようにもっと大きな声で話してください。
+Hãy nói to hơn để mọi người có thể nghe thấy.
+minna ni kikoeru youni motto ookina koe de hanashite kudasai.
+VD 2:
+忘れないように手帳に書いておこう。
+Hãy viết vào sổ tay để không quên nó.
+wasurenai youni techou ni kaite okou.
+VD 3:
+風が入らないように窓を閉めておきましょう。
+Hãy đóng cửa sổ để gió không vào.
+kaze ga hairanai youni mado wo shimete okimashou.
+VD 4:
+大学に合格出来るように一生懸命勉強しています。
+Tôi đang chăm chỉ học tập để có thể đỗ đại học.
+daigaku ni goukaku dekiru youni isshoukenmei benkyou shiteimasu.
+VD 5:
+私がするようにしてください。
+Hãy làm theo như tôi làm.
+watashi ga suru youni shite kudasai.
+
+----------------------###----------------------
+
+No: 534
+Level: N3
+Name: N3: ように言う (youni iu)
+Description: Nói(ai)/nhờ(ai)...hãy/không làm gì đó
+Meaning: 
+『ように言う』Được dùng khi muốn nhờ ai đó truyền đạt lại mệnh lệnh của mình với người khác. Hoặc dùng khi diễn tả lại một mệnh lệnh được truyền đạt bởi người khác.
+ Nóiai/nhờai…hãy/không làm gì đó…
+
+How to use: 
+Vるように ✙　言う/頼む
+ Vないように ✙　言う/頼む
+
+
+VD 1:
+田中さんに、私の部屋に来るように言ってください。
+Hãy nói với Tanaka đến phòng của tôi.
+Tanaka san ni, watashi no heya ni kuru youni itte kudasai.
+VD 2:
+妻に、家ではたばこを吸わないように言われています。
+Tôi đã bị vợ nhắc là đừng hút thuốc trong nhà.
+Tsuma ni, ie dewa tabako wo suwanai youni iwarete imasu.
+VD 3:
+鈴木さんに、あまり無理をしないように言ってください。
+Hãy nói với anh Suzuki là không phải làm quá sức đâu.
+Suzuki san ni, amari muri wo shinai youni itte kudasai.
+VD 4:
+この資料を50部コピーするように頼まれました。
+Tôi đã được nhờ sao chép 50 bản tài liệu này.
+Kono shiryou wo 50 bu copy suru youni tanomare mashita.
+
+----------------------###----------------------
+
+No: 536
+Level: N3
+Name: N3: ようになる (youni naru)
+Description: Trở thành
+Meaning: 
+『ようになる』Mẫu câu này được dùng để thể hiện sự thay đổi trạng thái của sự vật.
+ Trở thành…
+
+How to use: 
+Vる ✙　ようになる
+
+
+VD 1:
+『このDVDプレーヤー、壊れているんだよね。』　『いや、直してもらったから、使えるようになったよ。』
+『Cái đầu đĩa DVD này đang hỏng nhỉ?』    『Không, vì đã được sửa nên nó lại dùng được rồi.』
+『kono DVD pureeyaa, kowarete irundayone.』 『iya, naoshite moratta kara, tsukaeru youni natta.』
+VD 2:
+ここの電気は人が通るとつくようになっています。
+Cái đèn ở chỗ này hễ có người đi qua là nó bật lên.
+koko no denki wa hito ga tooru to tsuku youni natteimasu.
+VD 3:
+このインターホンは留守に誰が来たか分かるようになっている。
+Hệ thống liên lạc này được thiết kế để cho bạn biết ai đã đến khi bạn vắng nhà.
+kono intaahon wa rusu ni darega kitaka wakaru youni natteiru.
+VD 4:
+たいていの電気製品は1年以内なら壊れてもただで直してもらえるようになっている。
+Hầu hết các sản phẩm điện tử trong vòng một năm nếu bị hỏng sẽ được sửa chữa miễn phí.
+taitei denkiseihin wa 1 nen inai nara kowaretemo tadade naoshite moraeru youni natteiru.
+
+----------------------###----------------------
+
+No: 537
+Level: N3
+Name: N3: ようにする (youni suru)
+Description: Cố gắng làm
+Meaning: 
+『ようにする』Diễn đạt ý nghĩa thực hiện một việc gì đó như một thói quen.
+ Cố gắng làm…
+
+How to use: 
+Vる ✙　ようにする
+ Vない ✙　ようにする
+
+
+VD 1:
+忘れ物をしないようにしましょう。
+Tôi sẽ cố gắng không để quên đồ.
+wasuremono wo shinai youni shimashou.
+VD 2:
+毎食後、歯を磨くようにしています。
+Tôi luôn cố gắng đánh răng sau mỗi bữa ăn.
+maishokugo, ha wo migaku youni shiteimasu.
+VD 3:
+健康のために野菜を食べるようにしています。
+Tôi luôn cố gắng ăn nhiều rau để tốt cho sức khỏe.
+kenkou no tame ni yasai wo taberu youni shiteimasu.
+VD 4:
+必ず連絡をとるようにする。
+Thế nào tôi cũng tìm cách liên lạc.
+kanarazu renraku wo toru youni suru.
+VD 5:
+夜に甘いものを食べないようにしています。
+Tôi đang cố gắng không ăn đồ ngọt vào buổi tối.
+yoru ni amaimono wo tabenai youni shiteimasu.
+
+----------------------###----------------------
+
+No: 541
+Level: N3
+Name: N3: ずに (zu ni)
+Description: Không
+Meaning: 
+『ずに』Dùng trong trường hợp chúng ta sẽ bỏ qua một hành động mà tự nhiên, bình thường sẽ làm.
+ Không…
+
+How to use: 
+Vないずに
+
+
+VD 1:
+辞書を使わずに書いたので自信がありません。
+Vì viết ra mà không dùng từ điển nên không có tự tin.
+jisho wo tsukawa zu ni kaita node, jishin ga arimasen.
+VD 2:
+昨夜、歯を磨かずに寝てしまった。
+Tối qua không đánh răng mà đi ngủ mất tiêu.
+sakuya, ha wo migaka zu ni nete shimatta.
+VD 3:
+約束の時間に来なければ待たずに出発します。
+Tôi sẽ xuất phát mà không chờ đợi nếu bạn không đến đúng thời gian đã hẹn.
+yakusoko no jikan ni konakereba mata zu ni shuppatsu shimasu.
+VD 4:
+健康のため、車に乗らずに歩くようにしています。
+Vì sức khỏe, tôi đang cố gắng đi bộ mà không dùng xe hơi.
+kenkou no tame, kuruma ni nora zu ni aruku you ni shite imasu.

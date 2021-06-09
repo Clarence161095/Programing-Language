@@ -1,0 +1,12 @@
+/Users/macbook/Public/Project/C#/CrawData/CrawData/CrawData/bin/Debug/netcoreapp3.1/CrawData.deps.json
+/Users/macbook/Public/Project/C#/CrawData/CrawData/CrawData/bin/Debug/netcoreapp3.1/CrawData.runtimeconfig.json
+/Users/macbook/Public/Project/C#/CrawData/CrawData/CrawData/bin/Debug/netcoreapp3.1/CrawData.runtimeconfig.dev.json
+/Users/macbook/Public/Project/C#/CrawData/CrawData/CrawData/bin/Debug/netcoreapp3.1/CrawData.dll
+/Users/macbook/Public/Project/C#/CrawData/CrawData/CrawData/bin/Debug/netcoreapp3.1/CrawData.pdb
+/Users/macbook/Public/Project/C#/CrawData/CrawData/CrawData/obj/Debug/netcoreapp3.1/CrawData.AssemblyInfoInputs.cache
+/Users/macbook/Public/Project/C#/CrawData/CrawData/CrawData/obj/Debug/netcoreapp3.1/CrawData.AssemblyInfo.cs
+/Users/macbook/Public/Project/C#/CrawData/CrawData/CrawData/obj/Debug/netcoreapp3.1/CrawData.csproj.CoreCompileInputs.cache
+/Users/macbook/Public/Project/C#/CrawData/CrawData/CrawData/obj/Debug/netcoreapp3.1/CrawData.dll
+/Users/macbook/Public/Project/C#/CrawData/CrawData/CrawData/obj/Debug/netcoreapp3.1/CrawData.pdb
+/Users/macbook/Public/Project/C#/CrawData/CrawData/CrawData/obj/Debug/netcoreapp3.1/CrawData.genruntimeconfig.cache
+/Users/macbook/Public/Project/C#/CrawData/CrawData/CrawData/obj/Debug/netcoreapp3.1/CrawData.csprojAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CB989012-09AF-42AB-AEC3-6AC5EDB183F3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CrawData/CrawlData.cs">
+    <Files>
+      <File FileName="CrawData/CrawlData.cs" Line="72" Column="89" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CrawData" expanded="True">
+            <Node name="CrawData" expanded="True">
+              <Node name="CrawlData.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CrawData PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

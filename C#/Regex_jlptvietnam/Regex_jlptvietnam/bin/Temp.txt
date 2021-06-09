@@ -1,0 +1,453 @@
+----------------------###----------------------
+----------------------###----------------------
+
+No.1
+Level: N2
+name: N2: あげく (ageku)
+description: Cuối cùng thì/Làm～nhưng cuối cùng
+
+VD 1:
+彼は酔っ払って騒いだあげく、寝てしまった。
+Sau một thời gian say rượu và làm ồn thì cuối cùng anh ấy cũng đã đi ngủ.
+kare wa yopparatte sawaida ageku,neteshimatta.
+VD 2:
+何度も手術したあげく、治らないと言われた。
+Sau khi phẫu thuật nhiều lần thì được thông báo rằng bệnh không thể chữa khỏi.
+nando mo shujutsu shita ageku,naoranai to iwareta.
+VD 3:
+待たされたあげく、まずい料理を食べさせられた。
+Tôi đã phải chờ đợi và rồi được cho ăn những món ăn dở.
+matasareta ageku,mazui ryouri wo tabesaserareta.
+VD 4:
+あちこちの病院へ行ったあげく、やっと元気になった。
+Sau khi đến bệnh viện ở chỗ này chỗ kia,cuối cùng tôi đã trở nên khỏe mạnh.
+achikochi no byouin e itta ageku,yatto genki ni natta.
+
+----------------------###----------------------
+
+No.2
+Level: N3
+name: N3: 上げる (ageru)
+description: Làm...xong
+
+VD 1:
+やっとレポートを書き上げた。
+Cuối cùng mình cũng đã viết xong báo cáo.
+Yatto repo-to wo kaki ageta.
+VD 2:
+ケーキが焼き上がりましたよ。
+Bánh đã nướng xong rồi.
+Keeki ga yaki agari mashita yo.
+VD 3:
+姉はプレゼントにするマフラーを一晩で編み上げた。
+Chị gái tôi trong một đêm đã đan xong chiếc khăn quàng để làm quà.
+Ane wa purezento ni suru mafura- wo hitoban de ami ageta.
+
+----------------------###----------------------
+
+No.3
+Level: N4
+name: N4: 間に (aida ni)
+description: Trong khi/trong lúc/trong khoảng...
+
+VD 1:
+電車に乗っている間に、ずっと音楽を聞いていました。
+Trong lúc lên tàu tàu điện, tôi đã nghe nhạc suốt.
+Densha ni notte iru aida ni, zutto ongaku wo kiite imashita.
+VD 2:
+バスを待っている間に、後ろのおばあさんと話しました。
+Trong lúc chờ xe bus, tôi đã nói chuyện với cụ già ở phía sau.
+Basu wo matte iru aida ni, ushiro no obaasan to hanashimashita.
+VD 3:
+妻が寝ている間に、いつも静かにしています。
+Trong khi vợ tôi đang ngủ, lúc nào tôi cũng giữ yên lặng.
+Tsuma ga neteiru aida ni, itsumo shizuka ni shite imasu.
+VD 4:
+学校にいる間にスマホを使ってはいけません。
+Không sử dụng điện thoại khi bạn đang ở trường học.
+Gakkou ni iru aida ni sumaho wo tsukattewa ikemasen.
+VD 5:
+彼女を待っている間に、スマホでゲームをしていました。
+Trong lúc chờ bạn gái, tôi đã chơi game bằng điện thoại.
+Kanojo wo matte iru aida ni, sumaho de geemu wo shite imashita.
+VD 6:
+留守の間に泥棒が入った。
+Trong khi tôi vắng nhà đã có kẻ trộm vào nhà.
+Rusu no aida ni dorobou ga haitta.
+VD 7:
+食事の間にユーチューブを見ていました。
+Trong lúc đang ăn cơm tôi đã xem Youtube.
+Shokuji no aida ni yuuchuubu wo mite imashita.
+VD 8:
+ハイキングの間に雨が降っていました。
+Trong lúc đang đi bộ thì trời đổ mưa.
+Haikingu no aida ni ame ga futte imashita.
+
+----------------------###----------------------
+
+No.4
+Level: N2
+name: N2: あまり (amari)
+description: Qúa
+
+VD 1:
+緊張のあまり、体が震えた。
+Cơ thể run lên vì quá căng thẳng.
+kinchou no amari,karada ga furueta.
+VD 2:
+心配するあまり、母は寝込んでしまった。
+Vì quá lo lắng mà mẹ tôi đã ngủ thiếp đi.
+shinpai suru amari,haha wa nekonde shimatta.
+VD 3:
+そのコンサートでは興奮のあまり気を失うファンも続出した。
+Trong buổi hòa nhạc đó,người hâm mộ đã mất ý thức vì quá hào hứng.
+sono konsaato dewa koufun no amari ki wo unashiu fan mo zokushutsu shita.
+VD 4:
+事件の現場を見てしまった私はショックのあまり声も出なかった。
+Tôi đã nhìn thấy hiện trường của vụ án vì quá sốc mà không phát ra tiếng.
+jiken no genba  wo miteshimatta watashi wa shokku no amari koe wo denakatta.
+
+----------------------###----------------------
+
+No.5
+Level: N5
+name: N5: あまり (amari)
+description: Không...lắm
+
+VD 1:
+日曜日はあまり勉強しません。友達と遊びます。
+Tôi không học nhiều lắm vào ngày chủ nhật. Tôi đi chơi với bạn của tôi.
+Nichiyoubi wa amari benkyou shimasen. Tomodachi to asobimasu.
+VD 2:
+この文法があまり分かりません。教えてください。
+Tôi không hiểu ngữ pháp này lắm. Xin hãy dạy cho tôi.
+Kono bunpo ga amari wakarimasen. Oshiete kudasai.
+VD 3:
+テレビはあまり見ませんが嫌いじゃありません。
+Tôi không xem tivi nhiều lắm nhưng không phải là tôi ghét nó.
+Terebi wa amari mimasen ga kirai jaarimasen.
+VD 4:
+冷たい飲み物があまり好きじゃありません。
+Tôi không thích đồ uống lạnh lắm.
+Tsumetai nomimono ga amari suki jaarimasen.
+VD 5:
+この食べ物はあまり美味しくなかった。
+Cái món này không ngon lắm.
+Kono tabemono wa amari oishi kunakatta.
+VD 6:
+あまりTwitterをしませんがFacebookはよく見ます。
+Tôi không hay chơi Twitter nhưng thường xem Facebook.
+Amari Twitter wo shimasen ga Facebook wa yoku mimasu.
+VD 7:
+最近は忙しいですから友達とあまり遊んでいません。
+Gần đây tôi không hay đi chơi với bạn bè lắm vì tôi bận.
+Saikin wa isogashii desu kara tomodachi to amari asonde imasen.
+VD 8:
+私はお酒があまり好きじゃない。
+Tôi không thích rượu lắm.
+Watashi wa osake ga amari suki janai.
+VD 9:
+ホラー映画はあまり見ません。
+Tôi không hay xem phim kinh dị lắm.
+Horaa eiga wa amari mimasen.
+
+----------------------###----------------------
+
+No.6
+Level: N2
+name: N2: あるいは (arui wa)
+description: hoặc là...
+
+VD 1:
+ファックス、あるいはメールでお知らせください。
+Hãy thông báo cho tôi qua fax hoặc là mail.
+Fakkusu, arui wa me-ru de oshirase kudasai.
+VD 2:
+来週の火曜日の午後はどうですか。あるいは水曜日の午前でも構いませんが．．．
+Chiều thứ 3 tuần sau thì thế nào？ Hoặc là sáng thứ 4 cũng được không vấn đề gì…
+Raishuu no kayoubi no gogo wa dou desuka. Arui wa suiyoubi no gozen demo kamai masen ga…
+
+----------------------###----------------------
+
+No.7
+Level: N4
+name: N4: あとで (atode)
+description: Sau đó...
+
+VD 1:
+授業のあとで先生に質問をします。
+Tôi sẽ đặt câu hỏi cho giáo viên sau giờ học.
+Jugyou no atode sensei ni shitsumon wo shimasu.
+VD 2:
+学校のあとで買い物をします。
+Tôi sẽ đi mua sắm sau khi tan trường.
+Gakkou no atode kaimono wo shimasu.
+VD 3:
+宿題のあとで友達と遊びに行きます。
+Sau khi làm bài tập về nhà xong tôi đi chơi với bạn bè.
+Shukudai no atode tomodachi to asobi ni ikimasu.
+VD 4:
+仕事のあとで飲み会があります。
+Có một bữa tiệc rượu sau giờ làm việc.
+Shigoto no atode nomikai ga arimasu.
+VD 5:
+ケーキはお父さんが帰って来たあとで食べましょうね。
+Cùng ăn bánh kem sau khi bố về nhà nhé.
+Keeki wa otousan ga kaette kita atode tabemashou ne.
+VD 6:
+映画を見たあとで映画のタイトルの意味がわかりました。
+Tôi đã hiểu ý nghĩa của tiêu đề phim sau khi xem phim.
+Eiga wo mita atode eiga no taitoru no imi ga wakari mashita.
+VD 7:
+このソフトを使えば、写真を撮ったあとで編集出来ますよ。
+Nếu bạn sử dụng phần mềm này, bạn có thể chỉnh sửa nó sau khi chụp ảnh.
+Kono sofuto wo tsukaeba, shashin wo totta atode henshuu dekimasu yo.
+VD 8:
+バスが出発したあとで違うバスに乗ったことに気がつきました。
+Tôi nhận ra rằng tôi đã lên một chiếc xe buýt khác sau khi xe buýt khởi hành.
+Basu ga shuppatsu shita atode chigau basu ni notta koto ni ki ga tsukimashita.
+VD 9:
+カメラは買ったあとで後悔しないようによく考えてから買いましょう。
+Hãy mua khi suy nghĩ cẩn thận để không hối hận sau khi mua máy ảnh.
+Kamera wa katta atode koukai shinai youni yoku kangaete kata kaimashou.
+
+----------------------###----------------------
+
+No.8
+Level: N1
+name: N1: ばこそ (ba koso)
+description: Chính vì
+
+VD 1:
+親は子供のためを思えばこそ厳しく𠮟るのだ。
+Chính vì nghĩ cho con cái nên bố mẹ mới la mắng nghiêm khắc.
+Oya wa kodomo no tame wo omoe ba koso kibishiku shikaru noda.
+VD 2:
+こんなことまで話すのはあなたを信用していければこそです。
+Mình nói đến những chuyện như vậy chính là vì mình tin tưởng nơi cậu.
+Konna koto made hanasu owa anata wo shinyou shite ikere ba koso desu.
+VD 3:
+小説を書くことが楽しければこそ、40年も書き続けてきたのです。
+Chính vì công việc viết tiểu thuyết là niềm vui nên tôi mới viết suốt 40 năm qua.
+Shousetsu wo kaku koto ga tanoshi kere ba koso,40 nen mo kaki tsudukete kita nodesu.
+
+----------------------###----------------------
+
+No.9
+Level: N3
+name: N3: ばよかった (ba yokatta)
+description: Giá mà...thì tốt rồi
+
+VD 1:
+遅刻してしまった。もっと早く家を出ればよかった。
+Tôi đã bị trễ. Giá mà tôi ra khỏi nhà sớm hơn thì tốt rồi.
+Chikoku shite shimatta. Motto ie wo dereba yokatta.
+VD 2:
+田中さんにあんなことを言わなければよかった。
+Giá mà tôi đã không nói những lời như thế với chị Tanaka thì tốt.
+Tanaka san ni anna koto wo iwanakereba yokatta.
+VD 3:
+朝まで待てばよかった。
+Giá mà tôi đợi đến sáng thì tốt biết mấy.
+Asa made mateba yokatta.
+
+----------------------###----------------------
+
+No.10
+Level: N3
+name: N3: ば～ほど (ba~hodo)
+description: Càng...càng
+
+VD 1:
+彼のことを知れば知るほど好きになる。
+Càng hiểu về anh ấy thì lại càng thích hơn.
+Kare no koto wo shire ba shiru hodo suki ni naru.
+VD 2:
+荷物は少なければ少ないほどいい。
+Đồ đạc càng ít càng tốt.
+Nimotsu wa sukunakere ba sukunai hodo ii.
+VD 3:
+この本は読めば読むほど面白い。
+Quyển sách này càng đọc càng thấy thú vị.
+Kono hon wa yome ba yomu hodo omoshiroi.
+VD 4:
+考えば考えるほどわからなくなる。
+Càng suy nghĩ càng chẳng hiểu gì.
+Kangae ba kangaeru hodo wakaranaku naru.
+VD 5:
+ゲームは相手が強ければ強いほど面白いです。
+Chơi game mà đối thủ càng mạnh càng thú vị.
+Game wa aite ga tsuyokere ba tsuyoi hodo omoshiroi.
+
+----------------------###----------------------
+
+No.11
+Level: N4
+name: N4: ば～ほど (ba~hodo)
+description: Càng...càng...
+
+VD 1:
+ビートルズの音楽は聞けば聞くほど好きになります。
+Âm nhạc của Beatles càng nghe càng thích.
+Bi-toruzu no ongaku wa kikeba kiku hodo suki ni narimasu.
+VD 2:
+パソコンは操作が簡単なら簡単なほどいいです。
+Máy vi tính thì thao tác càng đơn giản càng tốt.
+Pasokon wa sousa ga kantan nara kantan na hodo ii desu.
+VD 3:
+日本語は勉強すれば勉強するほどわからなくなる。
+Tiếng nhật càng học càng không hiểu.
+Nihongo wa benkyou sureba benkyou suru hodo wakaranaku naru.
+
+----------------------###----------------------
+
+No.12
+Level: N3
+name: N3: ば～のに (ba~noni)
+description: Thế mà/giá mà
+
+VD 1:
+パーティー、楽しかったよ。君も行けばよかったのに。
+Bữa tiệc vui lắm đấy. Giá mà bạn cũng đến được thì tốt.
+Paatii, tanoshi katta yo. Kimi mo ikeba yokatta noni.
+VD 2:
+安かったら買うのに。
+Nếu rẻ thì sẽ mua thế mà…
+Yasu kattara kau noni.
+VD 3:
+早く連絡してくればよかったのに。
+Giá mà bạn liên lạc sớm với chúng tôi thì tốt biết mấy.
+Hayaku renraku shite kurereba yokatta noni.
+VD 4:
+夕べの番組は面白かった。あなたも見ればよかったのに。
+Chương trình buổi tối thật thú vị. Giá mà bạn có thể xem thì tốt biết mấy.
+Yuube no bangumi wa omoshiro katta. Anata mo mireba yokatta noni.
+
+----------------------###----------------------
+
+No.13
+Level: N4
+name: N4: 場合は (baai wa)
+description: Trong trường hợp.../khi...
+
+VD 1:
+火事の場合は、119をかけます。
+Trong trường hợp xảy ra hỏa hoạn thì gọi 119.
+Kaji no baai wa, 119 wo kakemasu.
+VD 2:
+地震が起きた場合は、テーブルの下に潜ってください。
+Trong trường hợp động đất xảy ra hãy chui xuống gầm bàn.
+Jishin ga okita baai wa, teeburu no shita ni mogutte kudasai.
+VD 3:
+避難する場合は、車を使わないで必ず歩きます。
+Trong trường hợp lánh nạn thì không sử dụng oto mà phải đi bộ.
+Hinan suru baai wa, kuruma wo tsukawanaide kanarazu arukimasu.
+VD 4:
+授業に間に合わない場合は、連絡してください。
+Trong trường hợp không kịp giờ học thì hãy liên lạc với tôi.
+Jugyou ni ma ni awanai baai wa, renraku shite kudasai.
+VD 5:
+ファクスの調子が悪い場合は、どうしたらいいですか。
+Khi máy fax bị trục trặc thì phải làm thế nào?
+Fakusu no choushi ga warui baai wa,dou shitara ii desuka.
+
+----------------------###----------------------
+
+No.14
+Level: N3
+name: N3: ばかり (bakari)
+description: Toàn.../chỉ.../lúc nào cũng
+
+VD 1:
+この店のお客さんは女性ばかりですね。
+Khách của cửa hàng này toàn là nữ giới nhỉ.
+kono mise no okyakusan wa josei bakari desune.
+VD 2:
+弟はテレビを見てばかりいる。
+Em trai tôi dành toàn bộ thời gian của mình xem tivi.
+otouto wa terebi wo mite bakariiru.
+VD 3:
+息子は仕事もしないで遊んでばかりいる。
+Con trai tôi không làm việc mà chỉ có chơi đùa.
+musuko wa shigoto mo shinaide asonde bakariiru.
+VD 4:
+妹は毎日飽きずにカップラーメンばかり食べている。
+Em gái tôi cứ suốt ngày ăn mì hộp mà không chán.
+imouto wa mainichi akizu ni kappuraamen bakari tabeteiru.
+VD 5:
+お金ばかりが全てではない。
+Tiền không phải là tất cả.
+okane bakari ga subete dewa nai.
+VD 6:
+子どもはただ泣いているばかりで、何かあったのか分からなかった。
+Đứa bé cứ khóc suốt từ nãy giờ thôi,tôi chẳng hiểu nó chuyện gì cả.
+kodomo wa tada naiteiru bakaride,nanika attanoka wakaranakatta.
+
+----------------------###----------------------
+
+No.15
+Level: N2
+name: N2: ばかりだ (bakari da)
+description: Cứ/toàn
+
+VD 1:
+年をとると記憶力は衰えるばかりだ。
+Càng có tuổi trí nhớ của tôi ngày càng kém đi.
+Toshi wo toruto kiokuryoku wa otoroeru bakarida.
+VD 2:
+この数年、生活は苦しくなるばかりだ。
+Những năm gần đây, cuộc sống ngày càng trở nên khó khăn.
+Kono suunen, seikatsu wa kurushiku naru bakarida.
+VD 3:
+せっかく覚えた日本語も、使わなければ忘れていくばかりだ。
+Tôi sẽ quên mất nếu tôi không sử dụng tiếng nhật mà khó khắn lắm tôi mới nhớ được.
+Sekkaku oboeta nihongo mo, tsukawanakereba wasureteiku bakarida.
+VD 4:
+仕事も私生活もうまくいかない。ストレスがたまるばかりで、いやになってしまう。
+Công việc hay cuộc sống cá nhân của tôi không thành công. Sự căng thẳng cứ tích lũy lại và tôi ghét điều đó.
+Shigoto mo shiseikatsu mo umaku ikanai. Sutoresu ga tamaru bakaride, iya ni natteshimau.
+
+----------------------###----------------------
+
+No.16
+Level: N4
+name: N4: ばかりです (bakari desu)
+description: Vừa mới...
+
+VD 1:
+さっき昼ごはんを食べたばかりです。
+Tôi vừa mới ăn cơm lúc nãy.
+Sakki hirugohan wo tabeta bakari desu.
+VD 2:
+木村さんは先月にこの会社に入ったばかりです。
+Chị Kimura mới vào công ty này tháng trước.
+Kimura san wa sengetsu ni kono kaisha ni haitta bakari desu.
+VD 3:
+動物園では、生まれたばかりのトラの赤に会えます。
+Ở sở thú tôi đã gặp một con hổ con vừa mới được sinh ra.
+Doubutsuen dewa, umareta bakari no tora no akachan ni aemasu.
+
+----------------------###----------------------
+
+No.17
+Level: N2
+name: N2: ばかりか (bakari ka)
+description: Không chỉ~mà còn
+
+VD 1:
+女王は美しいばかりか心も優しかった。
+Nữ hoàng không chỉ đẹp mà còn tốt bụng nữa.
+Joou wa utsukushi bakari ka kokoro mo yasashikatta.
+VD 2:
+この野菜はビタミンが豊富なばかりか、がんを予防する働きもする。
+Loại rau này không chỉ giàu vitamin mà còn có tác dụng ngăn ngừa ung thư.
+Kono yasai wa bitamin ga houfu na bakarika, gan wo yobousuru hataraki mo suru.
+VD 3:
+その人は親切に道を教えてくれたばかりか、そこまで案内してくれた。
+Người đàn ông đó không chỉ tốt bụng chỉ đường cho tôi mà còn dẫn tôi tới tận nơi.
+Sono hito wa shinsetsu ni michi wo oshietekureta bakari ka, soko made annaishite kureta.
+VD 4:
+失業している私に先輩は生活費を貸してくれた。そればかりか、新しい仕事を紹介してくれた。
+Tiền bối không chỉ cho người đang thất nghiệp như tôi mượn tiền sinh hoạt phí.Bên cạnh đó còn giới thiệu công việc mới cho tôi nữa.
+Shitsugyou shiteiru watashi ni senpai ga seikatsuhi wo kashitekureta. Sore bakari ka, atarashii shigoto wo shoukai shitekureta.
+

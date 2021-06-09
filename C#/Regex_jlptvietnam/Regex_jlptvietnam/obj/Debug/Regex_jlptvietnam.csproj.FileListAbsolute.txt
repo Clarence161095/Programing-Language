@@ -1,0 +1,6 @@
+D:\Trainning\Technical\C#\Training\Regex_jlptvietnam\Regex_jlptvietnam\obj\Debug\Regex_jlptvietnam.csprojAssemblyReference.cache
+D:\Trainning\Technical\C#\Training\Regex_jlptvietnam\Regex_jlptvietnam\bin\Debug\Regex_jlptvietnam.exe.config
+D:\Trainning\Technical\C#\Training\Regex_jlptvietnam\Regex_jlptvietnam\bin\Debug\Regex_jlptvietnam.exe
+D:\Trainning\Technical\C#\Training\Regex_jlptvietnam\Regex_jlptvietnam\bin\Debug\Regex_jlptvietnam.pdb
+D:\Trainning\Technical\C#\Training\Regex_jlptvietnam\Regex_jlptvietnam\obj\Debug\Regex_jlptvietnam.exe
+D:\Trainning\Technical\C#\Training\Regex_jlptvietnam\Regex_jlptvietnam\obj\Debug\Regex_jlptvietnam.pdb

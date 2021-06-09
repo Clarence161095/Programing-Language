@@ -1,0 +1,2787 @@
+----------------------###----------------------
+----------------------###----------------------
+
+No: 3
+Level: N4
+Name: N4: 間に (aida ni)
+Description: Trong khi/trong lúc/trong khoảng...
+Meaning: 
+『間あいだに』Diễn tả khoảng thời gian diễn ra một trạng thái hay hành động kéo dài.
+ Đứng sau từ này sẽ là câu diễn đạt hành động hay sự việc được tiến hành vào một thời điểm nào đó trong khoảng thời gian trên.
+ Trong khi/trong lúc/trong khoảng…
+
+How to use: 
+Vる　✙　 間あいだに
+ N の　✙　 間あいだに
+
+
+VD 1:
+電車に乗っている間に、ずっと音楽を聞いていました。
+Trong lúc lên tàu tàu điện, tôi đã nghe nhạc suốt.
+Densha ni notte iru aida ni, zutto ongaku wo kiite imashita.
+VD 2:
+バスを待っている間に、後ろのおばあさんと話しました。
+Trong lúc chờ xe bus, tôi đã nói chuyện với cụ già ở phía sau.
+Basu wo matte iru aida ni, ushiro no obaasan to hanashimashita.
+VD 3:
+妻が寝ている間に、いつも静かにしています。
+Trong khi vợ tôi đang ngủ, lúc nào tôi cũng giữ yên lặng.
+Tsuma ga neteiru aida ni, itsumo shizuka ni shite imasu.
+VD 4:
+学校にいる間にスマホを使ってはいけません。
+Không sử dụng điện thoại khi bạn đang ở trường học.
+Gakkou ni iru aida ni sumaho wo tsukattewa ikemasen.
+VD 5:
+彼女を待っている間に、スマホでゲームをしていました。
+Trong lúc chờ bạn gái, tôi đã chơi game bằng điện thoại.
+Kanojo wo matte iru aida ni, sumaho de geemu wo shite imashita.
+VD 6:
+留守の間に泥棒が入った。
+Trong khi tôi vắng nhà đã có kẻ trộm vào nhà.
+Rusu no aida ni dorobou ga haitta.
+VD 7:
+食事の間にユーチューブを見ていました。
+Trong lúc đang ăn cơm tôi đã xem Youtube.
+Shokuji no aida ni yuuchuubu wo mite imashita.
+VD 8:
+ハイキングの間に雨が降っていました。
+Trong lúc đang đi bộ thì trời đổ mưa.
+Haikingu no aida ni ame ga futte imashita.
+
+----------------------###----------------------
+
+No: 7
+Level: N4
+Name: N4: あとで (atode)
+Description: Sau đó...
+Meaning: 
+『あとで』Dùng để diễn tả sự việc được biểu thị ở động từ 2 xảy ra sau khi sự việc được biểu thị ở động từ 1 hoặc danh từ xảy ra.
+ So với『Vてから』thì mẫu câu này thể hiện rõ hơn trình tự thời gian trước sau giữa các sự việc.
+ Sau đó…
+
+How to use: 
+V1 た　✙　 あとで　✙　V2
+ N　の　✙　 あとで　✙　V2
+
+
+VD 1:
+授業のあとで先生に質問をします。
+Tôi sẽ đặt câu hỏi cho giáo viên sau giờ học.
+Jugyou no atode sensei ni shitsumon wo shimasu.
+VD 2:
+学校のあとで買い物をします。
+Tôi sẽ đi mua sắm sau khi tan trường.
+Gakkou no atode kaimono wo shimasu.
+VD 3:
+宿題のあとで友達と遊びに行きます。
+Sau khi làm bài tập về nhà xong tôi đi chơi với bạn bè.
+Shukudai no atode tomodachi to asobi ni ikimasu.
+VD 4:
+仕事のあとで飲み会があります。
+Có một bữa tiệc rượu sau giờ làm việc.
+Shigoto no atode nomikai ga arimasu.
+VD 5:
+ケーキはお父さんが帰って来たあとで食べましょうね。
+Cùng ăn bánh kem sau khi bố về nhà nhé.
+Keeki wa otousan ga kaette kita atode tabemashou ne.
+VD 6:
+映画を見たあとで映画のタイトルの意味がわかりました。
+Tôi đã hiểu ý nghĩa của tiêu đề phim sau khi xem phim.
+Eiga wo mita atode eiga no taitoru no imi ga wakari mashita.
+VD 7:
+このソフトを使えば、写真を撮ったあとで編集出来ますよ。
+Nếu bạn sử dụng phần mềm này, bạn có thể chỉnh sửa nó sau khi chụp ảnh.
+Kono sofuto wo tsukaeba, shashin wo totta atode henshuu dekimasu yo.
+VD 8:
+バスが出発したあとで違うバスに乗ったことに気がつきました。
+Tôi nhận ra rằng tôi đã lên một chiếc xe buýt khác sau khi xe buýt khởi hành.
+Basu ga shuppatsu shita atode chigau basu ni notta koto ni ki ga tsukimashita.
+VD 9:
+カメラは買ったあとで後悔しないようによく考えてから買いましょう。
+Hãy mua khi suy nghĩ cẩn thận để không hối hận sau khi mua máy ảnh.
+Kamera wa katta atode koukai shinai youni yoku kangaete kata kaimashou.
+
+----------------------###----------------------
+
+No: 11
+Level: N4
+Name: N4: ば～ほど (ba~hodo)
+Description: Càng...càng...
+Meaning: 
+『ば～ほど』Mẫu câu này diễn tả sự biến đổi tương ứng về mức độ hoặc phạm vi của nội dung được nêu ở phần sau của câu, khi mà điều kiện được nêu ở phần trước của câu thay đổi.
+ Càng…càng…
+
+How to use: 
+Vすれば　Vるほど
+ Aければ　Aいほど
+ na なら　naなほど
+
+
+VD 1:
+ビートルズの音楽は聞けば聞くほど好きになります。
+Âm nhạc của Beatles càng nghe càng thích.
+Bi-toruzu no ongaku wa kikeba kiku hodo suki ni narimasu.
+VD 2:
+パソコンは操作が簡単なら簡単なほどいいです。
+Máy vi tính thì thao tác càng đơn giản càng tốt.
+Pasokon wa sousa ga kantan nara kantan na hodo ii desu.
+VD 3:
+日本語は勉強すれば勉強するほどわからなくなる。
+Tiếng nhật càng học càng không hiểu.
+Nihongo wa benkyou sureba benkyou suru hodo wakaranaku naru.
+
+----------------------###----------------------
+
+No: 13
+Level: N4
+Name: N4: 場合は (baai wa)
+Description: Trong trường hợp.../khi...
+Meaning: 
+『場合ばあいは』Là cách nói về một trường hợp giả định nào đó.Phần tiếp theo sau biểu thị cách xử lý trong trường hợp đó,hoặc kết quả xảy ra.
+ Trong trường hợp…/khi…
+
+How to use: 
+V普　✙　場合ばあいは
+ Aい　✙　場合ばあいは
+ na Adj＋な　✙　場合ばあいは
+ N　の　✙　場合ばあいは
+
+
+VD 1:
+火事の場合は、119をかけます。
+Trong trường hợp xảy ra hỏa hoạn thì gọi 119.
+Kaji no baai wa, 119 wo kakemasu.
+VD 2:
+地震が起きた場合は、テーブルの下に潜ってください。
+Trong trường hợp động đất xảy ra hãy chui xuống gầm bàn.
+Jishin ga okita baai wa, teeburu no shita ni mogutte kudasai.
+VD 3:
+避難する場合は、車を使わないで必ず歩きます。
+Trong trường hợp lánh nạn thì không sử dụng oto mà phải đi bộ.
+Hinan suru baai wa, kuruma wo tsukawanaide kanarazu arukimasu.
+VD 4:
+授業に間に合わない場合は、連絡してください。
+Trong trường hợp không kịp giờ học thì hãy liên lạc với tôi.
+Jugyou ni ma ni awanai baai wa, renraku shite kudasai.
+VD 5:
+ファクスの調子が悪い場合は、どうしたらいいですか。
+Khi máy fax bị trục trặc thì phải làm thế nào?
+Fakusu no choushi ga warui baai wa,dou shitara ii desuka.
+
+----------------------###----------------------
+
+No: 16
+Level: N4
+Name: N4: ばかりです (bakari desu)
+Description: Vừa mới...
+Meaning: 
+『ばかりです』Biểu thị một việc gì đó xảy ra cách thời điểm hiện tại chưa lâu theo cảm nhận của người nói. Khoảng thời gian thực tế từ lúc sự việc đó xảy ra đến thời điểm hiện tại có thể dài ngắn khác nhau, nhưng nếu người nói cảm nhận khoảng thời gian đó là ngắn thì có thể dùng mẫu câu này.
+ Vừa mới…
+
+How to use: 
+Vた　✙ ばかりです
+
+
+VD 1:
+さっき昼ごはんを食べたばかりです。
+Tôi vừa mới ăn cơm lúc nãy.
+Sakki hirugohan wo tabeta bakari desu.
+VD 2:
+木村さんは先月にこの会社に入ったばかりです。
+Chị Kimura mới vào công ty này tháng trước.
+Kimura san wa sengetsu ni kono kaisha ni haitta bakari desu.
+VD 3:
+動物園では、生まれたばかりのトラの赤に会えます。
+Ở sở thú tôi đã gặp một con hổ con vừa mới được sinh ra.
+Doubutsuen dewa, umareta bakari no tora no akachan ni aemasu.
+
+----------------------###----------------------
+
+No: 38
+Level: N4
+Name: N4: で (de)
+Description: Bằng/với...
+Meaning: 
+『で』Đứng sau lượng từ biểu thị mức giới hạn về tiền bạc, thời gian, số lượng cần thiết để một trạng thái, động tác hoặc sự việc được diễn ra.
+ Bằng/với…
+
+How to use: 
+ 助数詞じょすうし ✙　で
+ 助数詞 : Lượng từ từ chỉ cách đếm theo loại
+
+
+VD 1:
+駅まで３０分で行けますか。
+30 phút có đi đến ga được không？
+Eki made 30 pun de ikemasu ka？
+VD 2:
+３万円でビデオを買えますか。
+3 vạn yên có mua đươc đầu video không？
+3 manen de video wo kaemasu ka？
+VD 3:
+１週間でこのレポートを終われますか。
+1 tuần có thể hoàn thành báo cáo này không？
+Isshuukan de kono repo-to wo owaremasu ka？
+VD 4:
+生活費は５万円で足りますか。
+Tiền phí sinh hoạt 1 tháng 5 vạn yên có đủ không？
+Seikatsuhi wa 5 manen de tarimasu ka？
+
+----------------------###----------------------
+
+No: 44
+Level: N4
+Name: N4: でしょう (deshou)
+Description: Có lẽ/chắc hẳn
+Meaning: 
+『でしょう』Mẫu câu này diễn đạt sự suy xét, phán đoán của người nói căn cứ vào thông tin có được. Khi ở dạng nghi vấn thì mẫu câu này dùng để hỏi về sự suy xét, phán đoán của người nghe.
+ Có lẽ/chắc hẳn…
+
+How to use: 
+Aい/V普　✙　でしょう
+ na/N　✙　でしょう
+
+
+VD 1:
+明日は雨が降るでしょう。
+Ngày mai có lẽ trời mưa.
+Ashita wa ame ga furu deshou.
+VD 2:
+タワポンさんは合格するでしょうか。
+Liệu anh thawaphon có đỗ không ？
+Tawapon san wa goukaku suru deshou ka？
+VD 3:
+6時までに彼は帰ってくるでしょう。
+Có lẽ 6 giờ anh ấy sẽ về tới.
+6 ji madeni kare wa kaette kuru deshou.
+VD 4:
+北海道の冬は寒いでしょう。
+Chắn hẳn mùa đông ở hokkaido rất lạnh.
+Hokkaidou no fuyu wa samui deshou.
+VD 5:
+彼は恋人がいるでしょうか。
+Có lẽ anh ấy có người yêu rồi？
+Kare wa koibito ga iru deshou ka？
+VD 6:
+午後は晴れるでしょう。
+Chiều nay có lẽ trời sẽ nắng.
+Gogo wa hareru deshou.
+
+----------------------###----------------------
+
+No: 76
+Level: N4
+Name: N4: はずです (hazu desu)
+Description: Chắc chắn
+Meaning: 
+『はずです』Biểu thị rằng người nói,dựa trên một căn cứ nào đó,phán đoán là chắc chắn một việc gì đó sẽ xảy ra.
+ Chắc chắn…
+
+How to use: 
+Vる/Vない　✙　はずです
+ Aい　  ✙　はずです
+ na Adj な　✙　はずです
+ N の　  ✙　はずです
+
+
+VD 1:
+今10時半ですから、銀行は開いているはずです。
+Bây giờ là 10 giờ rưỡi nên chắc chắn là ngân hàng đang mở cửa.
+Ima 10 jihan desu kara, ginkou wa aiteiru hazu desu.
+VD 2:
+彼女は病気になったですから、来ないはずですね。
+Cô ấy bị bệnh nên chắc là không đến đâu nhỉ.
+Kanojo wa byouki ni natta desukara, konai hazu desu.
+VD 3:
+今日の気温は1度。寒いはずです。
+Hôm nay nhiệt độ là 1℃.Chắc chắn là lạnh rồi.
+Kyou no kion wa 1 do. Samui hazu desu.
+VD 4:
+今日は祝日ですから、会社は休みのはずです。
+Hôm nay là ngày lễ nên công ty chắc chắn là nghỉ.
+Kyou wa shukujitsu desukara, kaisha wa yasumi no hazu desu.
+VD 5:
+暑いはずです。エアコンがつけていないからね。
+Chắc chắn là nóng rồi.Vì điều hòa có bật đâu.
+Atsui hazu desu. Eakon ga tsukete inai kara ne.
+
+----------------------###----------------------
+
+No: 78
+Level: N4
+Name: N4: ほうがいい (hou ga ii)
+Description: Nên/không nên
+Meaning: 
+『ほうがいい』Mẫu câu này dùng để khuyên nhủ.Trong một số trường hợp mẫu câu này mang lại ấn tượng áp đặt đối với người khác, vì thế khi dùng chú ý đến văn cảnh.
+ Nên/không nên…
+
+How to use: 
+Vた  　✙　ほうがいい
+ Vない　✙　ほうがいい
+
+
+VD 1:
+そんなに病気だったら、医者に行ったほうがいい。
+Bệnh như thế thì nên đi tới bác sĩ.
+Sonnani byouki dattara, isha ni itta hou ga ii.
+VD 2:
+僕が話すより君が直接話したほうがいいと思う。
+Anh nghĩ em nên trực tiếp nói thì tốt hơn là anh nói.
+Boku ga hanasu yori kimi ga chokusetsu hanashita hou ga ii to omou.
+VD 3:
+このりんごは腐っていたから食べないほうがいい。
+Qủa táo này bị thối rồi không nên ăn thì tốt hơn.
+Kono ringo wa kusatte ita kara tabenai hou ga ii.
+VD 4:
+暗くなったので早く帰ったほうがいいです。
+Trời đã bắt đầu tối rồi nên nhanh chóng về nhà thì tốt hơn..
+Kuraku natta node hayaku kaetta hou ga ii desu.
+VD 5:
+タバコが体に良くないから吸わないほうがいいだ。
+Vì thuốc lá không tốt cho cơ thể, anh không nên hút thuốc.
+Tabako ga karada ni yokunai kara suwanai hou ga ii da.
+VD 6:
+今日は疲れたから君が早く寝たほうがいいですよ。
+Hôm nay mệt rồi, e nên nghỉ sớm thì tốt hơn đấy.
+Kyou wa tsukareta kara kimi ga hayaku neta hou ga ii desu yo.
+
+----------------------###----------------------
+
+No: 80
+Level: N4
+Name: N4: いいですか (ii desuka)
+Description: ...phải làm thế nào？
+Meaning: 
+『いいですか』Mẫu câu này được dùng để yêu cầu người nghe cho chỉ thị hoặc lời khuyên về cách làm một việc gì đó, hoặc về một việc cần thiết phải làm.
+ …phải làm thế nào？
+
+How to use: 
+VThể điều kiện　✙ いいですか
+
+
+VD 1:
+本を借りたいんですが、どうすればいいですか。
+Tôi muốn mượn sách. Tôi phải làm thế nào？
+Hon wo karitain desuga, dou sureba ii desuka.
+VD 2:
+この漫画はいつまで返せばいいですか。
+Quyển truyện tranh này đến bao giờ thì phải trả lại？
+Kono manga wa itsumade kaeseba ii desuka.
+VD 3:
+東京に行きたいですが、どんな電車で行けばいいですか。
+Mình muốn đi Tokyo, nên đi tàu điện loại nào thì hơn？
+Tokyo ni ikitai desuga, donna densha de ikeba ii desuka.
+
+----------------------###----------------------
+
+No: 82
+Level: N4
+Name: N4: 意向形 (ikou kei)
+Description: Thể ý định, ý hướng
+Meaning: 
+『意向形』Mẫu câu này được dùng khi muốn rủ rê hoặc yêu cầu người nghe đồng ý với mình chuyện gì đó, cách nói này tương tự với cấu trúc［～ましょう］. Ngoài ra cấu trúc này còn được dùng khi người nói đề nghị được giúp, làm cho người nghe việc gì đó.
+ Thể ý định, ý hướng
+
+How to use: 
+ Nhóm 1: 行きますー＞行こう
+ Nhóm 2: 食べますー＞食べよう
+ Nhóm 3: します  ー＞しよう
+
+
+VD 1:
+明日は週末ですから、飲みに行こう。
+Ngày mai là cuối tuần nên hôm nay đi nhậu đi.
+Ashita wa shuumatsu desu kara, nomi ni ikou.
+VD 2:
+今日から自転車で出勤しよう。
+Từ hôm nay chúng ta cùng nhau đi làm bằng xe đạp nhé.
+Kyou kara jitensha de shukkin shiyou.
+VD 3:
+もう11時だ。早く寝よう。
+Đã 11 giờ rồi á. Nhanh đi ngủ thôi nào.
+Mou 11 ji da. Hayaku neyou.
+VD 4:
+少し休もうか。
+Chúng ta nghỉ 1 chút nhé？
+Sukoshi yasumou ka？
+
+----------------------###----------------------
+
+No: 87
+Level: N4
+Name: N4: いただけませんか (itadake masenka)
+Description: Cho phép...được không？
+Meaning: 
+『いただけませんか』Mẫu câu này được dùng khi muốn yêu cầu ai đó cho phép mình làm việc gì đó.
+ Cho phép…được không？
+
+How to use: 
+Vthể sai khiếnて　✙ いただけませんか
+ 行きますー＞行かせて
+ 食べますー＞食べさせて
+ 勉強しますー＞勉強させて
+
+
+VD 1:
+友達の結婚式があるので、早退させていただけませんか？
+Bởi vì có tiệc cưới của bạn, xin hãy cho phép tôi về sớm？
+Tomodachi no kekkonshiki ga aru node, soutai sasete itadake masenka？
+VD 2:
+週末に彼氏と遊びに行かせていただけませんか？
+Cuối tuần này cho con đi chơi với bạn trai nhé？
+Shuumatsu ni kareshi to asobi ni ikasete itadake masenka？
+VD 3:
+ちょっと暑いですから窓を開けさせていただけませんか？
+Bởi vì hơi nóng nên hãy cho phép tôi mở cửa sổ nhé？
+Chotto atsui desu kara mado wo akesasete itadake masenka？
+
+----------------------###----------------------
+
+No: 88
+Level: N4
+Name: N4: いただけませんか (itadake masenka)
+Description: Cho tôi...có được không？
+Meaning: 
+『いただけませんか』Mẫu câu này được dùng để nhờ ai đó làm việc gì đó cho mình. Mẫu câu này có mức độ lịch sự cao hơn 『～てください』.
+ Cho tôi…có được không？
+
+How to use: 
+Vて　✙ いただけませんか
+
+
+VD 1:
+いい先生を紹介していただけませんか？
+Bạn có thể giới thiệu cho mình một giáo viên tốt được không？
+Ii sensei wo shoukai shite itadake masenka？
+VD 2:
+お金を貸していただけませんか？
+Cậu cho mình mượn tiền nhé？
+Okane wo kashite itadake masenka？
+VD 3:
+荷物を持ってきていただけませんか？
+Cậu có thể mang hành lý đến cho mình được không？
+Nimotsu wo motte kite itadake masenka？
+
+----------------------###----------------------
+
+No: 92
+Level: N4
+Name: N4: 条件形 (jouken kei)
+Description: Thể điều kiện
+Meaning: 
+『条件形』Được dùng để biểu thị điều kiện cần thiết để một sự việc nào đó xảy ra.
+ Thể điều kiện
+
+How to use: 
+ Nhóm 1: 行きますー＞行けば
+ Nhóm 2: 食べますー＞食べれば
+ Nhóm 3: します  ー＞すれば
+ Aい　✙　ければ
+ na Adjな ✙　なら
+ N ✙　なら
+
+
+VD 1:
+このボタンを押せば窓が開きます。
+Ấn cái nút này thì cửa sổ sẽ mở.
+Kono botan wo oseba mado ga akimasu.
+VD 2:
+彼女が行けばわたしも行きます。
+Nếu cô ấy đi thì tôi cũng đi.
+Kanojo ga ikeba watashi mo ikimasu.
+VD 3:
+いい天気なら富士山が見えます。
+Nếu thời tiết đẹp thì có thể nhìn thấy núi Phú Sỹ.
+Ii tenki nara Fujisan ga miemasu.
+
+----------------------###----------------------
+
+No: 93
+Level: N4
+Name: N4: か (ka)
+Description: Không...？
+Meaning: 
+『か』Mẫu câu này được dùng để lồng một câu nghi vấn dùng nghi vấn từ vào trong câu văn. Mục đích là hỏi đối phương về nội dung được trình bày ở trước nghi vấn từ.
+ Không…？
+
+How to use: 
+ Nghi vấn từ  ✙　Aい/na/N/V（普）  ✙　 か
+ Nghi vấn từ: いつ、何、どこ…
+
+
+VD 1:
+私たちは初めて会ったのはいつか覚ていますか。
+Cậu còn nhớ lần đầu chúng ta gặp nhau là khi nào không？
+Watashi tachi wa hajimete atta nowa itsu ka, oboete imasu ka？
+VD 2:
+結婚の祝いはなにがいいか話しています。
+Chúng tôi đang bàn xem quà mừng đám cưới nên như thế nào.
+Kekkon no iwai wa nani ga ii ka, hanashite imasu.
+VD 3:
+VN107便は何じに到着するか調べてください。
+Hãy kiểm tra giúp tôi xem chuyến bay VN 107 đến lúc mấy giờ
+VN 107 bin wa nanji ni touchaku suru ka, shirabete kudasai.
+
+----------------------###----------------------
+
+No: 95
+Level: N4
+Name: N4: かどうか (ka douka)
+Description: hay không？
+Meaning: 
+『かどうか』Được dùng khi muốn lồng một câu nghi vấn mà không dùng nghi vấn từ vào trong câu văn.
+ …hay không？
+
+How to use: 
+Aい/V普　✙　 かどうか　
+ na Adjな 　✙　 かどうか　
+ Nだ ✙　 かどうか
+
+
+VD 1:
+彼がこのプレゼントを喜ぶかどうか分かりません。
+Tôi không biết liệu anh ấy có hài lòng với món quà này hay không.
+Kare ga kono purezento wo yorokobu ka douka wakarimasen.
+VD 2:
+名前を書いたかどうか、もう一度チェックしてください。
+Hãy kiểm tra lại một lần nữa xem bạn đã viết tên vào hay chưa.
+Namae wo kaita ka douka, mou ichido chekku shite kudasai.
+VD 3:
+弱いかどうかとはまったく関係ない。
+Có yếu hay không thì cũng chẳng liên quan gì tới nhau hết.
+Yowai ka douka towa mattaku kankei nai.
+VD 4:
+田中さんが大学を卒業できたかどうか知っていますか。
+Anh có biết chị Tanaka đã tốt nghiệp đại học rồi hay chưa không?
+Tanaka san ga daigaku wo sotsugyou dekita ka douka shitte imasu ka.
+VD 5:
+両親が死んだ時、自分が車の中にいたかどうかさえ思い出せない。
+Lúc bố mẹ mất, ngay cả việc bản thân đã ở trong ôtô hay không tôi cũng không thể nhớ lại được.
+Ryoushin ga shinda toki, jibun ga kuruma no naka ni ita ka douka sae omoidasenai.
+VD 6:
+この計画は成功できるかどうか心配です。
+Tôi lo lắng liệu kế hoạch này có thể thành công hay không.
+Kono keikaku wa seikou dekiru ka douka shinpai desu.
+VD 7:
+おいしいかどうか食べなければわからない。
+Nếu không ăn thì không thể biết được nó có ngon hay không.
+Oishii ka douka tabenakereba wakaranai.
+VD 8:
+犯人が捕まったかどうか、知ってる？。
+Thủ phạm đã bị bắt rồi hay chưa, anh có biết không?
+Hannin ga tsukamatta ka douka, shitteru.
+
+----------------------###----------------------
+
+No: 105
+Level: N4
+Name: N4: かもしれません (kamo shiremasen)
+Description: Không chừng/có thể
+Meaning: 
+『かもしれません』Mẫu câu này diễn đạt sự suy xét, phán đoán của người nói. Nó có nghĩa là có khả năng một sự việc hay tình huống nào đó đã hoặc sẽ xảy ra.
+ So với mẫu câu『でしょう』thì mức độ chắc chắn của mẫu câu này thấp hơn nhiều.
+ Không chừng/có thể…
+
+How to use: 
+Aい/V普　✙　かもしれません
+ na/N　✙　かもしれません
+
+
+VD 1:
+約束の時間に間に合わないかもしれません。
+Có thể tôi sẽ không kịp giờ hẹn.
+Yakusoku no jikan ni mani awanai kamo shiremasen.
+VD 2:
+彼はもう寝てしまったかもしれません。
+Chắc là anh ấy đã ngủ rồi.
+Kare wa mou nete shimatta kamo shiremasen.
+VD 3:
+山田さんが言ったアイデア、ちょっと面白いかもしれないよ。
+Ý tưởng của anh Yamada vừa nói có thể là một ý tưởng hay đấy.
+Yamada san ga itta aidea, chotto omoshiroi kamo shirenai yo.
+VD 4:
+私が間違っているかもしれません。
+Có thể là tôi nhầm lẫn.
+Watashi ga machigatte iru kamo shiremasen.
+VD 5:
+雨が降るかもしれない。
+Có thể là trời sẽ mưa.
+Ame ga furu kamo shirenai.
+
+----------------------###----------------------
+
+No: 112
+Level: N4
+Name: N4: 可能形 (kanou kei)
+Description: Thể khả năng
+Meaning: 
+『可能形』Động từ ở thể khả năng, diễn tả việc ai đó có khả năng làm một việc gì đó. Hoặc là diễn tả một điều kiện, tức là một việc gì đó có thể thực hiện trong một hoàn cảnh nào đó.
+ Thể khả năng
+
+How to use: 
+ Nhóm 1: 書きますー＞書けます
+ Nhóm 2: 食べますー＞食べられます
+ Nhóm 3: 来ます  ー＞来られます
+
+
+VD 1:
+わたしは日本語が話せます。
+Tôi có thể nói tiếng Nhật.
+Watashi wa nihongo ga hanase masu.
+VD 2:
+わたしは一人で病院へ行けます。
+Tôi có thể tự mình đi bệnh viện.
+Watashi wa hitori de byouin e ikemasu.
+VD 3:
+この銀行でドルが換える。
+Có thể đổi đô la ở ngân hàng này.
+Kono ginkou de doru ga kaeru.
+
+----------------------###----------------------
+
+No: 123
+Level: N4
+Name: N4: からつくります (kara tsukuri masu)
+Description: Làm từ/bằng...
+Meaning: 
+『からつくります』Được sử dụng khi muốn nói về việc sản xuất một vật. Chúng ta sủ dụng から đối với nguyên liệu  không còn thấy nguyên liệu trên sản phẩm  và で đối với vật liệu  nhìn thấy vật liệu trên sản phẩm .
+ Làm từ/bằng…
+
+How to use: 
+ N　✙　からつくります
+ N　✙　でつくります
+
+
+VD 1:
+ビールは麦からつくられます。
+Bia được làm từ lúa mạch.
+Biiru wa mugi kara tsukurere masu.
+VD 2:
+昔、日本の家は木でつくられました。
+Ngày xưa, nhà ở Nhật được làm bằng gỗ.
+Mukashi, nihon no ie wa ki de tsukurare mashita.
+VD 3:
+酒は米からつくられます。
+Rượu được làm từ gạo.
+Sake wa kome kara tsukurare masu.
+
+----------------------###----------------------
+
+No: 132
+Level: N4
+Name: N4: 謙譲語 ( kenjou go)
+Description: Thể khiêm nhường ngữ
+Meaning: 
+『謙譲語』Đây là cách nói hạ mình khiêm nhường mà người nói dùng để nói về hành vi của bản thân mình, qua đó thể hiện sự kính trọng của mình đối với người nghe hoặc người được nói tới. Cách nói này được dùng với người ngoài cấp trên, người lớn tuổi….
+ Thể khiêm nhường ngữ
+
+How to use: 
+ 1. お ✙ Ⅴ（Ⅰ,Ⅱ）します　Động từ nhóm 1 2 của thể từ điển
+ 2. ご ✙ Ⅴ（Ⅲ）します　Động từ nhóm 3 của thể từ điển
+ 3. 謙譲語の特別の動詞: Động từ đặc biệt của thể khiêm nhường ngữ
+
+
+VD 1:
+重そうですね。お持ちしましょうか。
+Trông có vẻ nặng quá nhỉ. Tôi cầm giúp chị nhé？
+Omosou desu ne. O mochi shimashou ka？
+VD 2:
+わたしは社長にスケジュールをお知らせします。
+Tôi thông báo lịch làm việc tới giám đốc.
+Watashi wa shachou ni sukejuuru wo oshirase shimasu.
+VD 3:
+彼が車でお送りします。
+Anh ấy sẽ chở mọi người bằng ô tô.
+Kare ga kuruma de o okuri shimasu.
+VD 4:
+今日の予定をご説明します。
+Tôi sẽ giải thích về lịch làm việc ngày hôm nay.
+Kyou no yotei wo go setsumei shimasu.
+VD 5:
+社長の奥様にお目にかかりました。
+Tôi đã gặp vợ giám đốc.
+Shachou no okusama ni omeni kakari mashita.
+VD 6:
+明日はまた伺います。
+Ngày mai tôi lại đến thăm anh.
+Ashita wa mata ukagai masu.
+VD 7:
+わたしはトゥオンと申します。
+Tên của tôi là Thương.
+Watashi wa Thuong to moushimasu.
+VD 8:
+ベトナムから参りました。
+Tôi đến từ Việt Nam.
+Betonamu kara mairi mashita.
+
+----------------------###----------------------
+
+No: 134
+Level: N4
+Name: N4: 禁止形 (kinshi kei)
+Description: Thể cấm chỉ
+Meaning: 
+『禁止形』Dùng để ra lệnh cho ai đó không được làm một hành vi nào đó.
+ Thể cấm chỉ
+
+How to use: 
+ Nhóm 1: 行きますー＞行くな
+ Nhóm 2: 食べますー＞食べるな
+ Nhóm 3: します  ー＞するな
+
+
+VD 1:
+授業の時は、携帯電話を使うな。
+Trong giờ học không được dùng điện thoại.
+Jugyou no toki wa keitai denwa wo tsukau na.
+VD 2:
+ここでゴミを捨てるな。
+Không vứt rác ở đây.
+Koko de gomi wo suteru na.
+VD 3:
+ビールを飲むな。
+Không uống bia nữa.
+Biiru wo nomu na.
+
+----------------------###----------------------
+
+No: 137
+Level: N4
+Name: N4: きっと (kitto)
+Description: Chắc chắn...
+Meaning: 
+『きっと』Phó từ này được dùng trong trường hợp người nói khá chắc chắn vào suy đoán của mình. Xác suất suy đoán là đúng nằm trong phạm vi từ mức độ rất cao cho đến mức độ tương đương với でしょう
+ Chắc chắn…
+
+How to use: 
+Nは　✙ きっと
+
+
+VD 1:
+ミラーさんはきっと来ます。
+Anh Miler chắc chắn sẽ tới.
+Mira- san wa kitto kimasu.
+VD 2:
+明日はきっと雨でしょう。
+Ngày mai chắc sẽ mưa.
+Ashita wa kitto ame deshou.
+
+----------------------###----------------------
+
+No: 154
+Level: N4
+Name: N4: くださいませんか (kudasai masenka)
+Description: Có được không...
+Meaning: 
+『くださいませんか』Được dùng khi muốn nhờ ai đó làm gì đó cho mình. Đây là cách nói có mức độ lịch sự cao, nhưng so với［～いただけませんか］thì không bằng.
+ Có được không…
+
+How to use: 
+Vて　✙ くださいませんか
+
+
+VD 1:
+コピー機の使い方を教えてくださいませんか？
+Anh/chị làm ơn chỉ cho tôi cách dùng cái máy photocopy này có được không？
+Kopi-ki no tsukaikata wo oshiete kudasai masenka？
+VD 2:
+もう一度説明してくださいませんか？
+Bạn có thể giải thích một lần nữa được không？
+Mou ichido setsumei shite kudasai masenka？
+VD 3:
+すみません、窓を開けてくださいませんか？
+Xin lỗi, bạn có thể mở cửa sổ hộ mình không?
+Sumimasen, mado wo akete kudasai masenka？
+
+----------------------###----------------------
+
+No: 162
+Level: N4
+Name: N4: まだ (mada)
+Description: Vẫn/vẫn còn...
+Meaning: 
+『まだ』Diễn tả một hành động hoặc một trạng thái còn tiếp diễn.
+ Vẫn/vẫn còn…
+
+How to use: 
+まだ　✙　V肯定こうてい
+
+
+VD 1:
+まだ雨が降っています。
+Trời vẫn đang còn mưa.
+Mada ame ga futte imasu.
+VD 2:
+まだ一時間があるよ。
+Vẫn còn 1 tiếng nữa đấy.
+Mada ichi jikan ga aru yo.
+VD 3:
+3月なのにまだ寒いですね。
+Tháng 3 rồi mà trời vẫn còn lạnh nhỉ.
+San gatsu nanoni mada samui desune.
+
+----------------------###----------------------
+
+No: 163
+Level: N4
+Name: N4: まだ～いません (mada~imasen)
+Description: Vẫn chưa...
+Meaning: 
+『まだ～いません』Dùng để diễn đạt một việc gì đó chưa phát sinh hoặc một động tác nào đó chưa được thực hiện tại thời điểm hiện tại.
+ Vẫn chưa…
+
+How to use: 
+まだ　✙　Vていません
+
+
+VD 1:
+銀行はまだ開いていません。
+Ngân hàng chưa mở cửa.
+Ginkou wa mada aite imasen.
+VD 2:
+この映画はまだ見ていません。
+Bộ phim này tôi vẫn chưa xem.
+Kono eiga wa mada mite imasen.
+VD 3:
+私はまだ決めてない。
+Tôi vẫn chưa quyết định.
+Watashi wa mada kimete nai.
+
+----------------------###----------------------
+
+No: 182
+Level: N4
+Name: N4: 命令形 (meirei kei)
+Description: Thể mệnh lệnh
+Meaning: 
+『命令形』Thể mệnh lệnh được dùng để bắt buộc ai đó phải thực hiện một hành vi nào đó. Bởi kiểu câu này mang sắc thái mạnh, áp đặt nên không sử dụng với cấp trên, người xa lạ… để tránh gây xúc phạm, thất lễ hoặc đánh giá không tốt.
+ Thể mệnh lệnh
+
+How to use: 
+ Nhóm 1: 行きますー＞行け
+ Nhóm 2: 食べますー＞食べろ
+ Nhóm 3: します  ー＞しろ
+
+
+VD 1:
+早く寝ろ。
+Đi ngủ sớm đi.
+Hayaku nero.
+VD 2:
+もっと勉強しろ。
+Phải học nhiều hơn.
+Motto benkyou shiro.
+VD 3:
+前に危ないから早く逃げろ。
+Phía đằng trước nguy hiểm, mau chạy thôi.
+Mae ni abunai kara hayaku nigero.
+VD 4:
+10分休憩があります。トイレに行きたい人は早く行け。
+Chúng ta có 10 phút nghỉ giải lao. Bạn nào muốn đi vệ sinh thì đi nhanh lên.
+10 pun kyuukei ga arimasu. Toire ni ikitai hito wa hayaku ike.
+
+----------------------###----------------------
+
+No: 187
+Level: N4
+Name: N4: も (mo)
+Description: Đến/đến mức...
+Meaning: 
+『も』Trợ từ này được thêm vào sau lượng từ biểu thị rằng người nói cảm thấy con số hoặc số lượng đó là nhiều.
+ Đến/đến mức…
+
+How to use: 
+ 助数詞じょすうし ✙　も
+ 助数詞じょすうし: Lượng từ
+
+
+VD 1:
+駅まで行くのに2時間もかかりました。
+Tôi mất đến 2 tiếng để đi bộ đến ga.
+Eki made iku noni 2 jikan mo kakari mashita.
+VD 2:
+うちを建てるのに3000万円も必要なんですか。
+Để xây nhà cần đến 30 triệu yên à？
+Uchi wo tateru noni 3000 man en mo hitsuyou nan desu ka？
+VD 3:
+N2を合格するのに5回も受けたの。
+Để thi đỗ N2 cậu đã thi tới tận 5 lần á？
+N2 wo goukaku suru noni 5 kai mo uketa no？
+
+----------------------###----------------------
+
+No: 206
+Level: N4
+Name: N4: もしかしたら (moshika shitara)
+Description: Có thể là/hoặc là/biết đâu...
+Meaning: 
+『もしかしたら』Phó từ này thường đi cùng với［～かもしれません］.So với câu không có［もしかしたら］thì câu có［もしかしたら］biểu thị khả năng thấp hơn.
+ Có thể là/hoặc là/biết đâu…
+
+How to use: 
+もしかしたら　✙　［文］～
+
+
+VD 1:
+もしかしたら3月に卒業できないかもしれません。
+Biết đâu là tháng 3 tôi không tốt nghiệp được.
+Moshika shitara 3 gatsu ni sotsugyou dekinai kamo shiremasen.
+VD 2:
+もしかしたら彼はそれを知っているかもしれません。
+Có thể là anh ấy biết điều đó.
+Moshika shitara kare wa sore wo shitte iru kamo shiremasen.
+
+----------------------###----------------------
+
+No: 214
+Level: N4
+Name: N4: んです (n desu)
+Description: Vì/bởi vì...
+Meaning: 
+『んです』Được dùng để nhấn mạnh ý nghĩa giải thích về nguyên nhân, lý do, căn cứ…
+ Vì/bởi vì…
+
+How to use: 
+ Aい/na/N/V（普） ✙　んです
+
+
+VD 1:
+『どうして遅れたんですか。』『バスが来なかったんです。』
+『Tại sao cậu lại đến muộn vậy？』『Vì xe buýt đã không đến.』
+『Doushite okuretan desuka？』『Basu ga konakattan desu.』
+VD 2:
+『道が混んでいますね。』『事故があったんです。』
+『Đường phố đông đúc quá nhỉ.』『Tại vì đã xảy ra tai nạn đấy.』
+『Michi ga konde imasu ne.』『Jiko ga attan desu.』
+VD 3:
+『先生、今日は早退してもいいですか。国から母が来ているんです。』
+『Thầy ơi, hôm nay em có thể về sớm được không？ Bởi vì mẹ em sang đây thăm em ạ.』
+『Sensei, kyou wa soutai shite mo ii desu ka？Kuni kara haha ga kiteirun desu』
+VD 4:
+『どうしたんですか。』『ちょっと気分が悪いんです。』
+『Cậu sao thế？』『Mình cảm thấy người không khỏe.』
+『Dou shitan desuka？』『Chotto kibun ga waruin desu.』
+VD 5:
+『あれは何だろう。』『ああ、ハンカチが落ちているんです。』
+『Cái gì thế kia？』『À, là cái khăn tay đang rơi thôi mà.』
+『Are wa nan darou？』『Aa, hankachi ga ochiteirun desu.』
+VD 6:
+この映画は今週の月曜日から始まるんだ。』
+Bộ phim này thứ 2 tuần này sẽ phát sóng đấy.
+Kono eiga wa konshuu no getsuyoubi kara hajimarun da.
+
+----------------------###----------------------
+
+No: 215
+Level: N4
+Name: N4: んですが (n desu ga)
+Description: Ý tôi là/nhưng
+Meaning: 
+『んですが』Có chức năng mở đầu câu chuyện mà người nói muốn trình bày. Phần tiếp theo là câu đề nghị, mời gọi, hoặc câu xin phép. Từ 『が』trong trường hợp này được dùng để nối các vế của câu văn, nó biểu thị sắc thái ngập ngừng, đắn đo của người nói.
+ Ý tôi là/nhưng…
+
+How to use: 
+Aい/V普　✙　 んですが
+ na Adjな 　✙　 んですが
+ Nだ ✙　 んですが
+
+
+VD 1:
+宿題をしたんですが、学校に持ってくるのを忘れました。
+Tôi đã làm bài tập về nhà nhưng tôi quên mang nó đến trường.
+Shuukudai wo shitan desu ga, gakkou ni mottekuru nowo wasure mashita.
+VD 2:
+私はお酒が強いんですが、昨日は酔っ払ってしまいました。
+Tôi uống rượu rất khỏe nhưng hôm qua tôi đã say.
+Watashi wa osake ga tsuyoin desu ga, kinou wa yopparatte shimai mashita.
+VD 3:
+「すみません。ちょっと質問があるんですが…」　　　　　「はい、なんですか。」
+「Xin lỗi. Tôi có một vài câu hỏi…」        「Vâng, Gì vậy ạ？」
+「Sumimasen. chotto shitsumon ga arun desu ga…」　　「Hai, nan desuka.」
+VD 4:
+「頭が痛いんですが、帰ってもいいですか。」           「そうですか、気をつけて帰ってくださいね。」。
+「Đầu tôi đau, tôi có thể về nhà không？」               「Vậy hả, bạn hãy về nhà cẩn thận nhé.」
+「Atama ga itain desu ga, kaettemo ii desuka？」         「Sou desuka, ki wo tsukete kaette kudasai」.
+VD 5:
+「すみません、ちょっとお願いがあるんですが、写真をとってくれませんか。」      「ああ、いいですよ。」
+「Xin lỗi, tôi có chút việc muốn nhờ, bạn có thể chụp ảnh hộ tôi được không？」          「À, được chứ.」
+「Sumimasen, chotto onegai ga arun desu ga, shashin wo totte kuremasen ka？」    「Aa, ii desu yo.」
+VD 6:
+「あの、ちょっと聞きたいんですが、駅はどっちですか。」     「駅はあっちですよ。」
+「Bạn ơi, tôi muốn hỏi bạn cái này, nhà ga ở phía nào vậy？」 「Nhà ga ở phía kia bạn nhé.」
+「Ano, chotto kikitain desu ga, eki wa docchi desu ka？」           「Eki wa acchi desu yo.」
+
+----------------------###----------------------
+
+No: 216
+Level: N4
+Name: N4: ながら (nagara)
+Description: Vừa...vừa
+Meaning: 
+『ながら』Biểu thị một chủ thể nào đó thực hiện đồng thời 2 hành vi cùng lúc trong một khoảng thời gian nhất định.Hành vi ở động từ thứ 2 được nhấn mạnh hơn.
+ Vừa…
+
+How to use: 
+Vます ながら V2
+
+
+VD 1:
+音楽を聞きながら食事します。
+Tôi vừa ăn cơm vừa nghe nhạc.
+Ongaku wo kiki nagara shokuji shimasu.
+VD 2:
+働きながら日本語を勉強しています。
+Tôi vừa học tiếng nhật vừa đi làm.
+Hataraki nagara nihongo wo benkyou shiteimasu.
+VD 3:
+母は料理を作りながら電話をしている。
+Mẹ tôi vừa nấu ăn vừa gọi điện thoại.
+Haha wa ryouri wo tsukuri nagara denwa wo shiteiru.
+VD 4:
+彼が運転しながらマップを調べます。
+Anh ấy vừa lái xe vừa tra bản đồ.
+Kare ga unten shi nagara mappu wo shirabemasu.
+VD 5:
+私はたばこを吸いながら新聞を読みます。
+Tôi vừa hút thuốc vừa đọc báo.
+Watashi wa tabako wo sui nagara shinbun wo yomimasu.
+VD 6:
+歩きながらながら話しましょう。
+Mình vừa đi vừa nói chuyện nhé.
+Aruki nagara hanashi mashou.
+
+----------------------###----------------------
+
+No: 220
+Level: N4
+Name: N4: ないで (nai de)
+Description: Mà không...
+Meaning: 
+『ないで』Mẫu câu này dùng để nói trong trường hợp có 2 việc không thể thực hiện đồng thời được, và ai đó lựa chọn làm việc được biểu thị ở động từ 2 mà không làm việc ở động từ 1.
+ Mà không…
+
+How to use: 
+V1thể ない ないで V2
+
+
+VD 1:
+日曜日はどこも行かないで、うちでゆっくり休みます。
+Ngày chủ nhật tôi không đi đâu cả mà ở nhà nghỉ ngơi.
+Nichiyoubi wa doko mo ikanai de, uchi de yukkuri yasumi masu.
+VD 2:
+朝寝坊したからご飯を食べないで、学校へ行きます。
+Vì ngủ dậy muộn nên tôi đã không ăn sáng mà đến trường luôn.
+Asanebou shita kara gohan wo tabenai de, gakkou e ikimasu.
+VD 3:
+歯を磨かないで寝てはいけません。
+Không được đi ngủ mà không đánh răng.
+Ha wo migakanai de nete wa ikemasen.
+
+----------------------###----------------------
+
+No: 233
+Level: N4
+Name: N4: なくて (nakute)
+Description: Vì/sau khi...
+Meaning: 
+『なくて』Phần đầu biểu thị nguyên nhân, còn phần sau biểu thị kết quả phát sinh do nguyên nhân đó. Khác với から thì mẫu câu này có nhiều giới hạn trong cách dùng.
+ Vì/sau khi…
+
+How to use: 
+ Vて/Vなくて、～
+ Aい ー＞ Aくて、～
+ na Adjな ー＞ na で、～
+
+
+VD 1:
+そのニュースを聞いて、びっくりしました。
+Tôi đã ngạc nhiên khi nghe tin đó.
+Sono nyuusu wo kiite, bikkuri shimashita.
+VD 2:
+彼女に会えなくて、寂しいです。
+Tôi buồn vì không được gặp cô ấy.
+Kanojo ni ae nakute, sabishii desu.
+VD 3:
+パソコンの調子が悪くて、仕事が出来なかった。
+Vì tình trạng máy tính không tốt nên tôi đã không làm việc được.
+Pasokon no choushi ga waru kute, shigoto ga deki nakatta.
+
+----------------------###----------------------
+
+No: 238
+Level: N4
+Name: N4: なら (nara)
+Description: Nếu mà/nếu là
+Meaning: 
+『なら』Dùng để diễn đạt thông tin, suy nghĩ, nhận định, lời khuyên…của người nói về một chủ đề mà ai đó đã nêu ra trước đó.
+ Nếu mà/nếu là…
+
+How to use: 
+N　✙ なら、～
+
+
+VD 1:
+寿司なら、くら寿司が一番美味しいですよ。
+Nếu là sushi thì ở Kurazushi là ngon nhất đấy.
+Sushi nara, kurazushi ga chiban oishii desu yo.
+VD 2:
+大学生なら、このぐらいは出来るはずです。
+Nếu là sinh viên đại học thì chắc chắn có thể làm được như thế này.
+Daigakusei nara, kono gurai wa dekiru hazu desu.
+VD 3:
+明日、雨なら行きませんよ。
+Ngày mai nếu mà mưa thì mình không đi đâu.
+Ashita ame nara ikimasen yo.
+VD 4:
+『夏休みに旅行したいんです。』『旅行なら北海道がいいだと思います。』
+『Kỳ nghỉ hè này mình muốn đi du lịch.』『Nếu mà du lịch thì mình nghĩ Hokkaido được đấy.』
+『Natsu yasumi ni ryokou shitain desu.』『Ryokou nara hokkaidou ga ii da to omoimasu.』
+VD 5:
+その時のことなら今もよく覚えている。
+Nếu là cái việc lúc đấy thì bây giờ tôi vẫn còn nhớ như in đấy.
+Sono toki no koto nara ima mo yoku oboete iru.
+
+----------------------###----------------------
+
+No: 276
+Level: N4
+Name: N4: にする (ni suru)
+Description: Chọn/quyết định làm gì đó.
+Meaning: 
+『にする』Mẫu câu này diễn tả ý người nói quyết định chọn điều gì đó hoặc quyết định làm gì đó.
+ Chọn/quyết định làm gì đó.
+
+How to use: 
+ N  ✙　にする
+
+
+VD 1:
+君を幸せにします。
+Anh sẽ mang lại hạnh phúc cho em.
+Kimi wo shiawase ni shimasu.
+VD 2:
+韓国に留学することにします。
+Tôi quyết định đi du học ở Hàn Quốc.
+Kankoku ni ryuugaku suru koto ni shimasu.
+VD 3:
+紅茶にしますか。それともコーヒーにしますか。
+Cậu chọn hồng trà？Hay là chọn cà phê？
+Koucha ni shimasu ka？Sore tomo koohii ni shimasu ka？
+VD 4:
+夏休みは沖縄にする。
+Tôi quyết định sẽ đi Okinawa vào kỳ nghỉ hè.
+Natsu yasumi wa Okinawa ni suru.
+
+----------------------###----------------------
+
+No: 290
+Level: N4
+Name: N4: によって (ni yotte)
+Description: Do/bởi...
+Meaning: 
+Khi dùng các động từ biểu thị sự “sáng tạo”, “tạo ra”, “tìm thấy”…ở thể bị động thì chúng ta không dùng『に』mà dùng『によって』để biểu thị chủ thể của hành vi.
+ Do/bởi…
+
+How to use: 
+ N によって ✙　V（受け身）
+ 受け身：Thể bị động
+
+
+VD 1:
+『源氏物語』は紫式部によって書かれました。
+『Chuyện Genji』do Murasaki Shikibu sáng tác.
+『Genji monogatari』wa Murasaki Shikibu ni yotte kakare mashita.
+VD 2:
+電話はベルによって発明されました。
+Điện thoại do Bell phát minh ra.
+denwa wa Bell ni yotte hatsumei sare mashita.
+VD 3:
+カラオケは日本人によって発明されました。
+Karaoke được phát minh bởi người Nhật.
+Karaoke wa nihonjin ni yotte hatsumei sare mashita.
+
+----------------------###----------------------
+
+No: 294
+Level: N4
+Name: N4: にくいです (nikui desu)
+Description: Khó...
+Meaning: 
+『にくいです』Dùng để biểu thị việc làm một việc gì đó là khó khăn. Ngoài ra còn dùng để biểu thị tính chất của chủ thể người hoặc vật là khó thay đổi, hoặc biểu thị một việc gì đó khó xảy ra.
+ 『にくい』cách chia giống tính từ đuôi い.
+ Khó…
+
+How to use: 
+Vます　✙　 にくいです
+
+
+VD 1:
+この箸はちょっと使いにくいです。
+Chiếc đũa này hơi khó dùng.
+Kono hashi wa chotto tsukai nikui desu.
+VD 2:
+足が痛いから歩きにくいです。
+Vì chân tôi đau nên rất khó đi bộ.
+Ashi ga itai kara, aruki nikui desu.
+VD 3:
+昨日のホテルのベッドはちょっと寝にくかった。
+Giường của khách sạn hôm qua hơi khó ngủ một chút.
+Kinou no hoteru no beddo wa chotto ne nikukatta .
+VD 4:
+この曲はテンポが速くて踊りにくいです。
+Bài hát này có nhịp độ nhanh nên khó nhảy.
+Kono kyoku wa tenpo ga hayakute odori nikui desu.
+VD 5:
+あの教室のドアは古くて開けにくいです。
+Cửa sổ của cái phòng học kia đã cũ và rất khó mở.
+Ano kyoushitsu no doa wa furukute ake nikui desu.
+VD 6:
+この店は入口が小さくて入りにくいです。
+Cái cửa hàng này cửa vào rất nhỏ nên khó vào.
+Kono mise wa iriguchi ga chiisakute hairi nikui desu.
+VD 7:
+お寿司はお箸で食べにくかったら手で食べてもいいですよ。
+Món sushi nếu ăn bằng đũa mà khó ăn thì dùng tay ăn cũng được.
+Osushi wa ohashi de tabe nikukattara te de tabetemo ii desu yo.
+VD 8:
+歯は磨きにくいところも磨かないと、虫歯になってしまいます。
+Bạn phải đánh răng cả những chỗ khó đánh nếu không nó sẽ trở thành răng sâu.
+Ha wa migaki nikui tokoro mo migakanai to, mushiba ni natte shimai masu.
+
+----------------------###----------------------
+
+No: 310
+Level: N4
+Name: N4: のを知っていますか (no wo shitte imasu ka)
+Description: Có biết...hay không？
+Meaning: 
+『のを知っていますか』Mẫu câu này được dùng để hỏi xem người nghe có biết nội dung được biểu thị ở phần trước『の』hay không.
+ Có biết…hay không？
+
+How to use: 
+ V（普） ✙ のを知っていますか
+
+
+VD 1:
+木村さんが来月に結婚するのを知っていますか。
+Cậu có biết anh Kimura sẽ cưới vào tháng sau không？
+Kimura san ga raigetsu ni kekkon suru no wo shitte imasu ka？
+VD 2:
+木村さんに赤ちゃんが生まれたのを知っていますか。
+Chị có biết Chị Kimura đã sinh em bé rồi không？
+Kimura san ni akachan ga umareta no wo shitte imasu ka？
+VD 3:
+リンさんはN1を合格したのを知っていますか。
+Cậu có biết Linh đã đỗ N1 rồi không？
+Rin san wa N1 wo goukaku shita no wo shitte imasu ka？
+VD 4:
+安藤さんは離婚したのを知っていますか。
+Cậu có biết chị Ando đã ly hôn rồi không？
+Andou san wa rikon shita no wo shitte imasu ka？
+VD 5:
+来年の10月から税金が10％になるのを知っていますか。
+Cậu có biết từ tháng 10 năm sau tiền thuế sẽ tăng lên 10% hay không？
+Rainen no 10 gatsu kara zeikin ga 10% ni naru no wo shitte imasu ka？
+VD 6:
+佐藤さんが大阪に転勤するのを知っていますか。
+Cậu có biết anh Sato sẽ chuyển công tác đi Osaka hay không？
+Satou san ga Osaka ni tenkin suru no wo shitte imasu ka？
+
+----------------------###----------------------
+
+No: 311
+Level: N4
+Name: N4: のを忘れた (no wo wasureta)
+Description: Quên...
+Meaning: 
+『のを忘れた』Cấu trúc này được dùng khi muốn nói rằng người nói đã quên làm một việc gì đó.
+ Quên…
+
+How to use: 
+ Vる ✙ のを忘れた
+
+
+VD 1:
+牛乳を買うのを忘れた。
+Tôi quên mua sữa rồi.
+Gyuunyuu wo kau no wo wasureta.
+VD 2:
+部屋の窓を閉めるのを忘れた。
+Mình quên đóng cửa sổ phòng rồi.
+Heya no mado wo shimeru no wo wasureta.
+VD 3:
+風邪の薬を飲むのを忘れました。
+Mình quên uống thuốc cảm mất rồi.
+Kaze no kusuri wo nomu no wo wasure mashita.
+VD 4:
+ああ、水着を持っていくのを忘れた。
+Aa, tớ quên mang theo quần áo bơi mất rồi
+Aa, mizugi wo motte iku no wo wasureta.
+VD 5:
+それを言うのを忘れました。
+Mình quên mất phải nói cái đấy rồi.
+Sore wo iu no wo wasure mashita.
+VD 6:
+財布を持ってくるのを忘れた。
+Tôi quên mang theo ví tiền rồi.
+Saifu wo motte kuru no wo wasureta.
+
+----------------------###----------------------
+
+No: 312
+Level: N4
+Name: N4: ので (node)
+Description: Vì là/do...
+Meaning: 
+『ので』Dùng để biểu thị nguyên nhân, lý do.［から］được dùng để biểu thị nguyên nhân, lý do một cách chủ quan còn［ので］biểu thị một cách khách quan quan hệ nhân quả như một diễn biến tự nhiên. Vì［ので］có chức năng làm giảm mức độ chủ quan trong ý kiến của người nói, tạo một ấn tượng nhẹ đối với người nghe, nên nó thường được dùng để nêu ra lý do khi xin phép, hoặc khi lập luận.
+ Vì là/do…
+
+How to use: 
+Aい/ V普　✙ ので
+ na Adjな ✙ ので
+ Nな      ✙ ので
+
+
+VD 1:
+日本語がわからないので、英語で話していただけませんか。
+Vì tôi không hiểu tiếng Nhật, nên làm ơn hãy nói bằng tiếng anh có được không？
+Nihongo ga wakaranai node, eigo de hanashite itadake masenka.
+VD 2:
+用事があるので、お先に失礼します。
+Vì có việc nên tôi xin phép về trước.
+Youji ga aru node, osaki ni shitsurei shimasu.
+VD 3:
+ちょっと寒いので、窓を閉めてもいいですか。
+Do hơi lạnh một chút, tôi đóng cửa sổ được không？
+Chotto samui node, mado wo shimetemo ii desuka.
+
+----------------------###----------------------
+
+No: 314
+Level: N4
+Name: N4: のが好き (noga suki)
+Description: Thích làm gì đó...
+Meaning: 
+『のが好き』Mẫu câu này diễn tả ý người nói thích làm một việc nào đó và sự việc đó được biểu đạt bằng động từ đứng trước のが好き. Chức năng của『の』trong mẫu câu này trợ từ biến động từ thành danh từ.
+ Thích làm gì đó…
+
+How to use: 
+ Vる✙ のが好き
+
+
+VD 1:
+わたしは寝るのが好きです。
+Tôi thích ngủ.
+Watashi wa neru no ga suki desu.
+VD 2:
+漫画を読むのが好きだ。
+Tôi thích đọc truyện tranh.
+Manga wo yomu no ga suki da.
+VD 3:
+妹は料理を作るのが好きです。
+Em gái tôi thích nấu ăn.
+Imouto wa ryouri wo tsukuru no ga suki desu.
+VD 4:
+君、運動するのが好きだね。
+Em thích vận động quá nhỉ.
+Kimi, undou suru no ga suki da ne.
+VD 5:
+わたしは何か食べながら映画を見るのが好きです。
+Tôi thích vừa xem phim vừa ăn cái gì đấy.
+Watashi wa nanika wo tabe nagara eiga wo miru no ga suki desu.
+VD 6:
+多くの日本人は大勢の前に自分の意見を表現するのが好きじゃない。
+Rất nhiều người Nhật không thích việc đứng trước đám đông biểu đạt ý kiến của mình.
+Ooku no nihonjin wa oozei no mae ni jibun no iken wo hyougen suru no ga suki janai.
+
+----------------------###----------------------
+
+No: 315
+Level: N4
+Name: N4: のが～です (noga∼desu)
+Description: Là...
+Meaning: 
+『のが～です』Mẫu câu này được dùng khi muốn diễn tả một đặc trưng nào đó của sự việc được nhắc đến trong câu.
+ Là…
+
+How to use: 
+ Vる 　のが　Aい/na です
+
+
+VD 1:
+テニスをするのが面白いです。
+Chơi quần vợt rất thú vị.
+Tenisu wo suru noga omoshiroi desu.
+VD 2:
+私は花を育てるのが好きです。
+Tôi thích trồng hoa.
+Watashi wa hana wo sodateru noga suki desu.
+VD 3:
+東京の人は歩くのが早いです。
+Người Tokyo đi bộ nhanh.
+Tokyo no hito wa aruku noga hayai desu.
+VD 4:
+彼女は食べるのが好きです。
+Cô ấy thích ăn uống.
+Kanojo wa taberu noga suki desu.
+VD 5:
+水上さんは喋るのが早いです。
+Anh Mizukami nói chuyện rất nhanh.
+Mizukami san wa shaberu noga hayai desu.
+VD 6:
+漫画を読むのが好きです。
+Tôi thích đọc truyện tranh.
+Manga wo yomu noga suki desu.
+
+----------------------###----------------------
+
+No: 318
+Level: N4
+Name: N4: のに (noni)
+Description: Thế mà/vậy mà...
+Meaning: 
+『のに』Được dùng khi mệnh đề phía sau biểu thị một kết quả trái ngược với kết quả đáng lẽ phải có nếu suy đoán từ nội dung của mệnh đề phía trước.
+ Thế mà/vậy mà…
+
+How to use: 
+Aい/ V普　✙ のに
+ na Adjな ✙ のに
+ Nな      ✙ のに
+
+
+VD 1:
+約束をしたのに、彼女は来ませんでした。
+Tôi đã hẹn với cô ấy, vậy mà cô ấy đã không đến.
+Yakusoku wo shita noni, kanojo wa kimasen deshita.
+VD 2:
+この携帯は高いのに、すぐに壊れた。
+Chiếc điện thoại này đắt tiền, vậy mà ngay lập tức đã hỏng rồi.
+Kono keitai wa takai noni, sugu ni kowareta.
+VD 3:
+今日は日曜日なのに、働かなければなりません。
+Hôm nay là chủ nhật, thế mà tôi phải đi làm.
+Kyou wa nichiyoubi na noni, hataraka nakereba narimasen.
+
+----------------------###----------------------
+
+No: 319
+Level: N4
+Name: N4: のは～です (nowa∼desu)
+Description: Là...
+Meaning: 
+『のは～です』Trong mẫu câu này, được dùng để thay thế danh từ biểu thị đồ vật, người, địa điểm…để nêu ra chủ đề của câu.
+ Là…
+
+How to use: 
+ Aい/na/N/V（普） ✙　のは　N です
+
+
+VD 1:
+娘が生まれたのは北海道の小さな町です。
+Nơi con gái tôi sinh ra là một khu phố nhỏ ở Hokkaido.
+Musume ga umareta nowa Hokkaido no chiisana machi desu.
+VD 2:
+１年で一番忙しいのは12月です。
+Tháng bận nhất trong năm là tháng 12.
+1 nen de ichiban isogashii nowa 12 gatsu desu.
+VD 3:
+日本に来たのは去年の10月です。
+Lúc tôi đến Nhật là tháng 10 năm ngoái.
+Nihon ni kita nowa kyonen no 10 gatsu desu.
+VD 4:
+授業が始まるのは10時です。
+Buổi học sẽ bắt đầu vào lúc 10 giờ.
+Jugyou ga hajimaru nowa 10 ji desu.
+
+----------------------###----------------------
+
+No: 332
+Level: N4
+Name: N4: さ (sa)
+Description: Sự/độ/cái...
+Meaning: 
+『さ』Đi sau tính từ đuôi い（đổi đuôi いー＞さ）, biến tính từ đó thành danh từ. Thể hiện mức độ hoặc kích thước của sự việc được nhắc đến trong câu.
+ Sự/độ/cái…
+
+How to use: 
+ Aい ー＞ Aさ
+
+
+VD 1:
+新しい橋の長さは3,911メートルです。
+Chiều dài của cây cầu mới là 3,911 mét.
+Atarashii hashi no nagasa wa 3,911 me-toru desu.
+VD 2:
+彼女の部屋の広さは畳で６畳くらいです。
+Độ rộng của phòng cô ấy khoảng 6 chiếu.
+Kanojo no heya no hirosa wa tatami de 6 jou kurai desu.
+VD 3:
+この料理の美味しさを皆さんに紹介したいです。
+Tôi muốn giới thiệu đến tất cả mọi người cái ngon của món ăn này.
+Kono ryouri no oishisa wo minasan ni shoukai shitai desu.
+VD 4:
+彼の面白さが大好きです。
+Tôi rất thích sự hài hước của anh ấy.
+Kare no omoshirosa ga daisuki desu.
+
+----------------------###----------------------
+
+No: 340
+Level: N4
+Name: N4: し～し (shi~shi)
+Description: Vừa...vừa
+Meaning: 
+『し～し』Mẫu câu này được dùng để nối các mệnh đề hoặc câu có chung quan điểm. Ngoài ra còn thường dùng để liệt kê lý do, nguyên nhân cho một hành động tiếp theo sau đó.
+ Vừa…vừa…
+
+How to use: 
+ Aい/V普　✙ し、～
+ na/N だ　  ✙ し、～
+
+
+VD 1:
+お腹が空いたし、のどが渇いたし、何か食べたいです。
+Vừa đói lại vừa khát, tôi muốn ăn cái gì đó.
+Onaka ga suita shi, nodo ga kawaita shi, nani ka tabetai desu.
+VD 2:
+このコートは色が綺麗だし、好きなデザインだし。買いたいですよ。
+Cái áo khoác này màu vừa đẹp, lại đúng kiểu mình thích nữa. Muốn mua quá.
+Kono ko-to wa iro ga kirei dashi, sukina dezain da shi. Kaitai desu yo.
+VD 3:
+今日は週末だったし、天気が良かったので、公園は人が多かったです。
+Vì hôm nay là cuối tuần, thời tiết lại đẹp nữa nên công viên rất đông người.
+Kyou wa shuumatsu datta shi, tenki ga yokatta node, kouen wa hito ga ookatta desu.
+VD 4:
+彼は勉強ができるしスポーツも上手だし、私の好きなタイプだ。
+Anh ấy vừa học được lại giỏi thể thao, đúng là gu của mình thích.
+Kare wa benkyou ga dekiru shi, supo-tsu mo jouzu dashi, watashi no suki na taipu da.
+
+----------------------###----------------------
+
+No: 344
+Level: N4
+Name: N4: 使役形 (shieki kei)
+Description: Thể sai khiến
+Meaning: 
+『使役形』Động từ thể sai khiến biểu thị một trong hai nghĩa là “bắt buộc” hoặc “cho phép”. Nó được dùng trong trường hợp khi mà quan hệ trên dưới rõ ràng, ví dụ như cấp trên-cấp dưới, bố mẹ-con cái…và người trên bắt buộc hoặc cho phép người dưới làm một việc gì đó.
+ Thể sai khiến
+
+How to use: 
+ Nhóm 1: 行きますー＞行かせます
+ Nhóm 2: 食べますー＞食べさせます
+ Nhóm 3: します  ー＞させます
+
+
+VD 1:
+わたしは息子を自由に遊ばせました。
+Tôi đã để cho con trai chơi tự do.
+Watashi wa musuko wo jiyuu ni asobase mashita.
+VD 2:
+山田課長は佐藤さんを名古屋へ出張させます。
+Trưởng phòng Yamada cho anh Sato đi công tác Nagoya.
+Yamada kachou wa Sato san wo Nagoya e shucchou sase masu.
+VD 3:
+わたしは子供を歩かせます。
+Tôi cho con đi bộ.
+Watashi wa kodomo wo arukase masu.
+VD 4:
+病気にならないように、子供を運動させました。
+Để không bị bệnh, tôi đã cho con tập thể dục.
+Byouki ni naranai youni, kodomo wo undou sase mashita.
+
+----------------------###----------------------
+
+No: 345
+Level: N4
+Name: N4: しか～ない (shika∼nai)
+Description: Chỉ...
+Meaning: 
+『しか～ない』Luôn đi cùng với động từ ở thể phủ định. Nó nhấn mạnh phần đứng trước, giới hạn phần đó và phủ định những nội dung khác còn lại.
+ Chỉ…
+
+How to use: 
+ N  ✙　しか　Vない
+
+
+VD 1:
+今５００円しか持ってない。
+Bây giờ tôi chỉ còn có 500 yên nữa thôi.
+Ima 500 en shika mottenai.
+VD 2:
+私のクラスは5人しかいません。
+Lớp của tôi chỉ có 5 người thôi.
+Watashi no kurasu wa 5 nin shika imasen.
+VD 3:
+今は会議室で山崎さんしかいない。
+Hiện tại ở phòng họp chỉ có anh Yamazaki thôi.
+Ima wa kaigishitsu de Yamazaki san shika inai.
+VD 4:
+彼女は日本語しか話せない。
+Cô ấy chỉ có thể nói tiếng nhật.
+Kanojo wa nihongo shika hanasenai.
+VD 5:
+冷蔵庫には卵しか残ってない。
+Ở trong tủ lạnh chỉ còn sót mỗi trứng nữa thôi.
+Reizouko niwa tamago shika nokottenai.
+VD 6:
+わたしの口座は今１０００円しかありません。
+Trong tài khoản của tôi bây giờ chỉ có 1000 yên nữa thôi.
+Watashi no kouza wa ima 1000 en shika arimasen.
+
+----------------------###----------------------
+
+No: 352
+Level: N4
+Name: N4: 尊敬語 ( sonkei go)
+Description: Tôn kính ngữ
+Meaning: 
+『尊敬語』Là cách nói được dùng để biểu thị sự kính trọng của người nói đối với người nghe hoặc người được nói tới, khi nói về hành vi hoặc trạng thái của người nghe hoặc người được nói tới.
+ Tôn kính ngữ
+
+How to use: 
+ 1. ⅤⅡ（受身形）Động từ nhóm 2 của thể bị động
+ 2. お ✙ Ⅴます になります
+ 3. お ✙ Ⅴます ください
+ 4. お/ご ✙ N/Aい/na/副詞phó từ
+ 5. 尊敬語の特別の動詞: Động từ đặc biệt của thể tôn kính ngữ.
+
+
+VD 1:
+社長は2時に来られます。
+Giám đốc đến vào lúc 2 giờ.
+Shachou wa 2 ji ni korare masu.
+VD 2:
+タバコを辞められたんですか。
+Anh đã bỏ được thuốc lá rồi à？
+Tabako wo yameraretan desuka？
+VD 3:
+山田課長はもうお帰りになりました。
+Trưởng phòng Yamada đã về nhà rồi.
+Yamada kachou wa mou okaeri ni narimashita.
+VD 4:
+昨日、会長はお亡くなりました。
+Ngày hôm qua, chủ tịch đã mất.
+Kinou, kaichou wa onaku narimashita.
+VD 5:
+あちらからお入りください。
+Xin mời anh/chị vào từ phía kia.
+Achira kara o hairi kudasai.
+VD 6:
+お名前をご確認ください。
+Xin vui lòng kiểm tra lại tên.
+O namae wo go kakunin kudasai.
+VD 7:
+お忙しいところに申し訳ございません。
+Tôi rất xin lỗi đã gọi cho anh vào cái lúc bận rộn này.
+O isogashii tokoro ni moushi wake gozaimasen.
+VD 8:
+すみません、表課長はいらっしゃいませんか。
+Xin lỗi, trưởng phòng Omote có ở đấy không ạ？
+Sumimasen, Omote kachou wa irasshai masen ka？
+VD 9:
+どうぞ召し上がってください。
+Xin mời anh/chị dùng.
+Douzo meshi agatte kudasai.
+
+----------------------###----------------------
+
+No: 356
+Level: N4
+Name: N4: それで (sore de)
+Description: Do đó/vì thế...
+Meaning: 
+『それで』Là liên từ dùng để nối phần đứng trước nó nói về một việc nào đó, và phần đứng sau nó nói về nguyên nhân hoặc lý do dẫn đến việc đó.
+ Do đó/vì thế…
+
+How to use: 
+［文］、それで～
+
+
+VD 1:
+『このレストランは値段も安いし、美味しいんです。』『．．．それで人が多いんですね。』
+『Nhà hàng này giá vừa rẻ lại ngon.』『…Vì thế mà đông khách nhỉ.』
+『Kono resutoran wa nedan mo yasui shi, oishiin desu.』『…Sore de hito ga ooin desune.』
+VD 2:
+私は風邪をひいたらしい。それで、今日は病院に行きます。
+Hình như tôi bị cảm rồi. Vì thế mà hôm nay tôi sẽ đi bệnh viện kiểm tra.
+Watashi wa kaze wo hiita rashii. Sore de, kyou wa byouin ni ikimasu.
+
+----------------------###----------------------
+
+No: 362
+Level: N4
+Name: N4: それに (sore ni)
+Description: Hơn thế nữa...
+Meaning: 
+『それに』Được dùng khi muốn bổ sung thêm một tình tiết hoặc điều gì đó vào tình huống hoặc điều đã nói trước đó.
+ Hơn thế nữa…
+
+How to use: 
+［文］、それに～
+
+
+VD 1:
+『どうしてさくら大学を選んだんですか。』『．．．さくら大学は、父が出た大学だし、いい先生も多いし、それに家から近いですから。』
+『Tại sao cậu lại chọn trường đại học Sakura？』『…Vì đây là trường bố mình đã tốt nghiệp, có nhiều giảng viên tốt, hơn thế nữa nó lại gần nhà mình.』
+『Doushite sakura daigaku wo erandan desuka？』『…Sakura daigaku wa, chichi ga deta daigaku dashi, ii sensei mo ooi shi, sore ni ie kara chikai desu kara.』
+VD 2:
+安田さんは親切だし、頭もいいし、それにカッコイイです。
+Anh Yasuda vừa tốt bụng, thông minh, hơn thế nữa lại rất đẹp trai.
+Yasuda san wa shinsetsu dashi, atama mo ii shi, sore ni kakkoii desu.
+VD 3:
+このレストランは料理が美味しくないし、値段も高いし、それにサービスが悪いので二度と行かない。
+Cái nhà hàng này đồ ăn vừa không ngon, giá lại mắc, hơn nữa dịch vụ rất kém nên tôi sẽ không đến lần 2 đâu.
+Kono resutoran wa ryouri ga oishikunai shi, nedan mo takai shi, sore ni sa-bisu ga warui node nido to ikanai.
+
+----------------------###----------------------
+
+No: 365
+Level: N4
+Name: N4: それは (sore wa)
+Description: Cái đó/chuyện đó/thế thì...
+Meaning: 
+『それは』Dùng để chỉ điều mà đối tác hội thoại nói ngay trước đó.
+ Cái đó/chuyện đó/thế thì…
+
+How to use: 
+［文］、それは～
+
+
+VD 1:
+『ブロードウェイでミュージカルを見たいと思うんですが．．．』『．．．それはいいですね。』
+『Tôi muốn đi xem ca nhạc kịch ở Broadway…』『Hay quá nhỉ.』
+『Broadway de musical wo mitai to omoun desuga…』『…Sore wa ii desune.』
+VD 2:
+『来月から大阪の本社に転勤なんです。』『．．．それはおめでとうございます。』
+『Từ tháng sau tôi chuyển đến làm việc ở trụ sở chính ở Osaka.』『…Thế thì xin chúc mừng anh.』
+『Raigetsu kara Oosaka no honsha ni tenkin nan desu.』『…Sore wa omedetou gozai masu.』
+VD 3:
+『時々頭や胃が痛くなるんです。』『．．．それはいけませんね。』
+『Thỉnh thoảng tôi đau đầu hoặc đau dạ dày.』『…Thế thì thật không tốt.』
+『Tokidoki atama ya i ga itaku narun desu.』『…Sore wa ikemasen ne.』
+
+----------------------###----------------------
+
+No: 367
+Level: N4
+Name: N4: そうです (sou desu)
+Description: Nghe nói
+Meaning: 
+『そうです』Trong mẫu câu này người nói truyền đạt lại thông tin mình nhận được ở đâu đó mà không thêm ý kiến riêng của mình vào.
+ Nghe nói…
+
+How to use: 
+Aい/V普　✙ そうです
+ na/N　だ　✙ そうです
+
+
+VD 1:
+そこは冬でも雪が降らないそうです。
+Nghe nói ở chỗ đó ngay cả mùa đông tuyết cũng không rơi.
+Soko wa fuyu demo yuki ga furanai sou desu.
+VD 2:
+安藤さんは今日、病院に行くそうです。
+Nghe bảo hôm nay chị Ando đi bệnh viện.
+Andou san wa kyou, byouin ni iku sou desu.
+VD 3:
+昨日、大阪に大きい地震があったそうです。
+Nghe bảo hôm qua có một trận động đất lớn ở Osaka.
+Kinou, Oosaka ni ookii jishin ga atta sou desu.
+VD 4:
+来月、大学でイベントがあるそうです。
+Nghe bảo tháng sau ở trường đại học có lễ hội đấy.
+Raigetsu, daigaku de ibento ga aru sou desu.
+VD 5:
+りんごは体に良いそうです。
+Nghe nói ăn táo tốt cho cơ thể.
+Ringo wa karada ni ii sou desu.
+VD 6:
+新しい図書館はとても便利だそうです。
+Tớ nghe nói thư viện mới rất tiện lợi đấy.
+Atarashii toshokan wa totemo benri da sou desu.
+VD 7:
+あの人は日本人だそうです。
+Nghe nói người kia là người Nhật.
+Ano hito wa nihonjin da sou desu.
+
+----------------------###----------------------
+
+No: 368
+Level: N4
+Name: N4: そうです (sou desu)
+Description: Có vẻ/hình như
+Meaning: 
+『そうです』Dùng trong trường hợp thể hiện sự nhận định, đánh giá của người nói dựa trên những gì nhìn thấy, những thông tin thu thập được từ thị giác.
+ そうな＋N : Dùng như tính từ bổ nghĩa cho danh từ theo sau.
+ Có vẻ/hình như…
+
+How to use: 
+Vます　✙ そうです
+ Aい　✙ そうです
+ na Adjな　✙ そうです
+
+
+VD 1:
+明日は、天気が悪くなりそうです。
+Có vẻ ngày mai thời tiết sẽ xấu đi.
+Ashita wa, tenki ga waruku nari sou desu.
+VD 2:
+静かにしてください！赤ちゃんが起きそうです。
+Mọi người hãy trật tự nào! Em bé hình như sắp tỉnh đấy.
+Shizukani shite kudasai! Akachan ga oki sou desu.
+VD 3:
+あああ、車が壁にぶつかりそうでした。
+Aaa, hình như xe ôtô va vào tường rồi.
+Aaa, kuruma ga kabe ni butsukari sou deshita.
+VD 4:
+そのケーキは美味しそうですね、ちょっと食たべてもいいですか。
+Chiếc bánh kem kia trông ngon quá, tôi ăn thử một miếng được không？
+Sono keeki wa oishi sou desu ne, tabetemo ii desuka ？
+VD 5:
+うれしそうですね、どうしたんですか。
+Trông bạn có vẻ rất vui, có chuyện gì thế？
+Ureshi sou desu ne, doushitan desuka？
+VD 6:
+元気じゃなさそうですね、大丈夫ですか。
+Trông cậu có vẻ không được khỏe nhỉ, không sao chứ ？
+Genki janasa sou desu ne, daijobu desuka？
+VD 7:
+あの人はだれですか？とても優しそうな人ですね。
+Người kia là ai vậy？ Trông có vẻ là một người rất hiền.
+Ano hito wa dare desuka？ totemo yasashi souna hito desune.
+
+----------------------###----------------------
+
+No: 373
+Level: N4
+Name: N4: すぎます (sugi masu)
+Description: Quá...
+Meaning: 
+『すぎます』Biểu thị sự vượt quá giới hạn cho phép của một hành vi hoặc một trạng thái. Chính vì thế, thông thường mẫu câu được dùng để nói về những điều không tốt.
+ Quá…
+
+How to use: 
+Vます　✙　 すぎます
+ Aい　✙　すぎます
+ na Adjな　✙　すぎます
+
+
+VD 1:
+彼がタバコを吸いすぎます。
+Cậu ấy hút thuốc nhiều quá.
+Kare ga tabako wo suisugi masu.
+VD 2:
+昨日は遊びすぎました。
+Hôm qua tôi đi chơi quá nhiều.
+Kinou wa asobisugi mashita.
+VD 3:
+もう昼です。寝すぎました。
+Đã trưa mất rồi. Tôi đã ngủ nhiều quá.
+Mou hiru desu. Nesugi mashita.
+VD 4:
+食べすぎないでください。
+Đừng ăn nhiều quá nhé.
+Tabesugi naide kudasai.
+VD 5:
+この牛肉は高すぎます。
+Miếng thịt bò này đắt quá.
+Kono gyuuniku wa taka sugi masu.
+VD 6:
+このコーヒーは甘すぎます。
+Ly cà phê này ngọt quá.
+Kono koohii wa ama sugi masu.
+VD 7:
+この問題は複雑すぎます。
+Cái vấn đề này quá phức tạp.
+Kono mondai wa fukuzatsu sugi masu.
+VD 8:
+彼は生意気すぎます。それで彼のことがあまり好きじゃない。
+Anh ta quá kiêu căng. Do đó mình không thích anh ta một chút nào.
+Kare wa namaiki sugi masu. Sore de kare no koto ga amari suki janai.
+
+----------------------###----------------------
+
+No: 384
+Level: N4
+Name: N4: たぶん (tabun)
+Description: Có lẽ...
+Meaning: 
+『たぶん』Phó từ này biểu thị mức độ chắc chắn thấp hơn［きっと］, và thường được dùng kèm với［でしょう］hoặc［～と思います］.
+ Có lẽ…
+
+How to use: 
+［文］、たぶん～
+
+
+VD 1:
+『ミラーさんは来るでしょうか？』『．．．たぶん来るでしょう。』
+『Liệu anh Miler có đến không？』『…Có lẽ anh ấy sẽ đến.』
+『Mira- san wa kuru deshouka？』『…Tabun kuru deshou.』
+VD 2:
+山田さんはこのニュースをたぶん知らないと思います。
+Tôi nghĩ có lẽ anh Yamada không biết tin này.
+Yamada san wa kono nyu-su wo tabun shiranai to omoi masu.
+
+----------------------###----------------------
+
+No: 388
+Level: N4
+Name: N4: ために (tame ni)
+Description: Để/cho/vì...
+Meaning: 
+『ために』Dùng để biểu thị mục đích của chủ thể. Danh từ + ために: được dùng với ý nghĩa “vì/cho lợi ích của danh từ”.
+ Để/cho/vì…
+
+How to use: 
+ V辞書形　✙ ために、～
+ Nの　      ✙ ために、～
+
+
+VD 1:
+日本へ旅行をするために、貯金しています。
+Tôi để dành tiền để đi du lịch Nhật Bản.
+Nihon e ryokou wo suru tame ni, chokin shite imasu.
+VD 2:
+彼氏に会うために、東京に行きます。
+Tôi đi Tokyo để gặp bạn trai.
+Kareshi ni au tame ni, Tokyo ni ikimasu.
+VD 3:
+来年から一人暮らしするために、お金を貯めています。
+Tôi để dành tiền để sang năm sống riêng một mình.
+Rainen kara hitori gurashi suru tame ni, okane wo tamete imasu.
+VD 4:
+今度の面接のために、このスーツを買いました。
+Tôi đã mua bộ áo vét này để cho lần phỏng vấn tới.
+Kondo no mensetsu no tame ni, kono su-tsu wo kaimashita.
+
+----------------------###----------------------
+
+No: 391
+Level: N4
+Name: N4: たらいいですか (tara ii desuka)
+Description: Nên/phải làm thế nào？
+Meaning: 
+『たらいいですか』Mẫu câu này được dùng khi người nói muốn người nghe khuyên bảo hoặc hướng dẫn mình phải làm hoặc nên làm gì đó trong một tình huống nào đó.
+ Nên/phải làm thế nào？
+
+How to use: 
+ Vた　✙ らいいですか
+
+
+VD 1:
+どこでカメラを買ったらいいですか。
+Tôi nên mua máy ảnh ở đâu？
+Doko de kamera wo kattara ii desuka.
+VD 2:
+細かいお金がないんですが、どうしたらいいですか。
+Tôi không có tiền lẻ. Tôi phải làm thế nào？
+Komakai okane ga nain desuga, dou shitara ii desuka.
+VD 3:
+お腹が痛いんですが、どうしたらいいですか。
+Tôi bị đau bụng, tôi nên làm thế nào？
+Onaka ga itain desuga, dou shitara ii desuka.
+
+----------------------###----------------------
+
+No: 398
+Level: N4
+Name: N4: てある (te aru)
+Description: Có làm gì đó
+Meaning: 
+『てある』Thể hiện trạng thái của chủ thể N, thường được dùng khi ai đó trong quá khứ đã tác động lên chủ thể N thông qua việc thực hiện hành động V, kết quả của hành động đó vẫn đang được lưu giữ lại ở hiện tại.
+ Có làm gì đó…
+
+How to use: 
+N1 に N2 が　✙ Vてある　
+ N2 は N1 に　✙ Vてある
+
+
+VD 1:
+机の前の壁にはカレンダーが張ってあった。写真も絵も何もない数字だけのカレンダーだった。
+Có một cái lịch trên tường ở phía trước bàn làm việc. Đó là một lịch chỉ có các con số không có hình ảnh hoặc tranh.
+Tsukue no mae no kabe ni wa karendaa ga hatte atta. Shashin mo e mo nanimo nai suuji dake no karendaa datta.
+VD 2:
+そのことは書いた手紙の中にも注意てありました。
+Tôi cũng lưu ý việc đó trong bức thư tôi đã viết.
+Sono koto wa kaita tegami no naka ni mo chuui shite arimashita.
+VD 3:
+あなたの秘密は厳重に保管してあります。
+Bí mật của bạn được giữ nghiêm ngặt.
+Anata no himitsu wa genjuu ni hokan shite arimasu.
+VD 4:
+黒板に私の名前が書いてある。
+Trên bảng có viết tên của tôi.
+Kokuban ni watashi no namae ga kaite aru.
+
+----------------------###----------------------
+
+No: 402
+Level: N4
+Name: N4: ている (te iru)
+Description: Thường làm gì đó....
+Meaning: 
+『ている』Mẫu câu này biểu thị một thói quen hay một hành vi thực hiện đều đặn. Nếu là thói quen hay hành vi trong quá khứ thì dùng thể Vていました.
+ Thường làm gì đó….
+
+How to use: 
+ Vて　✙　いる
+
+
+VD 1:
+毎朝ジョギングをしています。
+Tôi thường chạy bộ mỗi sáng.
+Maiasa jogingu wo shite imasu.
+VD 2:
+子供のとき、毎晩8時に寝ていました。
+Lúc còn bé, mỗi tối tôi thường đi ngủ lúc 8 giờ.
+Kodomo no toki, maiban 8 ji ni nete imashita.
+VD 3:
+毎日、自転車で通勤しているよ。
+Hằng ngày tôi đi làm bằng xe đạp.
+Mainichi, jitensha de tsuukin shite iru yo.
+VD 4:
+我がの社長は毎朝ブラックコーヒーを飲んでいます。
+Giám đốc của chúng tôi mỗi sáng đều uống cà phê đen.
+Waga no shachou wa maiasa burakku ko-hi- wo nonde imasu.
+
+----------------------###----------------------
+
+No: 405
+Level: N4
+Name: N4: て来ます (te kimasu)
+Description: Đi đâu đó rồi về...
+Meaning: 
+『て来ます』Diễn đạt ý nghĩa “đi đến một địa điểm nào đó để thực hiện một hành vi nào đó, rồi quay trở về”.
+ Đi đâu đó rồi về…
+
+How to use: 
+Vて　✙ 来ます
+
+
+VD 1:
+ちょっとタバコを買って来ます
+Tôi đi mua thuốc lá một chút rồi về.
+Chotto tabako wo katte kimasu.
+VD 2:
+スーパーで牛乳を買って来ます
+Tôi đi mua sữa ở siêu thị.
+Super de gyuunyuu wo katte kimasu.
+VD 3:
+台所からコップを取って来ます
+Tôi đi lấy cái cốc từ bếp.
+Daidokoro kara koppu wo totte kimasu.
+
+----------------------###----------------------
+
+No: 408
+Level: N4
+Name: N4: てみます (te mimasu)
+Description: Thử làm...
+Meaning: 
+『てみます』Mẫu câu này biểu thị ý muốn thử làm gì đó.
+ Thử làm…
+
+How to use: 
+Vて　✙ みます
+
+
+VD 1:
+もう一度やってみます。
+Tôi sẽ thử làm lại một lần nữa.
+Mou ichido yatte mimasu.
+VD 2:
+君の料理を食べてみたいです。
+Anh muốn ăn thử đồ ăn em nấu.
+Kimi no ryouri wo tebete mitai desu.
+VD 3:
+日本の着物を着てみたいです。
+Tôi muốn mặc thử kimono của Nhật.
+Nihon no kimono wo kite mitai desu.
+VD 4:
+この問題について君の意見を聞いてみたい。
+Anh muốn nghe thử ý kiến của em về vấn đề này.
+Kono mondai ni tsuite kimi no iken wo kiite mitai.
+VD 5:
+昨日、話題になっている店に行ってみました。
+Hôm qua, tôi đã thử đến cái cửa hàng mà dạo này người ta đang bàn tán.
+Kinou, wadai ni natte iru mise ni itte mimashita.
+VD 6:
+その本を読んてみます。
+Mình sẽ đọc thử quyển sách đấy xem sao.
+Sono hon wo yonde mimasu.
+VD 7:
+刺身を食べてみたけどあまり好きじゃない。
+Tôi đã ăn thử món sasimi rồi nhưng không thích lắm.
+Sasimi wo tabete mita kedo amari suki janai.
+
+----------------------###----------------------
+
+No: 409
+Level: N4
+Name: N4: ておきます (te okimasu)
+Description: Làm gì trước...
+Meaning: 
+『ておきます』
+ 1. Dùng để diễn tả việc hoàn thành xong một động tác hoặc hành vi cần thiết nào đó trước một thời điểm nhất định.
+ 2. Dùng để diễn tả việc hoàn thành xong một động tác cần thiết nào đó để chuẩn bị cho lần sử dụng sau hoặc diễn tả một giải pháp tạm thời nào đó.
+ 3. Dùng để diễn tả việc giữ nguyên hoặc duy trì một trạng thái.
+ Làm gì trước…
+
+How to use: 
+Vて　✙　おきます
+
+
+VD 1:
+旅行の前に切符を買っておきます。
+Trước khi đi du lịch tôi mua vé trước.
+Ryokou no mae ni kippu wo katte okimasu.
+VD 2:
+出かける前に何か食べておこう。
+Chúng ta hãy ăn gì đó trước khi ra ngoài.
+Dekakeru mae ni nanika tabete okou.
+VD 3:
+円が上がる前に両替しておいて良かった。
+Thật may là mình đã đổi tiền trước khi đồng yên tăng.
+En ga agaru mae ni ryougae shite oite yokatta.
+
+----------------------###----------------------
+
+No: 410
+Level: N4
+Name: N4: てしまいます (te shimai masu)
+Description: Xong/lỡ làm...
+Meaning: 
+『てしまいます』Dùng để diễn tả đã lỡ làm, đã hoàn thành, kết thúc việc gì đó. Bởi vì mẫu câu này nhấn mạnh ý nghĩa “kết thúc, hoàn thành” nên luôn đi cùng với các phó từ như もう、ぜんぶ.
+ 『てしまいます』　Diễn tả sự kết thúc, hoàn thành trong tương lai gần.
+ 『てしまいました』Nhấn mạnh sự việc nào đó đã kết thúc, đã được hoàn thành.
+ Ngoài ra còn diễn tả sự bối rối hoặc nuối tiếc của người nói khi ở trong một hoàn cảnh khó khăn.
+ Xong/lỡ làm…
+
+How to use: 
+Vて　✙ しまいます
+
+
+VD 1:
+昼ごはんまでにレポートを書いてしまいます。
+Cho đến trước bữa trưa, tôi sẽ viết xong bản báo cáo.
+Hiru gohan made ni repo-to wo kaite shimai masu.
+VD 2:
+漢字の宿題はもうやってしまいました。
+Bài tập chữ hán tôi đã làm xong.
+Kanji no shukudai wa mou yatte shimai mashita.
+VD 3:
+パスポートをなくしてしまいました。
+Tôi đánh mất hộ chiếu mất rồi.
+pasupo-to wo nakushite shimai mashita.
+VD 4:
+パソコンが故障してしまいました。
+Máy vi tính của tôi bị hỏng mất rồi.
+Pasokon ga koshou shite shimai mashita.
+
+----------------------###----------------------
+
+No: 412
+Level: N4
+Name: N4: 丁寧語 ( teinei go)
+Description: Thể lịch sự
+Meaning: 
+『丁寧語』Là cách nói lịch sự mà người nói dùng để biểu thị sự kính trọng của mình đối với người nghe. Đây là cách nói thường được dùng nhất trong hội thoại thường ngày, và có thể dùng với “người nhà” và “người ngoài”.
+ Thể lịch sự
+
+How to use: 
+ 1. ～ございます Là thể lịch sự của あります
+ 2. ～でございます Là thể lịch sự của です
+ 3. ～よろしいでしょうか Là thể lịch sự của いいですか
+
+
+VD 1:
+電話は階段の横にございます。
+Điện thoại ở bên cạnh cầu thang.
+Denwa wa kaidan no yoko ni gozaimasu.
+VD 2:
+ご質問はございますか。
+Anh chị còn hỏi gì nữa không ạ？
+Go shitsumon wa gozaimasu ka？
+VD 3:
+お手元に資料を用意してございます。
+Chúng tôi đã chuẩn bị sẵn tài liệu trong tay.
+O temoto ni shiryou wo youi shite gozaimasu.
+VD 4:
+婦人の服の売り場は3階でございます。
+Quần áo của phụ nữ ở trên tầng 3.
+Fujin no fuku no uriba wa 3 kai de gozaimasu.
+VD 5:
+お飲み物は何がよろしいでしょうか。
+Chị dùng đồ uống gì ạ？
+O nomimono wa nani ga yoroshii deshouka？
+VD 6:
+このパンフレットをいただいてもよろしいでしょうか。
+Tôi lấy tờ rơi này có được không？
+Kono panfuretto wo itadai temo yoroshii deshouka？
+
+----------------------###----------------------
+
+No: 425
+Level: N4
+Name: N4: と言っていました (to itte imashita)
+Description: Đã nói là...
+Meaning: 
+『と言っていました』Mẫu câu này được dùng khi muốn truyền đạt lại lời nhắn của người thứ 3.
+ Đã nói là…
+
+How to use: 
+ ［文］　✙ と言っていました
+ Vる　 　✙ と言っていました
+
+
+VD 1:
+ナムさんは『お盆休みに東京へ行きます』と言っていました。
+Nam đã nói là『Nghĩ lễ obon sẽ đi Tokyo』.
+Nam san wa『Obon yasumi ni toukyou e ikimasu』to itte imashita.
+VD 2:
+木村さんは仕事を辞めると言っていました。
+Chị Kimura đã nói là sẽ nghỉ việc đấy.
+Kimura san wa shigoto wo yameru to itte imashita.
+VD 3:
+彼女は『あなたのことが好きです』と言っていました。
+Cô ấy đã nói『Em thích anh』.
+Kanojo wa『anata no koto ga suki desu』to itte imashita.
+
+----------------------###----------------------
+
+No: 431
+Level: N4
+Name: N4: と思っています (to omotte imasu)
+Description: Định làm
+Meaning: 
+『と思っています』Mẫu câu này được dùng để bày tỏ ý định của người nói.『Động từ thể ý hướng ✙ と思っています』biểu thị rằng ý định của người nói đã được hình thành từ trước lúc nói và hiện tại vẫn tiếp diễn.
+ Có thể được dùng để biểu thị ý định của người thứ 3.
+ Định làm…
+
+How to use: 
+Vthể ý hướng　✙　と思っています
+ 意向形いこうけい：食べますー＞食べよう
+ 　　　　行きますー＞行こう
+ 　　　　来ますー＞来よう
+
+
+VD 1:
+日本に留学しようと思っています。
+Tôi đang định đi Nhật Bản du học.
+Nihon ni ryuugaku shiyou to omotte imasu.
+VD 2:
+大学で働こうと思っています。
+Tôi định vào làm ở trường đại học.
+Daigaku de hatarakou to omotte imasu.
+VD 3:
+今度の休みに海へ行こうと思っています。
+Tôi định đi biển vào kỳ nghỉ này.
+Kondo no yasumi ni umi e ikou to omotte imasu.
+VD 4:
+今から書店へ行こうと思っています。
+Tôi định đi nhà sách bây giờ.
+Imakara shoten e ikou to omotte imasu.
+VD 5:
+彼は外国で働こうと思っています。
+Anh ấy đang định làm việc ở nước ngoài.
+Kare wa gaikoku de hatarakou to omotte imasu.
+
+----------------------###----------------------
+
+No: 435
+Level: N4
+Name: N4: と伝えていただけませんか (to tsutaete itadake masenka)
+Description: Có thể...được không？
+Meaning: 
+『と伝えていただけませんか』Mẫu câu này được dùng khi muốn nhờ truyền đạt lại lời nhắn của ai đó một cách lịch sự. Đặc biệt mẫu câu này được dùng nhiều trong kinh doanh như điện thoại, email…
+ Có thể…được không？
+
+How to use: 
+ ［文］　✙ と伝えていただけませんか
+ V（普） ✙ と伝えていただけませんか
+
+
+VD 1:
+水上さんに『あとで電話をください』と伝えていただけませんか。
+Anh có thể giúp tôi nói lại với anh Mizukami là hãy gọi điện lại cho tôi, có được không？
+Mizukami san ni『Atode denwa wo kudasai』to tsutaete itadake masenka.
+VD 2:
+すみませんが、渡辺さんに『明日の授業は10時からです』と伝えていただけませんか。
+Xin lỗi, cậu có thể nhắn với bạn Watanabe là buổi học ngày mai sẽ bắt đầu từ lúc 10 giờ, có được không？
+Sumimasen ga, Watanabe san ni『Ashita no jugyou wa 10 ji kara desu』to tsutaete itadake masenka
+VD 3:
+安藤さんに『ミーティングが延長になった』と伝えていただけませんか。
+Anh có thể nhắn với chị Ando là cuộc họp bị kéo dài hộ tôi được không？
+Andou san ni『Miitingu ga enchou ni natta』to tsutaete itadake masenka.
+
+----------------------###----------------------
+
+No: 436
+Level: N4
+Name: N4: 途中で (tochuu de)
+Description: Trên đường/giữa chừng...
+Meaning: 
+『途中で』Diễn tả ý “giữa chừng” khi một hành động đang xảy ra thì có một hành động khác chen ngang hoặc xen vào.
+ Trên đường/giữa chừng…
+
+How to use: 
+Vる　✙ 途中とちゅうで
+ Nの　✙ 途中とちゅうで
+
+
+VD 1:
+実は来る途中で事故があって、バスが遅れてしまったんです。
+Sự tình là có một vụ tai nạn trên đường đến đây nên xe buýt bị chậm.
+Jitsu wa kuru tochuu de jiko ga atte, basu ga okurete shimattan desu.
+VD 2:
+マラソンの途中で気分が悪くなりました。
+Tôi thấy khó chịu khi đang trên đường chạy ma-ra-tông.
+Marason no tochuu de kibun ga waruku nari mashita.
+
+----------------------###----------------------
+
+No: 439
+Level: N4
+Name: N4: という意味です (toiu imi desu)
+Description: Nghĩa là...
+Meaning: 
+『という意味です』Mẫu câu này dùng để giải thích ý nghĩa của một từ hoặc một câu nào đó.
+ Nghĩa là…
+
+How to use: 
+X は Y ✙ という意味です
+
+
+VD 1:
+［立入禁止］は入るなという意味です。
+［Tachiiri kinshi］nghĩa là cấm vào.
+［Tachiiri kinshi］wa hairuna toiu imi desu.
+VD 2:
+『このマークはどいう意味ですか。』『洗濯機で洗えるという意味です。』
+『Ký hiệu này nghĩa là gì？』『Nghĩa là có thể giặt bằng máy giặt.』
+『Kono ma-ku wa doiu imi desuka.』『Sentakuki de araeru toiu imi desu』.
+VD 3:
+Cảm ơnは日本語で『ありがとう』という意味です。
+Cảm ơn bằng tiếng Nhật nghĩa là『Arigatou』.
+Cảm ơn wa nihongo de『Arigatou』toiu imi desu.
+
+----------------------###----------------------
+
+No: 451
+Level: N4
+Name: N4: とか～とか (toka∼toka)
+Description: Như là/hoặc là...
+Meaning: 
+『とか～とか』Mẫu câu này tương tự như cấu trúc『～や』, được dùng để nêu ra các ví dụ. Tuy nhiên so với『～や』thì cấu trúc này được dùng trong hội thoại nhiều hơn, ngoài ra cấu trúc『とか～とか』này còn có thể được đặt sau danh từ ở cuối câu.
+ Như là/hoặc là…
+
+How to use: 
+ N 　✙　 とか（～とか）
+
+
+VD 1:
+毎日、10分とか20分でもいいので、運動したほうがいいですよ。
+Mỗi ngày chỉ 10 phút hay 20 phút thôi cũng được, bạn nên vận động thì hơn.
+Mainichi, 10 pun toka 20 demo ii node, undou shita houga ii desu yo.
+VD 2:
+疲れたときはたくさん食べますよ。肉とか魚とか．．．
+Mỗi khi mệt mỏi tôi thường ăn rất nhiều. Như là ăn thịt, cá…
+Tsukareta toki wa takusan tabemasu yo. Niku toka sakana toka…
+VD 3:
+ギータとかピアノの楽器が出来るようになりたいです。
+Tôi rất muốn có thể chơi tốt mấy cái loại nhạc cụ như là gita hay piano.
+Gitaa toka piano no gakki ga dekiru youni naritai desu.
+VD 4:
+ラーメンとかうどんの麵類はあまり好きじゃありません。
+Tôi không thích mấy loại sợi mỳ như là của mỳ ramen hay là mỳ udon chút nào cả.
+Raamen toka udon no menrui wa amari suki jaarimasen.
+VD 5:
+お茶とかコーヒーの飲み物は寝る前に飲まないようにしています。
+Trước khi ngủ tôi luôn cố gắng không uống mấy loại đồ uống như là trà hay cà phê.
+Ocha toka koohii no nomimono wa neru mae ni nomanai youni shite imasu.
+VD 6:
+文法の質問なら、田中さんとか木村さんに聞いてもいいですよ。
+Nếu có câu hỏi về ngữ pháp thì các bạn có thể hỏi anh Tanaka hoặc là anh Kimura.
+Bunpou no shitsumon nara, Tanaka san toka Kimura san ni kiitemo ii desu yo.
+
+----------------------###----------------------
+
+No: 458
+Level: N4
+Name: N4: ところです (tokoro desu)
+Description: Vừa mới/vừa xong...
+Meaning: 
+『ところです』Mẫu câu này được dùng để biểu thị và nhấn mạnh rằng thời điểm hiện tại có vị trí như thế nào trong quá trình tiến triển của một hành vi hay một sự việc nào đó.
+ 『Vるところです』: Biểu thị một việc gì đó sắp bắt đầu. Thường đi cùng với これから、ちょうど、今から…
+ 『Vているところです』: Biểu thị một việc gì đó đang diễn ra. Thường đi kèm với 今.
+ 『Vたところです』: Biểu thị một việc gì đó vừa mới kết thúc. Những phó từ như たった今… thường được dùng trong mẫu câu này.
+ Vừa mới/vừa xong…
+
+How to use: 
+Vる　✙ ところです
+ Vている ✙ ところです
+ Vた    ✙ ところです
+
+
+VD 1:
+『昼ごはんはもう食べましたか。』『．．．いいえ、これから食べるところです。』
+『Cậu đã ăn cơm trưa chưa？』『…Chưa, bây giờ mình sẽ ăn.』
+『Hirugohan wa mou tabe mashita ka.』『…Iie, korekara taberu tokoro desu.』
+VD 2:
+『会議はもう始まりましたか。』『．．．いいえ、今から始まるところです。』
+『Cuộc họp đã bắt đàu chưa？』『…Chưa, bây giờ sẽ bắt đầu.』
+『Kaigi wa mou hajimari mashita ka.』『…Iie, imakara hjimaru tokoro desu.』
+VD 3:
+『故障の原因がわかりましたか。』『．．．いいえ、いま調べているところです。』
+『Anh đã biết được nguyên nhân hỏng chưa？』『…Chưa, bây giờ tôi đang xem.』
+『Koshou no genin ga wakari mashita ka.』『…Iie, ima shirabete iru tokoro desu.』
+
+----------------------###----------------------
+
+No: 465
+Level: N4
+Name: N4: とおりに (toori ni)
+Description: Làm theo/như/đúng như...
+Meaning: 
+『とおりに』Dùng để yêu cầu người nghe hãy làm một việc gì đó theo đúng như đã nghe, nhìn, đọc hoặc học…
+ Biểu thị một động tác nào đó được thực hiện theo đúng nội dung được biểu thị trong danh từ.
+ Làm theo/như/đúng như…
+
+How to use: 
+Vる　✙　 とおりに
+ Vた　✙　 とおりに
+ N の　✙　 とおりに
+
+
+VD 1:
+先生が書くとおりに、一緒に漢字を書いてください。
+Hãy viết chữ kanji với nhau đúng như giáo viên viết.
+Sensei ga kaku toori ni, isshoni kanji wo kaite kudasai.
+VD 2:
+友達が言うとおりに勉強したら、よくわかりました。
+Đúng như bạn tôi nói, nếu học sẽ hiểu rõ hơn.
+Tomodachi ga iu toori ni benkyou shi tara, yoku wakarimashita.
+VD 3:
+私が言うとおりに練習しなさい。すぐにテニスが上手になるよ。
+Hãy luyện tập như lời tôi nói, tenis sẽ lập tức giỏi lên.
+Watashi ga iu toori ni renshuu shi nasai, suguni tenisu ga jouzu ni naru yo.
+VD 4:
+説明書に書いてあるとおりに組み立てたら、すぐに棚が出来ますよ。
+Nếu bạn lắp ráp nó như được viết trong sách hướng dẫn, bạn có thể nhanh chóng có một cái kệ.
+Setsumeisho ni kaite aru toori ni kumitate tara, suguni tana ga dekimasu yo.
+VD 5:
+美味しい料理を作りましょう。今から私が言うとおりに作ってくださいね。
+Cùng làm những món ăn ngon nào. Hãy làm như lời tôi nói ngay từ bây giờ nhé.
+Oishii ryouri wo tsukuri mashou. ima kara watashi ga iu toori ni tsukutte kudasai ne.
+VD 6:
+天気予報のとおりに、雨が降ってきた。
+Trời đã mưa đúng như dự báo thời tiết.
+Tenkiyohou no toori ni, ame ga futte kita.
+VD 7:
+この地図のとおりに行けば、すぐに着きますよ。
+Nếu đi theo bản đồ này, bạn sẽ đến nơi.
+Kono chizu no toori ni ikeba suguni tsukimasu yo.
+VD 8:
+線のとおりに紙を切ってください。
+Hãy cắt giấy theo đường này.
+Sen no toori ni kami wo kitte kudasai.
+
+----------------------###----------------------
+
+No: 476
+Level: N4
+Name: N4: つもりです (tsumori desu)
+Description: Sẽ/định
+Meaning: 
+『つもりです』Diễn đạt ý định sẽ làm gì đó của người nói, dự định này được suy nghĩ từ trước đó tới bây giờ chứ không phải là ý định bộc phát xảy ra trong lúc nói.
+ Sẽ/định…
+
+How to use: 
+Vる　✙　つもりです
+ Vない　✙　つもりです
+
+
+VD 1:
+彼は日本に留学するつもりです。
+Anh ấy định đi du học ở nhật.
+Kare wa nihon ni ryuugaku suru tsumori desu.
+VD 2:
+『明日、授業に行く。』『私は行かないつもりです。』
+『Mai cậu có đến lớp không?』                     　　　　　　『Tớ định là không đi.』
+『Ashita jugyou ni iku.』                    　　　　　　 『Watashi wa ikanai tsumori desu.』
+VD 3:
+父の会社に入らないつもりです。
+Tôi không có ý định vào làm ở công ty của bố .
+Chichi no kaisha ni hairanai tsumori desu.
+VD 4:
+昨日は買い物に行くつもりでしたが、調子が悪くて、ずっと家にいました。
+Hôm qua định đi mua sắm đồ, nhưng do đau đầu nên tôi ở nhà suốt.
+Knou wa kaimono ni iku tsumori deshita ga, choushi ga warukute, zutto ie ni imashita.
+
+----------------------###----------------------
+
+No: 484
+Level: N4
+Name: N4: 受身形 (ukemi kei)
+Description: Thể bị động
+Meaning: 
+『受身形』Mẫu câu này được sử dụng khi chủ thể bị ai đó, vật gì đó tác động đến bằng hành động V. Khi nói về chủ thể gây ra hành động thì chúng ta thêm に vào trước danh từ.
+ Thể bị động
+
+How to use: 
+ Nhóm 1: 書きますー＞書かれます
+ Nhóm 2: 食べますー＞食べられます
+ Nhóm 3: します  ー＞されます
+ N1 は N2 に V受身形
+
+
+VD 1:
+わたしは先生に褒められました。
+Tôi đã được giáo viên khen.
+Watashi wa sensei ni homerare mashita.
+VD 2:
+姉に部屋の掃除を頼まれました。
+Tôi được chị gái nhờ dọn dẹp phòng.
+Ane ni heya no souji wo tanomare mashita.
+VD 3:
+妹に携帯電話を壊されました。
+Tôi bị em gái làm hỏng điện thoại.
+Imouto ni keitaidenwa wo kowasare mashita.
+VD 4:
+今日は先輩に２回を注意されました。
+Hôm nay tôi bị senpai nhắc nhở 2 lần.
+Kyou wa senpai ni 2 kai wo chuuisare mashita.
+
+----------------------###----------------------
+
+No: 485
+Level: N4
+Name: N4: は (wa)
+Description: Tối thiểu/ít nhất là...
+Meaning: 
+『は』Trợ từ này được thêm vào sau lượng từ biểu thị mức độ tối thiểu mà người nói ước định.
+ Tối thiểu/ít nhất là…
+
+How to use: 
+ 助数詞じょすうし ✙　は
+ 助数詞じょすうし: Lượng từ
+
+
+VD 1:
+日本では結婚式をするのに200万円は要ります。
+Để làm đám cưới ở Nhật thì cần tối thiểu là 2 triệu yên.
+Nihon dewa kekkon shiki wo suru noni 200 man en wa iri masu.
+VD 2:
+在留資格を取るのに２ヶ月は待ちます。
+Để lấy được tư cách lưu trú phải chờ ít nhất là 2 tháng.
+Zairyuu shikaku wo toru noni 2 kagetsu wa machi masu.
+VD 3:
+ローンをぜんぶ返すのにこの危険な仕事が１年間は働きます。
+Để trả hết nợ cần phải làm công việc nguy hiểm này ít nhất là 1 năm nữa.
+Roon wo zenbu kaesu no ni kono kiken na shigoto ga 1 nen kan wa hataraki masu.
+
+----------------------###----------------------
+
+No: 518
+Level: N4
+Name: N4: やすいです (yasui desu)
+Description: Dễ...
+Meaning: 
+『やすいです』Dùng để biểu thị việc làm một việc gì đó dễ dàng. Ngoài ra còn dùng để biểu thị tính chất của chủ thể người hoặc vật là dễ thay đổi, hoặc biểu thị một việc gì đó dễ xảy ra.
+ 『～やすい』cách chia giống tính từ đuôi い.
+ Dễ…
+
+How to use: 
+Vます　✙　 やすいです
+
+
+VD 1:
+山田先生の授業は分かりやすいです。
+Bài giảng của thầy Yamada rất dễ hiểu.
+Yamada sensei no jugyou wa wakari yasui desu.
+VD 2:
+永田さんは話しやすい人です。
+Nagata là một người rất dễ nói chuyện.
+Nagata san wa hanashi yasui hito desu.
+VD 3:
+この本は字が大きくて読みやすいです。
+Quyển sách này chữ to rất dễ đọc.
+Kono hon wa ji ga ookikute yomi yasui desu.
+VD 4:
+牛肉を食べやすい大きさに切ります。
+Cắt thịt bò với kích thước dễ ăn.
+Gyuuniku wo tabe yasui ookisa ni kirimasu.
+VD 5:
+この薬は苦くないので飲みやすいです。
+Cái loại thuốc này vì nó không đắng nên rất dễ uống.
+Kono kusuri wa nigakunai node nomi yasui desu.
+VD 6:
+ガラスのコップは割れやすいです。
+Cốc thủy tinh rất dễ vỡ.
+Garasu no koppu wa ware yasui desu.
+VD 7:
+夏は食べ物が悪くなりやすいですから、気をつけてください。
+Vì mùa hè đồ ăn rất dễ bị hỏng nên mọi người hãy chú ý nhé.
+Natsu wa tabemono ga waruku nari yasui desu kara, ki wo tsukete kudasai.
+VD 8:
+そんなにたくさん食べるのは太りやすいですよ。
+Ăn nhiều như thế rất dễ bị béo phì đấy.
+Sonnani takusan taberu nowa futori yasui desu yo.
+
+----------------------###----------------------
+
+No: 522
+Level: N4
+Name: N4: 予定です (yotei desu)
+Description: Dự định/kế hoạch
+Meaning: 
+『予定よていです』Diễn tả một dự định, lịch trình hay kế hoạch đã được quyết định, không phải là ý định đơn thuần của người nói, không dùng với các việc xảy ra hàng ngày.
+ Dự định/kế hoạch…
+
+How to use: 
+Vる　✙　予定よていです
+ N　の　✙　予定よていです
+
+
+VD 1:
+7月の終わりにドイツへ出張する予定です。
+Tôi có kế hoạch đi công tác ở Đức vào cuối tháng 7.
+7 gatsu no owari ni doitsu e shucchou suru yotei desu.
+VD 2:
+旅行は１週間ぐらいの予定です。
+Theo dự định chuyến du lịch là một tuần.
+Ryokou wa 1 shuukan gurai no yotei desu.
+VD 3:
+来週に中国に行く予定です。
+Tôi dự định tuần sau sẽ đi trung quốc.
+Raishuu ni chuugoku ni iku yotei desu.
+VD 4:
+明日の午後に書類を送る予定です。
+Tôi dự định sẽ gửi tài liệu vào chiều mai.
+Ashita no gogo ni shorui wo okuru yotei desu.
+
+----------------------###----------------------
+
+No: 523
+Level: N4
+Name: N4: ようです (you desu)
+Description: Hình như/có lẽ...
+Meaning: 
+『ようです』Là cách nói biểu thị sự suy đoán mang tính chủ quan dựa trên thông tin mà người nói nhận được từ giác quan của mình.
+ Đôi khi phó từ［どうも］,với nghĩa là không rõ nội dung mà mình nói là sự thật hay không, được dùng kèm trong mẫu câu này.
+ Hình như/có lẽ…
+
+How to use: 
+Aい/ V普　✙ ようです
+ na Adjな ✙ ようです
+ Nの      ✙ ようです
+
+
+VD 1:
+『人が大勢集まっていますね。』『事故のようですね。パトカーと救急車が来ていますよ。』
+『Đông người tập trung nhỉ.』『Hình như có tai nạn thì phải. Có xe cảnh sát và cứu thương ở đây đấy.』
+『Hito ga oozei atsumatte imasu ne.』『Jiko no you desu ne. Patoka- to kyuukyuusha ga kite imasu yo.』
+VD 2:
+せきも出るし、頭も痛い。どうも風邪をひいたようだ。
+Tôi bị ho và đau đầu. Có lẽ là bị cúm rồi.
+Seki mo deru shi, atama mo itai. Doumo kaze wo hiita you da.
+VD 3:
+あなたは元気なようですね。
+Bạn trông khỏe nhỉ.
+Anata wa genki na you desu ne.
+
+----------------------###----------------------
+
+No: 530
+Level: N4
+Name: N4: ように (youni)
+Description: Để làm gì đó...
+Meaning: 
+『ように』Động từ 1 biểu thị một mục đích hoặc mục tiêu, còn động từ 2 biểu thị hành động có chủ ý để tiến gần tới hoặc đạt tới mục tiêu hoặc mục đích đó.
+ Để làm gì đó…
+
+How to use: 
+ V₁る　　✙ ように、V₂～
+ V₁ない　✙ ように、V₂～
+
+
+VD 1:
+速く泳げるように、毎日練習しています。
+Hằng ngày tôi luyện tập để có thể bơi được xa hơn.
+Hayaku oyogeru youni, mainichi renshuu shite imasu.
+VD 2:
+忘れないように、メモしてください。
+Hãy ghi chú lại để không bị quên.
+Wasurenai youni, memo shite kudasai.
+VD 3:
+外国人は読めるように、ふりがなをつけています。
+Tôi thêm vào chữ Furigana để người nước ngoài có thể đọc được.
+Gaikokujin wa yomeru youni, furigana wo tsukete imasu.
+
+----------------------###----------------------
+
+No: 535
+Level: N4
+Name: N4: ようになる (youni naru)
+Description: Bắt đầu...
+Meaning: 
+『ようになる』Biểu thị sự thay đổi từ trạng thái không thể làm được một việc gì đó sang trạng thái có thể làm được.
+ 『なくなる』Biểu thị sự thay đổi từ trạng thái có thể làm được một việc gì đó sang trạng thái không thể làm được.
+ Bắt đầu…
+
+How to use: 
+ Vる　　✙ ようになる
+ Vない　✙ なくなる
+
+
+VD 1:
+毎日練習すれば、泳げるようになります。
+Nếu hàng ngày luyện tập thì cậu có thể bơi được.
+Mainichi renshuu sureba, oyogeru youni narimasu.
+VD 2:
+やっと自転車に乗れるようになりました。
+Cuối cùng thì tôi đã đi được xe đạp.
+Yatto jitensha ni noreru youni narimashita.
+VD 3:
+年を取ると、小さい字が読めなくなります。
+Khi người ta già đi, thì không đọc được những chữ nhỏ nữa.
+Toshi wo toru to, chiisai ji ga yomenaku narimasu.
+
+----------------------###----------------------
+
+No: 538
+Level: N4
+Name: N4: ようにする (youni suru)
+Description: Sao cho/sao cho không
+Meaning: 
+『ようにする』Mẫu câu này diễn tả việc đều đặn hoặc nỗ lực một cách liên tục để thực hiện hay không thực hiện một việc gì đó.
+ 『ようにしています』Diễn tả việc cố gắng thực hiện một việc gì đó một cách đều đặn.
+ 『ようにしてください』Diễn đạt sự nhắc nhở, yêu cầu mang tính nhẹ nhàng, gián tiếp. Không dùng trong trường hợp sai khiến, nhờ vả việc được thực hiện ngay tại chỗ.
+ Sao cho/sao cho không…
+
+How to use: 
+Vる / Vない　✙　ようにする
+ Vる / Vない　✙　ようにしています
+ Vる / Vない　✙　ようにしてください
+
+
+VD 1:
+できるだけ一週間一回家族に電話するようにする。
+Tôi cố gắng mỗi tuần một lần gọi điện thoại cho gia đình.
+Dekiru dake isshuukan ikkai kazoku ni denwa suru youni suru.
+VD 2:
+油ものを食べないようにしています。
+Tôi đang cố gắng không ăn đồ dầu mỡ.
+Abura mono wo tabenai youni shite imasu.
+VD 3:
+健康のために11時までに寝るようにしています。
+Vì tốt cho sức khỏe nên tôi đang cố gắng đi ngủ trước 11 giờ.
+Kenkou no tame ni 11 ji madeni neru youni shite imasu.
+VD 4:
+貯金したいから外食しないようにします。
+Vì muốn tiết kiệm tiền nên tôi cố gắng không đi ăn tiệm.
+Chokin shitai kara gaishoku shinai youni shimasu.
+VD 5:
+図書館の中で大きい声でしないようにしてください。
+ Ở trong thư viện nên anh/chị hãy cố gắng không nói to.
+Toshokan no naka de ookii koede shinai youni shite kudasai.

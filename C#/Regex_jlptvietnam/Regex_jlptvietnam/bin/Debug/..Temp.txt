@@ -1,0 +1,169 @@
+----------------------###----------------------
+----------------------###----------------------
+
+No.1
+Level: N2
+name: N2: あげく (ageku)
+description: Cuối cùng thì/Làm～nhưng cuối cùng
+
+VD 1:
+彼は酔っ払って騒いだあげく、寝てしまった。
+Sau một thời gian say rượu và làm ồn thì cuối cùng anh ấy cũng đã đi ngủ.
+kare wa yopparatte sawaida ageku,neteshimatta.
+VD 2:
+何度も手術したあげく、治らないと言われた。
+Sau khi phẫu thuật nhiều lần thì được thông báo rằng bệnh không thể chữa khỏi.
+nando mo shujutsu shita ageku,naoranai to iwareta.
+VD 3:
+待たされたあげく、まずい料理を食べさせられた。
+Tôi đã phải chờ đợi và rồi được cho ăn những món ăn dở.
+matasareta ageku,mazui ryouri wo tabesaserareta.
+VD 4:
+あちこちの病院へ行ったあげく、やっと元気になった。
+Sau khi đến bệnh viện ở chỗ này chỗ kia,cuối cùng tôi đã trở nên khỏe mạnh.
+achikochi no byouin e itta ageku,yatto genki ni natta.
+
+----------------------###----------------------
+
+No.2
+Level: N3
+name: N3: 上げる (ageru)
+description: Làm...xong
+
+VD 1:
+やっとレポートを書き上げた。
+Cuối cùng mình cũng đã viết xong báo cáo.
+Yatto repo-to wo kaki ageta.
+VD 2:
+ケーキが焼き上がりましたよ。
+Bánh đã nướng xong rồi.
+Keeki ga yaki agari mashita yo.
+VD 3:
+姉はプレゼントにするマフラーを一晩で編み上げた。
+Chị gái tôi trong một đêm đã đan xong chiếc khăn quàng để làm quà.
+Ane wa purezento ni suru mafura- wo hitoban de ami ageta.
+
+----------------------###----------------------
+
+No.3
+Level: N4
+name: N4: 間に (aida ni)
+description: Trong khi/trong lúc/trong khoảng...
+
+VD 1:
+電車に乗っている間に、ずっと音楽を聞いていました。
+Trong lúc lên tàu tàu điện, tôi đã nghe nhạc suốt.
+Densha ni notte iru aida ni, zutto ongaku wo kiite imashita.
+VD 2:
+バスを待っている間に、後ろのおばあさんと話しました。
+Trong lúc chờ xe bus, tôi đã nói chuyện với cụ già ở phía sau.
+Basu wo matte iru aida ni, ushiro no obaasan to hanashimashita.
+VD 3:
+妻が寝ている間に、いつも静かにしています。
+Trong khi vợ tôi đang ngủ, lúc nào tôi cũng giữ yên lặng.
+Tsuma ga neteiru aida ni, itsumo shizuka ni shite imasu.
+VD 4:
+学校にいる間にスマホを使ってはいけません。
+Không sử dụng điện thoại khi bạn đang ở trường học.
+Gakkou ni iru aida ni sumaho wo tsukattewa ikemasen.
+VD 5:
+彼女を待っている間に、スマホでゲームをしていました。
+Trong lúc chờ bạn gái, tôi đã chơi game bằng điện thoại.
+Kanojo wo matte iru aida ni, sumaho de geemu wo shite imashita.
+VD 6:
+留守の間に泥棒が入った。
+Trong khi tôi vắng nhà đã có kẻ trộm vào nhà.
+Rusu no aida ni dorobou ga haitta.
+VD 7:
+食事の間にユーチューブを見ていました。
+Trong lúc đang ăn cơm tôi đã xem Youtube.
+Shokuji no aida ni yuuchuubu wo mite imashita.
+VD 8:
+ハイキングの間に雨が降っていました。
+Trong lúc đang đi bộ thì trời đổ mưa.
+Haikingu no aida ni ame ga futte imashita.
+
+----------------------###----------------------
+
+No.4
+Level: N2
+name: N2: あまり (amari)
+description: Qúa
+
+VD 1:
+緊張のあまり、体が震えた。
+Cơ thể run lên vì quá căng thẳng.
+kinchou no amari,karada ga furueta.
+VD 2:
+心配するあまり、母は寝込んでしまった。
+Vì quá lo lắng mà mẹ tôi đã ngủ thiếp đi.
+shinpai suru amari,haha wa nekonde shimatta.
+VD 3:
+そのコンサートでは興奮のあまり気を失うファンも続出した。
+Trong buổi hòa nhạc đó,người hâm mộ đã mất ý thức vì quá hào hứng.
+sono konsaato dewa koufun no amari ki wo unashiu fan mo zokushutsu shita.
+VD 4:
+事件の現場を見てしまった私はショックのあまり声も出なかった。
+Tôi đã nhìn thấy hiện trường của vụ án vì quá sốc mà không phát ra tiếng.
+jiken no genba  wo miteshimatta watashi wa shokku no amari koe wo denakatta.
+
+----------------------###----------------------
+
+No.5
+Level: N5
+name: N5: あまり (amari)
+description: Không...lắm
+
+VD 1:
+日曜日はあまり勉強しません。友達と遊びます。
+Tôi không học nhiều lắm vào ngày chủ nhật. Tôi đi chơi với bạn của tôi.
+Nichiyoubi wa amari benkyou shimasen. Tomodachi to asobimasu.
+VD 2:
+この文法があまり分かりません。教えてください。
+Tôi không hiểu ngữ pháp này lắm. Xin hãy dạy cho tôi.
+Kono bunpo ga amari wakarimasen. Oshiete kudasai.
+VD 3:
+テレビはあまり見ませんが嫌いじゃありません。
+Tôi không xem tivi nhiều lắm nhưng không phải là tôi ghét nó.
+Terebi wa amari mimasen ga kirai jaarimasen.
+VD 4:
+冷たい飲み物があまり好きじゃありません。
+Tôi không thích đồ uống lạnh lắm.
+Tsumetai nomimono ga amari suki jaarimasen.
+VD 5:
+この食べ物はあまり美味しくなかった。
+Cái món này không ngon lắm.
+Kono tabemono wa amari oishi kunakatta.
+VD 6:
+あまりTwitterをしませんがFacebookはよく見ます。
+Tôi không hay chơi Twitter nhưng thường xem Facebook.
+Amari Twitter wo shimasen ga Facebook wa yoku mimasu.
+VD 7:
+最近は忙しいですから友達とあまり遊んでいません。
+Gần đây tôi không hay đi chơi với bạn bè lắm vì tôi bận.
+Saikin wa isogashii desu kara tomodachi to amari asonde imasen.
+VD 8:
+私はお酒があまり好きじゃない。
+Tôi không thích rượu lắm.
+Watashi wa osake ga amari suki janai.
+VD 9:
+ホラー映画はあまり見ません。
+Tôi không hay xem phim kinh dị lắm.
+Horaa eiga wa amari mimasen.
+
+----------------------###----------------------
+
+No.6
+Level: N2
+name: N2: あるいは (arui wa)
+description: hoặc là...
+
+VD 1:
+ファックス、あるいはメールでお知らせください。
+Hãy thông báo cho tôi qua fax hoặc là mail.
+Fakkusu, arui wa me-ru de oshirase kudasai.
+VD 2:
+来週の火曜日の午後はどうですか。あるいは水曜日の午前でも構いませんが．．．
+Chiều thứ 3 tuần sau thì thế nào？ Hoặc là sáng thứ 4 cũng được không vấn đề gì…
+Raishuu no kayoubi no gogo wa dou desuka. Arui wa suiyoubi no gozen demo kamai masen ga…
+

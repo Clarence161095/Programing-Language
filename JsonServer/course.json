@@ -1,0 +1,24 @@
+{
+  "course": [
+    {
+      "id": 1,
+      "name": "Python",
+      "description": "Python is very good"
+    },
+    {
+      "id": 2,
+      "name": "Java",
+      "description": "Java is not OK"
+    },
+    {
+      "id": 3,
+      "name": "Notejs",
+      "description": "Notejs is very supper"
+    },
+    {
+      "id": "bk5rs7kv8cljmf5bib71q",
+      "name": "Fetch",
+      "description": "Create a new course"
+    }
+  ]
+}

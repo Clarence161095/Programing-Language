@@ -1,0 +1,13 @@
+version: "3.7"
+
+services:
+  nest-app:
+    container-name: nest-app
+      build:
+        context: .
+        dockerfile: ./docker/Dockerfile
+      port:
+        6000:6000
+      volumes:
+        .:/nest-app
+      command: 

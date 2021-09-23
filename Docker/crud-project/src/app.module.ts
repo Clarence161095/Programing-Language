@@ -5,7 +5,7 @@ import { AppService } from './app.service';
 import { TaskModule } from './task/task.module';
 
 @Module({
-  imports: [TaskModule, MongooseModule.forRoot('mongodb://localhost/nest')],
+  imports: [TaskModule, MongooseModule.forRoot('mongodb://nest_db')],
   controllers: [AppController],
   providers: [AppService],
 })

@@ -14,7 +14,7 @@ services:
       - DB_URL=mongodb://nest_db
       - PORT=5000
     volumes:
-      - ./src:/nest_app/src
+      - .:/nest_app
     networks:
       - common
 

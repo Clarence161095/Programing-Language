@@ -1,5 +1,6 @@
-# Created by https://www.toptal.com/developers/gitignore/api/node,macos,linux,angular,react,python,java,c++
-# Edit at https://www.toptal.com/developers/gitignore?templates=node,macos,linux,angular,react,python,java,c++
+
+# Created by https://www.toptal.com/developers/gitignore/api/node,python,freepascal,java,angular,windows,macos,linux
+# Edit at https://www.toptal.com/developers/gitignore?templates=node,python,freepascal,java,angular,windows,macos,linux
 
 ### Angular ###
 ## Angular ##
@@ -32,46 +33,25 @@ e2e/*.map
 # System Files
 .DS_Store/
 
-### C++ ###
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
+### FreePascal ###
+*.lps
+*.compiled
+*.[oa]
+*.ppu
+*.rst
+*.cgi
 *.exe
-*.out
-*.app
+*.log
+*.bak*
+fp.ini
+fp.cfg
+fp.dsk
 
 ### Java ###
 # Compiled class file
 *.class
 
 # Log file
-*.log
 
 # BlueJ files
 *.ctxt
@@ -264,6 +244,7 @@ __pycache__/
 *$py.class
 
 # C extensions
+*.so
 
 # Distribution / packaging
 .Python
@@ -392,17 +373,30 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-### react ###
-.DS_*
-**/*.backup.*
-**/*.back.*
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
 
-node_modules
+# Dump file
+*.stackdump
 
-*.sublime*
+# Folder config file
+[Dd]esktop.ini
 
-psd
-thumb
-sketch
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 
-# End of https://www.toptal.com/developers/gitignore/api/node,macos,linux,angular,react,python,java,c++
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# End of https://www.toptal.com/developers/gitignore/api/node,python,freepascal,java,angular,windows,macos,linux

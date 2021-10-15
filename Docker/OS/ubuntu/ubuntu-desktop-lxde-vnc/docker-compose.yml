@@ -1,0 +1,11 @@
+version: "3"
+services:
+  ubuntu-vnc:
+    # image: centminmod/docker-ubuntu-vnc-desktop
+    image: ubuntu-desktop-full-dev
+    ports:
+      - 9999:80
+    volumes:
+      - UbutuData:/root
+volumes:
+  UbutuData:

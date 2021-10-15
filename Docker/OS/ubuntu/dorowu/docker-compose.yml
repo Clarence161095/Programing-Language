@@ -1,0 +1,10 @@
+version: "3"
+services:
+  ubuntu-latest:
+    image: dorowu/ubuntu-desktop-lxde-vnc:latest
+    ports:
+      - 9999:80
+    volumes:
+      - ubuntu_latest:/root
+volumes:
+  ubuntu_latest:

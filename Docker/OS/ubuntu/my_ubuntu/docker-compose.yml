@@ -1,0 +1,12 @@
+version: "3"
+services:
+  my_ubuntu:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 9999:5901
+    volumes:
+      - my_ubuntu:/root
+volumes:
+  my_ubuntu:

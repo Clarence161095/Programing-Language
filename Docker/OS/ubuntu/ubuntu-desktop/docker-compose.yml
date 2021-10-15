@@ -1,0 +1,10 @@
+version: "3"
+services:
+  ubuntu_desktop:
+    image: queeno/ubuntu-desktop
+    ports:
+      - 9999:5901
+    volumes:
+      - ubuntu_desktop:/root
+volumes:
+  ubuntu_desktop:

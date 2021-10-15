@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1 id="chanel">Hello welcome to #Rocket1hChat</h1>
+
+    <ul id="messages"></ul>
+
+    <form id="join-chanel-form">
+      <input type="text" id="chanel-id" placeholder="input chanel id" />
+      <input type="text" id="name" placeholder="with a name" />
+      <button id="send-chat">Join</button>
+    </form>
+    <br />
+    <h3>You can also create a new chat channel</h3>
+    <form id="create-chanel-form">
+      <input type="text" id="chanel-name" placeholder="input chanel name" />
+      <button id="create-chanel">Create</button>
+    </form>
+    <div id="info-chanel"></div>
+  </body>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script>
+    const socket = io();
+    const joinForm = document.querySelector("#join-chanel-form");
+    const createForm = document.querySelector("#create-chanel-form");
+    const getName = document.querySelector("#name");
+    const name =
+      getName && getName != ""
+        ? getName
+        : "#" + Math.floor(Math.random() * 10000) + 1;
+
+    createForm.addEventListener("submit", function (e) {
+      e.preventDefault();
+      const chanelName = document.querySelector("#chanel-name").value;
+      if (chanelName && chanelName != "") {
+        socket.emit("create", chanelName);
+      } else {
+        alert("Please enter a chanel name");
+      }
+    });
+  </script>
+</html>

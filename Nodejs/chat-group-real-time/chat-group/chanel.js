@@ -1,4 +1,4 @@
-export function chanel() {
+module.exports = function chanel() {
   const data = {};
 
   return {
@@ -22,12 +22,12 @@ export function chanel() {
       };
     },
     addMessages(id, message) {
-      const message = {
+      const data = {
         name: message.name && message.name != "" ? message.name : "#00000",
         message: message.message,
       };
-      this.chanel[id].messages.push(message);
+      this.chanel[id].messages.push(data);
       return this.getLimit(id, 5000);
     },
   };
-}
+};

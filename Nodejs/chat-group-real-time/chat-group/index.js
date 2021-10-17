@@ -1,3 +1,4 @@
+const chanel = require("./chanel.js");
 const path = require("path");
 const express = require("express");
 const http = require("http");
@@ -11,8 +12,12 @@ app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname + "/index.html"));
 });
 
+const data = chanel();
+
 io.on("connection", (socket) => {
-  console.log("user connected");
+  socket.on("create", (data) => {
+    console.log(data);
+  });
   socket.on("on-chat", (data) => {
     io.emit("user-chat", data);
   });

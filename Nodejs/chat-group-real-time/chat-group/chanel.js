@@ -1,5 +1,5 @@
 module.exports = function chanel() {
-  const data = {};
+  const store = {};
 
   return {
     create(name) {
@@ -8,16 +8,17 @@ module.exports = function chanel() {
         name: name,
         messages: [],
       };
-      this.data[chanel.id] = chanel;
+      store[chanel.id] = chanel;
       return chanel;
     },
     getAll(id) {
-      return this.chanel[id];
+      return store[id];
     },
     getLimit(id, limit) {
-      const messages = this.chanel[id].messages.slice(0, limit);
+      const messages = store[id].messages.slice(0, limit);
       return {
-        ...this.chanel[id],
+        id: id,
+        name: store[id].name,
         messages: messages,
       };
     },
@@ -26,8 +27,15 @@ module.exports = function chanel() {
         name: message.name && message.name != "" ? message.name : "#00000",
         message: message.message,
       };
-      this.chanel[id].messages.push(data);
+      store[id].messages.push(data);
       return this.getLimit(id, 5000);
+    },
+    exists(id) {
+      if (store[id]) {
+        return this.getLimit(id, 5000);
+      } else {
+        return false;
+      }
     },
   };
 };

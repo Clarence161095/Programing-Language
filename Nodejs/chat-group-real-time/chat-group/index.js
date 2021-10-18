@@ -12,14 +12,20 @@ app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname + "/index.html"));
 });
 
-const data = chanel();
+const db = chanel();
 
 io.on("connection", (socket) => {
   socket.on("create", (data) => {
-    console.log(data);
+    const chanel = db.create(data);
+    io.emit(data, chanel);
   });
-  socket.on("on-chat", (data) => {
-    io.emit("user-chat", data);
+  socket.on("join-chanel", (chanelID) => {
+    const joinChanel = db.exists(chanelID);
+    socket.emit(chanelID, joinChanel);
+    socket.on(chanelID, (data) => {
+      db.addMessages(chanelID, data);
+      io.emit(chanelID, data);
+    });
   });
 });
 

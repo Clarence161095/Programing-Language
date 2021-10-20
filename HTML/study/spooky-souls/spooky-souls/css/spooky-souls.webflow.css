@@ -1,0 +1,111 @@
+.body {
+  background-color: #ff990b;
+  position: relative;
+}
+
+.div-block {
+  max-width: 1100px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 20px;
+}
+
+.div-block-2 img {
+  margin-top: 30px;
+}
+
+.image {
+  display: block;
+  margin: 105px auto 36px;
+}
+
+.div-block-2 {
+  max-width: 1100px;
+  margin-top: 89px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.div-block-3 {
+  max-width: 1100px;
+  margin-top: 79px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.input {
+  margin: 30px auto;
+  width: 300px;
+  text-align: center;
+}
+
+input {
+  font-size: 24px;
+  padding: 20px 10px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  text-align: center;
+}
+
+.button {
+  display: block;
+  width: 300px;
+  border-radius: 20px;
+  background-color: #000;
+  font-size: 28px;
+  text-align: center;
+  margin: 10px auto;
+  padding: 20px 5px;
+}
+
+.heading {
+  font-size: 15px;
+}
+
+.italic-text {
+  font-size: 15px;
+}
+
+.heading-2 {
+  margin: 0 auto;
+  width: 280px;
+}
+
+.div-block-4 {
+  max-width: 1100px;
+  text-align: center;
+  margin: 150px auto 0;
+}
+
+.toastify {
+  padding: 12px 20px;
+  color: #ffffff;
+  display: inline-block;
+  box-shadow: 0 3px 6px -1px rgba(0, 0, 0, 0.12),
+    0 10px 36px -4px rgba(77, 96, 232, 0.3);
+  background: -webkit-linear-gradient(315deg, #73a5ff, #5477f5);
+  background: linear-gradient(135deg, #73a5ff, #5477f5);
+  position: fixed;
+  top: -150px;
+  right: 15px;
+  opacity: 0;
+  transition: all 0.4s cubic-bezier(0.215, 0.61, 0.355, 1);
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.toastify.on {
+  opacity: 1;
+}
+
+.total-text {
+  font-size: 19px;
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 0;
+}

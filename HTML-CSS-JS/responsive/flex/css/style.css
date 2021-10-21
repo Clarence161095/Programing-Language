@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+  padding: 0;
+}
+
+ul {
+  border: 1px solid #ccc;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 640px;
+  max-width: 100%;
+}
+
+ul li {
+  background-color: #a4e7fd;
+  margin-bottom: 10px;
+  padding: 10px 0;
+  text-align: center;
+  width: 150px;
+}
+
+@media only screen and (max-width: 480px) {
+  li {
+    width: 48%;
+  }
+}

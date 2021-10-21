@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  border: 1px solid red;
+  height: 100px;
+  margin: 30px 40px;
+}
+
+p.tagA {
+  background: #f3f3cf;
+  height: 30px;
+  width: 150px;
+}
+
+p.tagB {
+  background: #e0e0fc;
+  height: 30px;
+  width: 150px;
+}

@@ -1,0 +1,16 @@
+version: "3"
+services:
+  tuan-lubuntu:
+    image: vncserver/lubuntu
+    restart: always
+    ports:
+      - 6969:5901
+    environment:
+      - TZ=Asia/Ho_Chi_Minh
+    volumes:
+      - lubuntu-data:/root
+volumes:
+  lubuntu-data:
+
+
+# docker run -d --hostname lubuntu --name lubuntu --restart always -p 5901:5901 -e TZ=Asia/Ho_Chi_Minh vncserver/lubuntu

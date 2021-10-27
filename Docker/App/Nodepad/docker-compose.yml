@@ -1,0 +1,6 @@
+version: "3"
+services:
+  notepad:
+    image: yhlben/notepad
+    ports:
+      - 6961:8083

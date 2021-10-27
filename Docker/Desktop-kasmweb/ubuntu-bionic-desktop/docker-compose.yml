@@ -1,0 +1,13 @@
+version: "3"
+services:
+  ubuntu-bionic-desktop-tuan:
+    image: kasmweb/ubuntu-bionic-desktop:develop-rolling
+    shm_size: 512m
+    # volumes:
+    #   - root-data:/app
+    ports:
+      - 6961:6901
+    environment:
+      - VNC_PW=1234
+# volumes:
+#   root-data:

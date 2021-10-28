@@ -1,7 +1,9 @@
 import queryString from "query-string";
 import React, { useEffect, useState } from "react";
 import "./App.scss";
+import ColorBox from "./components/ColorBox";
 import MagicBox from "./components/MagicBox";
+import TodoList from "./components/TodoList";
 
 function App() {
   const [todoList, setTodoList] = useState([
@@ -93,14 +95,17 @@ function App() {
     <div className="app">
       <h1>React hooks - Clock</h1>
 
-      <MagicBox />
+      {/* <MagicBox /> */}
+
+      {/* <ColorBox /> */}
+
+      <TodoList todos={todoList} onTodoClick={handleTodoClick} />
 
       {/* {showClock && <Clock />} */}
       {/* <BetterClock /> */}
       {/* <button onClick={() => setShowClock(false)}>Hide clock</button> */}
 
       {/* <TodoForm onSubmit={handleTodoFormSubmit} /> */}
-      {/* <TodoList todos={todoList} onTodoClick={handleTodoClick} /> */}
 
       {/* <PostFiltersForm onSubmit={handleFiltersChange} />
       <PostList posts={postList} />

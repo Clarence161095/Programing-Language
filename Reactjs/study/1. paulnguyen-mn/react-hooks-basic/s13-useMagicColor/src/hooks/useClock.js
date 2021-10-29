@@ -1,7 +1,7 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState } from 'react';
 
 function formatDate(date) {
-  if (!date) return "";
+  if (!date) return '';
 
   const hours = `0${date.getHours()}`.slice(-2);
   const minutes = `0${date.getMinutes()}`.slice(-2);
@@ -11,7 +11,7 @@ function formatDate(date) {
 }
 
 function useClock() {
-  const [timeString, setTimeString] = useState("");
+  const [timeString, setTimeString] = useState('');
 
   useEffect(() => {
     const clockInterval = setInterval(() => {
@@ -24,7 +24,7 @@ function useClock() {
 
     return () => {
       // cleanup
-      console.log("Clock cleanup");
+      console.log('Clock cleanup');
       clearInterval(clockInterval);
     };
   }, []);

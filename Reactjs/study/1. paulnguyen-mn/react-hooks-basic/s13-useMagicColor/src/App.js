@@ -1,16 +1,23 @@
-import queryString from "query-string";
-import React, { useEffect, useState } from "react";
-import "./App.scss";
-import ColorBox from "./components/ColorBox";
-import MagicBox from "./components/MagicBox";
-import TodoList from "./components/TodoList";
+import queryString from 'query-string';
+import React, { useEffect, useState, useRef } from 'react';
+import './App.scss';
+import ColorBox from './components/ColorBox';
+import MagicBox from './components/MagicBox';
+import TodoList from './components/TodoList';
+import TodoForm from './components/TodoForm';
+import PostList from './components/PostList';
+import Pagination from './components/Pagination';
+import PostFiltersForm from './components/PostFiltersForm';
+import Clock from './components/Clock';
+import BetterClock from './components/BetterClock';
 
 function App() {
   const [todoList, setTodoList] = useState([
-    { id: 1, title: "I love Easy Frontend! 😍" },
-    { id: 2, title: "We love Easy Frontend! 🥰" },
-    { id: 3, title: "They love Easy Frontend! 🚀" },
+    { id: 1, title: 'I love Easy Frontend! 😍' },
+    { id: 2, title: 'We love Easy Frontend! 🥰' },
+    { id: 3, title: 'They love Easy Frontend! 🚀' },
   ]);
+  // const [maxID, setMaxID] = useState(todoList.length + 1);
 
   const [postList, setPostList] = useState([]);
   const [pagination, setPagination] = useState({
@@ -38,20 +45,20 @@ function App() {
         setPostList(data);
         setPagination(pagination);
       } catch (error) {
-        console.log("Failed to fetch post list: ", error.message);
+        console.log('Failed to fetch post list: ', error.message);
       }
     }
 
-    console.log("POST list effect");
+    console.log('POST list effect');
     fetchPostList();
   }, [filters]);
 
   useEffect(() => {
-    console.log("TODO list effect");
+    console.log('TODO list effect');
   });
 
   function handlePageChange(newPage) {
-    console.log("New page: ", newPage);
+    console.log('New page: ', newPage);
     setFilters({
       ...filters,
       _page: newPage,
@@ -68,11 +75,15 @@ function App() {
     setTodoList(newTodoList);
   }
 
+  const maxID = useRef({ id: 4 });
+
   function handleTodoFormSubmit(formValues) {
-    console.log("Form submit: ", formValues);
+    console.log('Form submit: ', formValues);
+
     // add new todo to current todo list
+    // setMaxID(maxID + 1);
     const newTodo = {
-      id: todoList.length + 1,
+      id: maxID.current.id++,
       ...formValues,
     };
     const newTodoList = [...todoList];
@@ -81,7 +92,7 @@ function App() {
   }
 
   function handleFiltersChange(newFilters) {
-    console.log("New filters: ", newFilters);
+    console.log('New filters: ', newFilters);
     setFilters({
       ...filters,
       _page: 1,
@@ -92,27 +103,31 @@ function App() {
   const [showClock, setShowClock] = useState(true);
 
   return (
-    <div className="app">
-      <h1>React hooks - Clock</h1>
+    <div className='app'>
+      <MagicBox />
 
-      {/* <MagicBox /> */}
-
-      {/* <ColorBox /> */}
+      <ColorBox />
 
       <TodoList todos={todoList} onTodoClick={handleTodoClick} />
 
-      {/* {showClock && <Clock />} */}
-      {/* <BetterClock /> */}
-      {/* <button onClick={() => setShowClock(false)}>Hide clock</button> */}
+      <TodoForm onSubmit={handleTodoFormSubmit} />
 
-      {/* <TodoForm onSubmit={handleTodoFormSubmit} /> */}
+      {showClock && <Clock />}
+      <BetterClock />
+      <button
+        onClick={() => setShowClock(showClock === false ? true : false)}
+      >
+        Hide clock
+      </button>
 
-      {/* <PostFiltersForm onSubmit={handleFiltersChange} />
+      <h1>PostList</h1>
+      <PostFiltersForm onSubmit={handleFiltersChange} />
+
       <PostList posts={postList} />
       <Pagination
         pagination={pagination}
         onPageChange={handlePageChange}
-      /> */}
+      />
     </div>
   );
 }

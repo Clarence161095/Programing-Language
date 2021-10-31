@@ -1,10 +1,13 @@
+import { Container } from 'reactstrap';
 import './App.css';
-import Form from './Organisms/Form';
+import FormReactstrap from './Organisms/Form-Reactstrap';
 
 function App() {
-  return (
-    <Form/>
-  );
+	return (
+		<Container className='main-app'>
+			<FormReactstrap />
+		</Container>
+	);
 }
 
 export default App;

@@ -1,28 +1,40 @@
+import { yupResolver } from '@hookform/resolvers/yup';
 import React from 'react';
 import { useForm } from 'react-hook-form';
-import FormInput from '../../Molecules/FormInput';
+import * as yup from 'yup';
+import FormController from '../../Molecules/Form-Controller';
 
-Form.propTypes = {};
+FormReactstrap.propTypes = {};
 
-function Form(props) {
-  const {
-    register,
-    handleSubmit,
-    formState: { errors },
-  } = useForm();
-  const onSubmit = (data) => console.log(data);
+const validateSchema = yup.object().shape({
+	TestNameController: yup
+		.string()
+		.required()
+		.matches(/[a-z]+/i, 'This is not a number'),
+});
 
-  return (
-    <form onSubmit={handleSubmit(onSubmit)}>
-      <FormInput
-        label='FormInput'
-        register={register}
-        required={true}
-        errors={{ errors: errors, warning: 'This field is required.' }}
-      />
-      <input type='submit' />
-    </form>
-  );
+function FormReactstrap(props) {
+	const { control, handleSubmit } = useForm({
+		resolver: yupResolver(validateSchema),
+	});
+	const onSubmit = (data) => console.log(data);
+
+	return (
+		<form onSubmit={handleSubmit(onSubmit)}>
+			<FormController
+				control={control}
+				name='TestNameController'
+				label='Form Controller Input'
+				defaultValue=''
+				input={{
+					type: 'text',
+				}}
+				required={true}
+				helpText='This field is required.'
+			/>
+			<input type='submit' />
+		</form>
+	);
 }
 
-export default Form;
+export default FormReactstrap;

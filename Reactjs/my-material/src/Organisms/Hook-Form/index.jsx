@@ -2,9 +2,9 @@ import { yupResolver } from '@hookform/resolvers/yup';
 import React from 'react';
 import { useForm } from 'react-hook-form';
 import * as yup from 'yup';
-import FormController from '../../Molecules/Form-Controller';
+import HookFormController from '../../Molecules/Hook-Form-Controller';
 
-FormReactstrap.propTypes = {};
+HookForm.propTypes = {};
 
 const validateSchema = yup.object().shape({
 	TestNameController: yup
@@ -13,7 +13,7 @@ const validateSchema = yup.object().shape({
 		.matches(/[a-z]+/i, 'This is not a number'),
 });
 
-function FormReactstrap(props) {
+function HookForm(props) {
 	const { control, handleSubmit } = useForm({
 		resolver: yupResolver(validateSchema),
 	});
@@ -21,20 +21,20 @@ function FormReactstrap(props) {
 
 	return (
 		<form onSubmit={handleSubmit(onSubmit)}>
-			<FormController
+			<HookFormController
 				control={control}
-				name='TestNameController'
-				label='Form Controller Input'
-				defaultValue=''
 				input={{
+					name: 'TestNameController',
+					label: 'Form Controller Input',
 					type: 'text',
+					default_value: '',
+					required: true,
+					help_text: 'This field is required.',
 				}}
-				required={true}
-				helpText='This field is required.'
 			/>
 			<input type='submit' />
 		</form>
 	);
 }
 
-export default FormReactstrap;
+export default HookForm;

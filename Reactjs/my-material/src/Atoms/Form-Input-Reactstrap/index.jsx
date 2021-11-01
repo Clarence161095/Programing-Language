@@ -8,35 +8,23 @@ import {
 	Label,
 } from 'reactstrap';
 
-FormInput.propTypes = {
+FormInputReactstrap.propTypes = {
 	field: PropTypes.object,
 	fieldState: PropTypes.object,
-	label: PropTypes.string,
 	input: PropTypes.object,
-	required: PropTypes.bool,
-	helpText: PropTypes.string,
 };
 
-FormInput.defaultProps = {
+FormInputReactstrap.defaultProps = {
 	field: null,
 	fieldState: null,
-	label: '',
 	input: {},
-	required: false,
-	helpText: '',
 };
 
-function FormInput(props) {
-	const {
-		field,
-		fieldState,
-		label,
-		input,
-		required,
-		helpText,
-	} = props;
+function FormInputReactstrap(props) {
+	const { field, fieldState, input } = props;
 	const { name } = field;
 	const { error, isTouched } = fieldState;
+	const { label, help_text } = input;
 	const showError = error?.message && isTouched;
 
 	return (
@@ -46,7 +34,6 @@ function FormInput(props) {
 				{...field}
 				id={name}
 				placeholder={label}
-				required={required}
 				invalid={showError}
 			/>
 			{label && <Label for={name}>{label}</Label>}
@@ -56,9 +43,9 @@ function FormInput(props) {
 				</FormFeedback>
 			)}
 
-			{helpText && <FormText>{helpText}</FormText>}
+			{help_text && <FormText>{help_text}</FormText>}
 		</FormGroup>
 	);
 }
 
-export default FormInput;
+export default FormInputReactstrap;

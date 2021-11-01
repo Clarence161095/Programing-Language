@@ -1,46 +1,37 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { Controller } from 'react-hook-form';
-import FormInput from '../../Atoms/Form-Input';
+import FormInput from '../../Atoms/Form-Input-Reactstrap';
 
-FormController.propTypes = {
+HookFormController.propTypes = {
 	control: PropTypes.object,
 	input: PropTypes.object,
 };
 
-FormController.defaultValue = {
+HookFormController.defaultValue = {
 	control: null,
 	input: null,
 };
 
-function FormController(props) {
-	const {
-		control,
-		name,
-		defaultValue,
-		label,
-		input,
-		required,
-		helpText,
-	} = props;
+function HookFormController(props) {
+	const { control, input } = props;
+
+	const { name, default_value } = input;
 
 	return (
 		<Controller
 			name={name}
 			control={control}
-			defaultValue={defaultValue}
+			defaultValue={default_value}
 			render={({ field, fieldState }) => (
 				<FormInput
 					field={field}
 					fieldState={fieldState}
-					label={label}
 					input={{ ...input }}
-					required={required}
-					helpText={helpText}
 				/>
 			)}
 		/>
 	);
 }
 
-export default FormController;
+export default HookFormController;

@@ -1,7 +1,7 @@
 import React from 'react';
 import { useRecoilValue } from 'recoil';
 import { menuState } from './menuState';
-import './style.scss'
+import './style.scss';
 
 function TopMenu() {
   const menu = useRecoilValue(menuState)

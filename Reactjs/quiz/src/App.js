@@ -1,23 +1,19 @@
 import {
-  BrowserRouter as Router, Route, Switch
+  BrowserRouter as Router
 } from "react-router-dom";
 import './App.css';
-import Home from './pages/home';
-import TopMenu from './shared/top-menu';
+import Login from "./pages/login/login";
+import AppRouter from "./shared/store/menu_state";
+import TopMenu from './shared/top_menu/top_menu';
 
 
 function App() {
   return (
     <Router>
       <TopMenu />
+      <Login />
 
-      <Switch>
-
-        <Route path="/Home">
-          <Home />
-        </Route>
-
-      </Switch>
+      <AppRouter />
     </Router>
   );
 }

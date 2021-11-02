@@ -1,0 +1,35 @@
+.login {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: flex-start;
+  width: 100%;
+
+  div {
+    padding: 0px;
+    padding-left: 5px;
+    max-width: 250px;
+  }
+
+  img.avatar {
+    padding: 5px;
+    width: 60px;
+    border-radius: 50%;
+  }
+
+  p {
+    font-size: 15px;
+  }
+
+  &_logout {
+    margin-left: 5px;
+    cursor: pointer;
+    border: none;
+
+    &:hover {
+      color: #e67e22;
+    }
+  }
+}

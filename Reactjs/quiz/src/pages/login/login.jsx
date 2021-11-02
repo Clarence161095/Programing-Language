@@ -3,6 +3,7 @@ import 'firebase/auth';
 import { useEffect } from 'react';
 import StyledFirebaseAuth from 'react-firebaseui/StyledFirebaseAuth';
 import local from '../../shared/store/local_storage';
+import './login.scss';
 
 // Configure Firebase.
 const config = {
@@ -18,14 +19,13 @@ const uiConfig = {
   signInSuccessUrl: '/Login',
   signInOptions: [
     firebase.auth.GoogleAuthProvider.PROVIDER_ID,
-    firebase.auth.FacebookAuthProvider.PROVIDER_ID
   ],
 };
 
 
 function Login(props) {
   const token = localStorage.getItem('token')
-  const user = localStorage.getItem('user')
+  const user = local.getJSON('user')
 
   // Listen to the Firebase Auth state and set the local state.
   useEffect(() => {
@@ -51,16 +51,18 @@ function Login(props) {
   if (token === '' || user === '' || !user || !token) {
     return (
       <div className='login'>
-        <p>Please sign-in:</p>
-        <StyledFirebaseAuth uiConfig={uiConfig} firebaseAuth={firebase.auth()} />
+        <div>
+          <StyledFirebaseAuth uiConfig={uiConfig} firebaseAuth={firebase.auth()} />
+        </div>
       </div>
     );
   }
 
   return (
     <div className='login'>
-      <p>Welcome {JSON.parse(user)?.displayName}!</p>
-      <button onClick={logout}>Sign-out</button>
+      <img className='avatar' src={user?.photoURL} alt={user?.displayName} />
+      <p>{user?.displayName}!</p>
+      <button className='login_logout' onClick={logout}>Sign-out</button>
     </div>
   );
 }

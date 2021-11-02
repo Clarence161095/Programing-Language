@@ -6,7 +6,11 @@ import './top_menu.scss';
 function TopMenu() {
   const menu = useRecoilValue(menuState)
 
-  const createItem = ({ href, text }) => (<li key={href}><a href={href}>{text}</a></li>)
+  const createItem = ({ href, text }) => (
+    <li key={href}>
+      <a href={href}>{text}</a>
+    </li>
+  )
 
   return (
     <div>

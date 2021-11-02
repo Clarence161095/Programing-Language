@@ -261,3 +261,36 @@ body {
     font-size: 8vh;
   }
 }
+
+// dive href
+.nav ul li div {
+  font-family: "Montserrat", sans-serif;
+  font-size: 9vh;
+  text-transform: uppercase;
+  line-height: 1.2;
+  font-weight: 800;
+  display: inline-block;
+  position: relative;
+  color: #ececee;
+  transition: all 250ms linear;
+}
+.nav ul li div:hover {
+  text-decoration: none;
+  color: rgb(241, 196, 15);
+}
+.nav ul li div:after {
+  display: block;
+  position: absolute;
+  top: 29%;
+  content: "";
+  height: 6.6vh;
+  margin-top: -1vh;
+  width: 0;
+  left: 0;
+  background-color: rgb(236, 240, 241, 0.2);
+  opacity: 0.8;
+  transition: width 250ms linear;
+}
+.nav ul li div:hover:after {
+  width: 100%;
+}

@@ -10,6 +10,13 @@ const local = (
       },
       setUser(user) {
         localStorage.setItem('user', JSON.stringify(user));
+      },
+      getJSON(name) {
+        if (localStorage.getItem(name)) {
+          return JSON.parse(localStorage.getItem(name))
+        } else {
+          return ''
+        }
       }
     }
   })();

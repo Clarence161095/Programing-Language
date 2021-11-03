@@ -1,22 +1,20 @@
 import { yupResolver } from '@hookform/resolvers/yup';
 import { unwrapResult } from '@reduxjs/toolkit';
-import { login } from 'app/slice/UserSlice';
 import FormInput from 'components/atoms/form-input/FormInput';
 import React, { useState } from 'react';
 import { useForm } from 'react-hook-form';
 import { useDispatch } from 'react-redux';
 import { useHistory } from 'react-router';
+import { login } from 'store/slice/UserSlice';
 import * as yup from 'yup';
 import './Login.scss';
-
-Login.propTypes = {};
 
 const SignupSchema = yup.object().shape({
   mail: yup.string().required().email(),
   password: yup.string().required(),
 });
 
-function Login(props) {
+function Login() {
   const dispatch = useDispatch();
   const history = useHistory();
   const [errorLogin, setErrorLogin] = useState('')

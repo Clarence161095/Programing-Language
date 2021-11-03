@@ -1,4 +1,5 @@
-import UserApi from "api/UserAPI";
+import UserApi from "api/UserApi";
+import LocalStorageService from "utils/LocalStorageService";
 
 const { createSlice, createAsyncThunk } = require("@reduxjs/toolkit");
 
@@ -29,7 +30,8 @@ const userSlice = createSlice({
     [login.fulfilled]: (state, action) => {
       state.loading = false;
       state.current = action.payload;
-      localStorage.setItem('user', JSON.stringify(state.current));
+      LocalStorageService.setUser(state.current)
+      LocalStorageService.setToken(state.current.token)
     }
   }
 });

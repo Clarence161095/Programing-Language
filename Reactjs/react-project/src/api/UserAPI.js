@@ -2,7 +2,7 @@ import { ERROR_MESSAGE, login } from "constants/global";
 
 const UserApi = {
   login: ({ username, password }) => {
-    // Mock Call API
+    // Mock Call API #TODO
     return new Promise((resolve, reject) => {
 
       setTimeout(() => {

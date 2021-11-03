@@ -23,13 +23,23 @@
     font-size: 15px;
   }
 
-  &_logout {
-    margin-left: 5px;
+  .sign_out {
+    margin-left: 10px;
+    width: 35px;
     cursor: pointer;
     border: none;
 
     &:hover {
-      color: #e67e22;
+      border-radius: 50%;
+      width: 36px;
+      box-shadow: 0px 0px 6px 3px #999999;
     }
+  }
+
+  .sign_out_tooltip {
+    margin: 0;
+    padding: 0;
+    width: 80px;
+    text-align: center;
   }
 }

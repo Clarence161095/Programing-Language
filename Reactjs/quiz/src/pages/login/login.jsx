@@ -2,8 +2,12 @@ import firebase from 'firebase/app';
 import 'firebase/auth';
 import { useEffect } from 'react';
 import StyledFirebaseAuth from 'react-firebaseui/StyledFirebaseAuth';
+import powerImg from '../../asset/images/login/power-button.png';
 import local from '../../shared/store/local_storage';
 import './login.scss';
+import ReactTooltip from "react-tooltip";
+import { useSetRecoilState } from 'recoil';
+import { loginState } from '../../shared/store/login_state';
 
 // Configure Firebase.
 const config = {
@@ -24,6 +28,7 @@ const uiConfig = {
 
 
 function Login(props) {
+  const setLoginState = useSetRecoilState(loginState)
   const token = localStorage.getItem('token')
   const user = local.getJSON('user')
 
@@ -38,17 +43,21 @@ function Login(props) {
 
       local.setUser(user);
       local.setToken(await user.getIdToken());
+      setLoginState(local.getJSON('user'));
     });
     return () => unregisterAuthObserver();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const logout = () => {
-    firebase.auth().signOut()
-    local.resetLogin()
-    window.location.reload();
+    if (window.confirm("Do you want to log out?")) {
+      firebase.auth().signOut()
+      local.resetLogin()
+      window.location.reload();
+    }
   }
 
-  if (token === '' || user === '' || !user || !token) {
+  if (token === '' || user === {} || !user || !token) {
     return (
       <div className='login'>
         <div>
@@ -62,7 +71,8 @@ function Login(props) {
     <div className='login'>
       <img className='avatar' src={user?.photoURL} alt={user?.displayName} />
       <p>{user?.displayName}!</p>
-      <button className='login_logout' onClick={logout}>Sign-out</button>
+      <img className='sign_out' src={powerImg} alt='Sign-out' onClick={logout} data-tip="Sign-out" />
+      <ReactTooltip className='sign_out_tooltip' place="bottom" type="error" effect="solid" />
     </div>
   );
 }

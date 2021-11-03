@@ -15,7 +15,7 @@ const local = (
         if (localStorage.getItem(name)) {
           return JSON.parse(localStorage.getItem(name))
         } else {
-          return ''
+          return {}
         }
       }
     }

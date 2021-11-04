@@ -6,20 +6,20 @@ NotFound.propTypes = {};
 
 function NotFound() {
   return (
-    <div className="not-found">
-      <div className="face">
-        <div className="band">
-          <div className="red"></div>
-          <div className="white"></div>
-          <div className="blue"></div>
-        </div>
-        <div className="eyes"></div>
-        <div className="dimples"></div>
-        <div className="mouth"></div>
+    <div className='not-found'>
+      <div className='four_zero_four_bg'>
+        <h1 className='text-center '>404</h1>
       </div>
-
-      <h1>Oops! Something went wrong! Page not found!</h1>
-      <div className="btn" onClick={() => window.location.href = '/dashboard'}>Return to Home</div>
+      <div className='content_box_404'>
+        <h3 className='h2'>Look like you're lost</h3>
+        <p>the page you are looking for is not available!</p>
+        <a
+          href='#'
+          className='link_404'
+          onClick={() => (window.location.href = './dashboard')}>
+          Go to Home
+        </a>
+      </div>
     </div>
   );
 }

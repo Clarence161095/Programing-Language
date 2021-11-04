@@ -1,5 +1,4 @@
 import NotFound from 'components/not-found/NotFound';
-import Analytics from 'features/analytics/Analytics';
 import Dashboard from 'features/dashboard/Dashboard';
 import Login from 'features/login/Login';
 import React from 'react';
@@ -15,10 +14,6 @@ function InsideRouter() {
 
         <Route path="/dashboard">
           <Dashboard />
-        </Route>
-
-        <Route path="/analytics">
-          <Analytics />
         </Route>
 
         <Route path="/login">

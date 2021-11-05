@@ -1,14 +1,13 @@
+/* eslint-disable no-loop-func */
 /* eslint-disable no-undef */
-$( document ).ready(function() {
+$(document).ready(function () {
 
     // Sidebar Menu
-
     setTimeout(function () {
         $(".vertical-nav-menu").metisMenu();
     }, 100);
 
     // Search wrapper trigger
-
     $('.search-icon').click(function () {
         $(this).parent().parent().addClass('active');
     });
@@ -18,7 +17,6 @@ $( document ).ready(function() {
     });
 
     // BS4 Popover
-
     $('[data-toggle="popover-custom-content"]').each(function (i, obj) {
 
         $(this).popover({
@@ -34,7 +32,6 @@ $( document ).ready(function() {
     });
 
     // Stop Bootstrap 4 Dropdown for closing on click inside
-
     $('.dropdown-menu').on('click', function (event) {
         var events = $._data(document, 'events') || {};
         events = events.click || [];
@@ -98,7 +95,6 @@ $( document ).ready(function() {
     });
 
     // BS4 Tooltips
-
     $(function () {
         $('[data-toggle="tooltip"]').tooltip();
     });
@@ -110,7 +106,6 @@ $( document ).ready(function() {
     });
 
     // Drawer
-
     $('.open-right-drawer').click(function () {
         $(this).addClass('is-active');
         $('.app-drawer-wrapper').addClass('drawer-open');
@@ -145,14 +140,12 @@ $( document ).ready(function() {
     });
 
     // Responsive
-
-    $(window).on('resize', function(){
+    $(window).on('resize', function () {
         var win = $(this);
         if (win.width() < 1250) {
             $('.app-container').addClass('closed-sidebar-mobile closed-sidebar');
         }
-        else
-        {
+        else {
             $('.app-container').removeClass('closed-sidebar-mobile closed-sidebar');
         }
     });

@@ -1,3 +1,5 @@
+/* eslint-disable eqeqeq */
+/* eslint-disable no-undef */
 // Demo Theme Options
 
 $(function () {

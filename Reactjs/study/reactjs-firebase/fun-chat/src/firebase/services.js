@@ -1,13 +1,12 @@
-import { addDoc, collection, getFirestore } from "firebase/firestore";
+import firebase, { db } from './config';
 
-export const addDocument = async (collection_name, data) => {
-  try {
-    const docRef = await addDoc(collection(getFirestore(), "collection_name"), ...data);
+export const addDocument = (collection, data) => {
+  const query = db.collection(collection);
 
-    console.log("Document written with ID: ", docRef.id);
-  } catch (e) {
-    console.error("Error adding document: ", e);
-  }
+  query.add({
+    ...data,
+    createdAt: firebase.firestore.FieldValue.serverTimestamp(),
+  });
 };
 
 // tao keywords cho displayName, su dung cho search

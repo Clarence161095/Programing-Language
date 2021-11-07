@@ -1,18 +1,16 @@
 import React from 'react';
 import { Row, Col, Button, Typography } from 'antd';
-import { signInWithPopup } from "firebase/auth";
-import { FacebookAuthProvider, GoogleAuthProvider } from "firebase/auth";
+import firebase, { auth } from '../../firebase/config';
 import { addDocument, generateKeywords } from '../../firebase/services';
 
 const { Title } = Typography;
 
-
-const fbProvider = new FacebookAuthProvider();
-const googleProvider = new GoogleAuthProvider();
+const fbProvider = new firebase.auth.FacebookAuthProvider();
+const googleProvider = new firebase.auth.GoogleAuthProvider();
 
 export default function Login() {
   const handleLogin = async (provider) => {
-    const { additionalUserInfo, user } = await signInWithPopup(provider);
+    const { additionalUserInfo, user } = await auth.signInWithPopup(provider);
 
     if (additionalUserInfo?.isNewUser) {
       addDocument('users', {

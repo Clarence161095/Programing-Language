@@ -2,7 +2,7 @@ import React, { useContext, useState } from 'react';
 import { Form, Modal, Select, Spin, Avatar } from 'antd';
 import { AppContext } from '../../Context/AppProvider';
 import { debounce } from 'lodash';
-import { collection } from "firebase/firestore";
+import { db } from '../../firebase/config';
 
 function DebounceSelect({
   fetchOptions,
@@ -57,7 +57,8 @@ function DebounceSelect({
 }
 
 async function fetchUserList(search, curMembers) {
-  return collection('users')
+  return db
+    .collection('users')
     .where('keywords', 'array-contains', search?.toLowerCase())
     .orderBy('displayName')
     .limit(20)
@@ -89,7 +90,7 @@ export default function InviteMemberModal() {
     setValue([]);
 
     // update members in current room
-    const roomRef = collection('rooms').doc(selectedRoomId);
+    const roomRef = db.collection('rooms').doc(selectedRoomId);
 
     roomRef.update({
       members: [...selectedRoom.members, ...value.map((val) => val.value)],

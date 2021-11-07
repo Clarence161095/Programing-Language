@@ -1,12 +1,11 @@
 import React, { useState } from 'react';
-import { collection, getFirestore } from "firebase/firestore";
+import { db } from '../firebase/config';
 
-const useFirestore = (collection_name, condition) => {
+const useFirestore = (collection, condition) => {
   const [documents, setDocuments] = useState([]);
 
   React.useEffect(() => {
-    // let collectionRef = collection(collection_name).orderBy('createdAt');
-    let collectionRef = collection(getFirestore(), "collection_name")
+    let collectionRef = db.collection(collection).orderBy('createdAt');
     if (condition) {
       if (!condition.compareValue || !condition.compareValue.length) {
         // reset documents data
@@ -31,7 +30,7 @@ const useFirestore = (collection_name, condition) => {
     });
 
     return unsubscribe;
-  }, [collection_name, condition]);
+  }, [collection, condition]);
 
   return documents;
 };

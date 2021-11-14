@@ -1,0 +1,13 @@
+version: "3"
+services:
+  firebase_emulator:
+    image: andreysenov/firebase-tools
+    restart: always
+    volumes:
+    - .:/home/node
+    command: firebase emulators:start
+    ports:
+      - "4000:4000"
+      - "9005:9005"
+      - "9099:9099"
+      - "8080:8080"

@@ -1,0 +1,69 @@
+version: "3"
+services:
+  front_end:
+    depends_on:
+      - back_end
+    restart: always
+    build:
+      context: .
+      dockerfile: ./front_end/Dockerfile
+    ports:
+      - 80:3000
+    volumes:
+      - ./front_end/src:/front_end/src
+    networks:
+      - network
+
+  back_end:
+    depends_on:
+      - db
+    restart: always
+    build:
+      context: .
+      dockerfile: ./back_end/Dockerfile
+    ports:
+      - 9000:9000
+    environment:
+      - DB_URL=mongodb://tuan200:password200@db_mongo_quiz
+      - PORT=9000
+    volumes:
+      - ./back_end/controllers:/back_end/controllers
+      - ./back_end/models:/back_end/models
+      - ./back_end/routers:/back_end/routers
+      - ./back_end/utils:/back_end/utils
+      - ./back_end/index.js:/back_end/index.js
+    networks:
+      - network
+  
+  db:
+    image: mongo:5
+    container_name: db_mongo_quiz
+    restart: always
+    volumes:
+      - ./db/mongo:/data/db
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=tuan200
+      - MONGO_INITDB_ROOT_PASSWORD=password200
+    ports:
+      - "27017:27017"
+    networks:
+      - network
+  
+  # Firebase localhost
+  # firebase_emulator:
+  #   image: andreysenov/firebase-tools
+  #   restart: always
+  #   volumes:
+  #   - ./firebase_emulator:/home/node
+  #   command: firebase emulators:start
+  #   ports:
+  #     - "4000:4000"
+  #     - "9005:9005"
+  #     - "9099:9099"
+  #     - "8080:8080"
+  #   networks:
+  #     - network
+
+networks:
+  network:
+    driver: bridge

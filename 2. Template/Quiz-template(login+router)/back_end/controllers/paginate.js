@@ -8,27 +8,25 @@ export const getPagination = async (req, res) => {
     const options = {
       page: page || 1,
       limit: limit || 10,
-    }
+    };
 
     let myAggregate;
 
     // Sort
     if (order && field) {
-      const operatorSort = {}
-      operatorSort[field] = order === 'ascend' ? 'asc' : 'desc'
+      const operatorSort = {};
+      operatorSort[field] = order === 'ascend' ? 'asc' : 'desc';
       if (keySearch) {
         const searchRgx = new RegExp(`.*${keySearch}.*`);
         myAggregate = PaginateModel.aggregate([
           {
-            $match:
-            {
-              $or:
-                [
-                  { name: { $regex: searchRgx, $options: "i" } },
-                  { email: { $regex: searchRgx, $options: "i" } }
-                ]
-            }
-          }
+            $match: {
+              $or: [
+                { name: { $regex: searchRgx, $options: 'i' } },
+                { email: { $regex: searchRgx, $options: 'i' } },
+              ],
+            },
+          },
         ]).sort(operatorSort);
       } else {
         myAggregate = PaginateModel.aggregate().sort(operatorSort);
@@ -38,16 +36,14 @@ export const getPagination = async (req, res) => {
         const searchRgx = new RegExp(`.*${keySearch}.*`);
         myAggregate = PaginateModel.aggregate([
           {
-            $match:
-            {
-              $or:
-                [
-                  { name: { $regex: searchRgx, $options: "i" } },
-                  { email: { $regex: searchRgx, $options: "i" } }
-                ]
-            }
-          }
-        ])
+            $match: {
+              $or: [
+                { name: { $regex: searchRgx, $options: 'i' } },
+                { email: { $regex: searchRgx, $options: 'i' } },
+              ],
+            },
+          },
+        ]);
       } else {
         myAggregate = PaginateModel.aggregate();
       }
@@ -60,9 +56,11 @@ export const getPagination = async (req, res) => {
       .catch(function (err) {
         console.log(err);
       });
-
   } catch (error) {
-    console.log("🚀 ~ file: paginate.js ~ line 53 ~ getPagination ~ error", error)
+    console.log(
+      '🚀 ~ file: paginate.js ~ line 53 ~ getPagination ~ error',
+      error,
+    );
     res.status(500).json({ error: err });
   }
-}
+};

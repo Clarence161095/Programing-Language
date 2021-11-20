@@ -2,28 +2,28 @@
 import { Input, Table } from 'antd';
 import useInputText from 'hooks/useInputTex';
 import React, { useEffect, useState } from 'react';
-import './TablePaginate.scss'
+import './TablePaginate.scss';
 
 const stateInitializer = {
   data: [],
   pagination: {},
   loading: false,
-}
+};
 
 const scroll = {
   x: 'true',
   y: '100%',
-}
+};
 
 function TablePaginate({ columns, fetchApi, keyRecord }: any) {
-  const [state, setState] = useState(stateInitializer)
-  const keySearch = useInputText('')
-  const [params, setParams] = useState({})
+  const [state, setState] = useState(stateInitializer);
+  const keySearch = useInputText('');
+  const [params, setParams] = useState({});
   const { data, pagination, loading } = state;
 
   const fetch = async (params: any = null) => {
-    setState({ ...state, loading: true })
-    const dataFromDB = await fetchApi(params ? params : { ...params })
+    setState({ ...state, loading: true });
+    const dataFromDB = await fetchApi(params ? params : { ...params });
     if (dataFromDB) {
       setState({
         loading: false,
@@ -35,14 +35,14 @@ function TablePaginate({ columns, fetchApi, keyRecord }: any) {
           showQuickJumper: true,
           showSizeChanger: true,
           position: ['bottomRight'],
-        }
-      })
+        },
+      });
     }
-  }
+  };
 
   useEffect(() => {
-    fetch({ ...params })
-  }, [params])
+    fetch({ ...params });
+  }, [params]);
 
   const handleTableChange = (pagination: any, filters: any, sorter: any) => {
     setParams({
@@ -52,24 +52,31 @@ function TablePaginate({ columns, fetchApi, keyRecord }: any) {
       order: sorter['order'] ? sorter['order'] : null,
       field: sorter['field'] ? sorter['field'] : keyRecord,
       keySearch: keySearch.value,
-    })
-  }
+    });
+  };
 
   const handleSearch = (value: any) => {
     setParams({
       ...params,
       keySearch: keySearch.value,
-    })
-  }
+    });
+  };
 
   return (
-    <div className="tablePaginate">
+    <div className='tablePaginate'>
       <Table
         columns={columns}
-        title={() =>
-          <Input.Search value={keySearch.value} onChange={keySearch.onChange} placeholder="Search or filter by the key...." loading={loading} size="large" onSearch={handleSearch} />
-        }
-        rowKey={record => record[keyRecord]}
+        title={() => (
+          <Input.Search
+            value={keySearch.value}
+            onChange={keySearch.onChange}
+            placeholder='Search or filter by the key....'
+            loading={loading}
+            size='large'
+            onSearch={handleSearch}
+          />
+        )}
+        rowKey={(record) => record[keyRecord]}
         dataSource={data}
         pagination={pagination}
         loading={loading}

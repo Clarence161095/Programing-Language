@@ -1,6 +1,6 @@
-import CurrentUser from '../cache/users.js';
+import { getUserCache } from '../cache/appCache.js';
 import { ERRORS } from '../common/constant.js';
-import auth, { getUserFromToken } from '../common/firebase.js'
+import { getUserFromToken } from '../common/firebase.js';
 
 const Role = {
   isAdmin: async (req, res, next) => {
@@ -12,19 +12,19 @@ const Role = {
         return;
       }
 
-      const userFromToken = await getUserFromToken(token)
+      const userFromToken = await getUserFromToken(token);
       if (!userFromToken) {
         res.status(498).json({ error: ERRORS['498'] });
       }
 
-      const { role } = await CurrentUser.getUser({ uid: userFromToken['uid'] });
+      const { role } = await getUserCache(userFromToken['uid']);
       if (role === 'admin') {
         next();
       } else {
         res.status(498).json({ error: ERRORS['498'] });
       }
     } catch (error) {
-      console.log(`error`, error)
+      console.log(`error`, error);
       res.status(498).json({ error: ERRORS['498'] });
     }
   },
@@ -37,19 +37,19 @@ const Role = {
         return;
       }
 
-      const userFromToken = await getUserFromToken(token)
+      const userFromToken = await getUserFromToken(token);
       if (!userFromToken) {
         res.status(498).json({ error: ERRORS['498'] });
       }
 
-      const { role } = await CurrentUser.getUser({ uid: userFromToken['uid'] });
+      const { role } = await getUserCache(userFromToken['uid']);
       if (role === 'admin' || role === 'plus') {
         next();
       } else {
         res.status(498).json({ error: ERRORS['498'] });
       }
     } catch (error) {
-      console.log(`error`, error)
+      console.log(`error`, error);
       res.status(498).json({ error: ERRORS['498'] });
     }
   },
@@ -62,22 +62,22 @@ const Role = {
         return;
       }
 
-      const userFromToken = await getUserFromToken(token)
+      const userFromToken = await getUserFromToken(token);
       if (!userFromToken) {
         res.status(498).json({ error: ERRORS['498'] });
       }
 
-      const { role } = await CurrentUser.getUser({ uid: userFromToken['uid'] });
+      const { role } = await getUserCache(userFromToken['uid']);
       if (role === 'admin' || role === 'plus' || role === 'normal') {
         next();
       } else {
         res.status(498).json({ error: ERRORS['498'] });
       }
     } catch (error) {
-      console.log(`error`, error)
+      console.log(`error`, error);
       res.status(498).json({ error: ERRORS['498'] });
     }
   },
-}
+};
 
 export default Role;

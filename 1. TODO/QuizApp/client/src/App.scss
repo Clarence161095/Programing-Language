@@ -1,0 +1,13 @@
+.app {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+
+  &-content {
+    background: #005c97;
+    background: -webkit-linear-gradient(to right, #363795, #005c97);
+    background: linear-gradient(to right, #363795, #005c97);
+    min-height: 100vh;
+    padding: 1% 1.5%;
+  }
+}

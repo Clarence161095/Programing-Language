@@ -1,0 +1,9 @@
+.sider_menu {
+  &-logout {
+    &:hover {
+      transform: scale(1.5);
+      color: rgba(231, 76, 60, 1);
+      cursor: pointer;
+    }
+  }
+}

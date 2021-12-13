@@ -1,0 +1,11 @@
+{
+  "name": "flash_card",
+  "version": "1.0.0",
+  "description": "Flash Card Application",
+  "main": "index.js",
+  "author": "Tuan200",
+  "license": "MIT",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.41"
+  }
+}

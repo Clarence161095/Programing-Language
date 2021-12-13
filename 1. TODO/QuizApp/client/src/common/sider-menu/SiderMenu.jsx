@@ -1,5 +1,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import {
+  CodepenCircleOutlined,
   CommentOutlined,
   HomeOutlined,
   LogoutOutlined,
@@ -57,6 +58,12 @@ function SiderMenu() {
           title: 'Create Room',
           icon: <VideoCameraAddOutlined />,
           content: () => navigate('/create_room'),
+        },
+        {
+          key: 'my_room',
+          title: 'My Room',
+          icon: <CodepenCircleOutlined />,
+          content: () => navigate('/my_room'),
         },
       ],
     },

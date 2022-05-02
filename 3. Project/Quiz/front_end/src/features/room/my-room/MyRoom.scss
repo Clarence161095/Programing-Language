@@ -1,0 +1,19 @@
+.my_room {
+	display: flex;
+	flex-direction: column;
+
+	&_video {
+		height: 200px;
+		width: 300px;
+		-webkit-transform: scaleX(-1);
+		transform: scaleX(-1);
+	}
+
+	&_video_canvas {
+		height: 200px;
+		width: 300px;
+		-webkit-transform: scaleX(-1);
+		transform: scaleX(-1);
+		border: solid 1px #ccc;
+	}
+}

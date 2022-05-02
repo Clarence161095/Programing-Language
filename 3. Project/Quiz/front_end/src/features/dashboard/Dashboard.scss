@@ -1,0 +1,163 @@
+.dashboard {
+	margin: 0;
+
+	min-width: 100vw;
+	width: 100%;
+	min-height: 100vh;
+	color: #fff;
+	font-weight: 400;
+
+	& &_desktop {
+		min-width: 100vw;
+		width: 100%;
+		min-height: 100vh;
+		color: #fff;
+		font-weight: 400;
+
+		&_logo {
+			font-family: 'Mochiy Pop One', sans-serif;
+			color: #fff;
+			margin: 15px !important;
+			padding: 5px !important;
+			white-space: nowrap;
+
+			&--mini {
+				white-space: nowrap;
+				font-family: 'Mochiy Pop One', sans-serif;
+				color: #fff;
+				margin: 5px 5px 5px 5px !important;
+				padding: 5px !important;
+			}
+		}
+
+		&_avatar {
+			display: flex;
+			flex-direction: column;
+			flex-wrap: wrap;
+			justify-content: flex-start;
+			align-items: center;
+			align-content: center;
+
+			&--single {
+				border-radius: 50%;
+				width: 40px;
+				max-width: 40px;
+				margin-bottom: 5px;
+				cursor: pointer;
+			}
+		}
+
+		&_buttonLogin {
+			margin-bottom: 5px;
+		}
+
+		&_login {
+			display: flex;
+			flex-direction: row;
+			flex-wrap: nowrap;
+			justify-content: center;
+			align-items: center;
+			align-content: center;
+
+			white-space: nowrap;
+			font-family: 'Mochiy Pop One', sans-serif;
+
+			&_info {
+				margin-left: 10px;
+				width: 100%;
+
+				img {
+					border-radius: 50%;
+					max-width: 40px;
+					cursor: pointer;
+				}
+
+				&_logout {
+					&:hover {
+						transform: scale(1.5);
+						color: rgba(231, 76, 60, 1);
+						cursor: pointer;
+					}
+				}
+			}
+
+			button {
+				min-width: 160px;
+			}
+		}
+	}
+
+	&_content {
+		background: #5c258d;
+		background: -webkit-linear-gradient(to right, #4389a2, #5c258d);
+		background: linear-gradient(to right, #4389a2, #5c258d);
+		min-height: 100vh;
+		padding: 1% 2% !important;
+	}
+
+	& &_mobile {
+		display: none !important;
+	}
+
+	@media only screen and (max-width: 768px) {
+		display: flex !important;
+		flex-direction: column !important;
+
+		.ant-layout-has-sider {
+			display: flex !important;
+			flex-direction: column !important;
+		}
+
+		& &_desktop {
+			display: none !important;
+		}
+
+		& &_mobile {
+			display: flex !important;
+			justify-content: space-between;
+			width: 100% !important;
+
+			.ant-layout-header {
+				padding: 0px 15px !important;
+			}
+
+			&_login {
+				float: left !important;
+				margin: 0px 10px 5px 15px;
+				max-width: 50px !important;
+
+				&_info img {
+					border-radius: 50%;
+					max-width: 60px;
+					padding-top: 7px;
+
+					&:hover {
+						cursor: pointer;
+					}
+				}
+			}
+
+			&_logo {
+				text-align: center;
+				float: left !important;
+
+				font-family: 'Mochiy Pop One', sans-serif;
+				color: #fff;
+				margin: 5px 0 !important;
+				padding: 5px 0 !important;
+			}
+		}
+
+		&_content {
+			display: flex;
+			flex-direction: column;
+			min-width: 100vw;
+
+			background: #5c258d;
+			background: -webkit-linear-gradient(to right, #4389a2, #5c258d);
+			background: linear-gradient(to right, #4389a2, #5c258d);
+			min-height: 100vh;
+			padding: 2% 2% !important;
+		}
+	}
+}

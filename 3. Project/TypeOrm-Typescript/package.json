@@ -1,0 +1,30 @@
+{
+  "name": "MyProject",
+  "version": "0.0.1",
+  "description": "Awesome project developed with TypeORM.",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^16.11.10",
+    "morgan": "^1.10.0",
+    "prettier": "^2.6.2",
+    "ts-node": "10.7.0",
+    "typescript": "4.5.2"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "firebase-admin": "^10.1.0",
+    "helmet": "^5.0.2",
+    "lodash": "^4.17.21",
+    "node-cache": "^5.1.2",
+    "nodemon": "^2.0.15",
+    "pg": "^8.4.0",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "0.3.6"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "dev": "node --loader ts-node src/index.ts",
+    "typeorm": "typeorm-ts-node-commonjs"
+  }
+}

@@ -33097,7 +33097,8 @@ const POKEMON_TYPES = [
   },
 ];
 
-const POKEMON_FULL_INFO = []
+const POKEMON_FULL_INFO_LIST = []
+const POKEMON_FULL_INFO_OBJECT = {}
 const main = () => {
 
   const getType = (listType) => {
@@ -33154,13 +33155,18 @@ const main = () => {
       _pokemon.evos = info[0].evos;
       _pokemon.atk_effectives = getType(_pokemon.types);
       console.log(_pokemon);
-      POKEMON_FULL_INFO.push(_pokemon)
+      POKEMON_FULL_INFO_LIST.push(_pokemon)
+      POKEMON_FULL_INFO_OBJECT[`${_pokemon.id}`] = _pokemon
+      POKEMON_FULL_INFO_OBJECT[`${_pokemon.name}`] = _pokemon
     }
     
   })
 
   fs = require('fs');
-  fs.writeFileSync("pokemon.json", JSON.stringify(POKEMON_FULL_INFO));
+  fs.writeFileSync("pokemon.json", JSON.stringify({
+    list: POKEMON_FULL_INFO_LIST,
+    object: POKEMON_FULL_INFO_OBJECT
+  }));
 };
 main()
 
